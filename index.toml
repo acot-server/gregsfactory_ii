@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".githooks/pre-commit"
-hash = "bd6cf4d4cd357bae2e05a230696222aa4e1f3f4b48d569d029d5884f988c76e8"
-
-[[files]]
 file = "config/gtceu.yaml"
 hash = "61d0e4b0d8d3698c7b3d604cf009fd6c4df788cf652da3e8353cc85338d8dbee"
 

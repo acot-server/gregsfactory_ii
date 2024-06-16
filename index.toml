@@ -232,6 +232,11 @@ hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
@@ -304,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "c0f7fea697c69a37393253ce83df26639b6e84c64874d470502869a6b5eaccde"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
 
 [[files]]
@@ -412,6 +422,11 @@ hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
+metafile = true
+
+[[files]]
 file = "mods/railcraft-reborn.pw.toml"
 hash = "1f36a1f45e40c49ec7f3306d75ec534b9bc25a307572a03a662d29e2be07c38c"
 metafile = true
@@ -509,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "7c3c1376dbd0289eb52b66817a2cc06e0dcb2b08f60e437a19be9f0495ae8b1e"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "71f06b7f212c5f5f52d54afc931a5a282a082ce5587466fd0cb492ca061b0d5d"
 metafile = true
 
 [[files]]

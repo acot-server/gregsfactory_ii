@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
+file = "mods/chicken-chunks.pw.toml"
+hash = "e7997b751492b24b09ed86c49160016f6245941e1e2f1ee71b04d69263896c54"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "0c6310af6351d8dff9b9f698ec477e5fdba8702626948101b032d54a666e82bc"
 metafile = true
@@ -129,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c011cedf1f29b16895af2f6bb513f0914380d5a24ac53cf84c5bc530d007c16c"
 metafile = true
 
 [[files]]
@@ -209,6 +219,16 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]

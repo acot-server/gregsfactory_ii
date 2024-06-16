@@ -1,0 +1,13 @@
+name = "Chicken Chunks"
+filename = "ChickenChunks-1.20.1-2.10.0.100-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JkvF271/versions/9XYNvXCn/ChickenChunks-1.20.1-2.10.0.100-universal.jar"
+hash-format = "sha1"
+hash = "cd73f17acc0467ecd4240e96aa780fd4ae8bfcd5"
+
+[update]
+[update.modrinth]
+mod-id = "2JkvF271"
+version = "9XYNvXCn"

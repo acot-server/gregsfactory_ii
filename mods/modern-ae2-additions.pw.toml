@@ -1,0 +1,13 @@
+name = "Modern AE2 Additions"
+filename = "mae2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5G4fpXXj/versions/XUe5YYt7/mae2-1.2.1.jar"
+hash-format = "sha1"
+hash = "8740f887ff2536a5e6c718292f7bde2b71888586"
+
+[update]
+[update.modrinth]
+mod-id = "5G4fpXXj"
+version = "XUe5YYt7"

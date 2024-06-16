@@ -1,0 +1,13 @@
+name = "Integrated Terminals"
+filename = "IntegratedTerminals-1.20.1-1.4.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/Gf0wVITQ/IntegratedTerminals-1.20.1-1.4.14.jar"
+hash-format = "sha1"
+hash = "62751e7c5eb9d344b0e3f1bc2ed5b6afcbcf55c3"
+
+[update]
+[update.modrinth]
+mod-id = "HmLJoQ1K"
+version = "Gf0wVITQ"

@@ -1,0 +1,13 @@
+name = "Re:Avaritia"
+filename = "Re-Avaritia-forged-1.20.1-1.3.7.3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QeB3NRC5/versions/85cagw89/Re-Avaritia-forged-1.20.1-1.3.7.3-all.jar"
+hash-format = "sha1"
+hash = "54acb8120ad7b13910ddb82368d3d3dd539cbd90"
+
+[update]
+[update.modrinth]
+mod-id = "QeB3NRC5"
+version = "85cagw89"

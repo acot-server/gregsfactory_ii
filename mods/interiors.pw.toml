@@ -1,0 +1,13 @@
+name = "Create: Interiors"
+filename = "interiors-0.5.3+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4Knci2k/versions/tTCNkCHu/interiors-0.5.3%2Bforge-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "39dea99f6284ab0046f750aa56a26ceac6104567"
+
+[update]
+[update.modrinth]
+mod-id = "r4Knci2k"
+version = "tTCNkCHu"

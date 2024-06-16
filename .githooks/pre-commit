@@ -1,2 +1,4 @@
 #!/bin/sh
-exec packwiz refresh
+packwiz refresh
+git add index.toml
+git add pack.toml

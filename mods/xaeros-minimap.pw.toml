@@ -11,3 +11,10 @@ hash = "efd26080924cf77a8e0b9f440e09c470e3285e70"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "zst4834Y"
+
+[option]
+optional = true
+default = true
+description = "Minimap component for the Xaero's Map\nFor use in combination with Xaero's World Map\n⚠ DO NOT USE WITH JOURNEY MAP ⚠"
+
+

@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.9.18-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/gQvJhjQf/journeymap-1.20.1-5.9.18-neoforge.jar"
+hash-format = "sha1"
+hash = "cccc91a8ab88e145b6358419ae8e52c7ce302d36"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "gQvJhjQf"
+
+[option]
+optional = true
+default = true
+description = "Journey Map Minimap\n⚠ DO NOT USE WITH XAERO'S WORLD MAP AND XAERO'S MINIMAP ⚠"

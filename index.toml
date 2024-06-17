@@ -52,6 +52,11 @@ hash = "79e1a74a8c28ec03bc60f4983231c28c0104e4f180f0086e3db4addd0c2cc5a4"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "9c63cd15639eb8bf581976828c7c0604ca58f210f1a895b87d36b0a618c143e0"
 metafile = true
@@ -217,6 +222,11 @@ hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+metafile = true
+
+[[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
@@ -229,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
@@ -294,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b4d8f52ac3e7bee8de9dff18d5dda00b23ae3a118778ab374e036ffdffd13f20"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "33dcb0c71203322078d96e899bf8d2d44876525875a9f9eb55316fa389e47cf9"
 metafile = true
 
 [[files]]
@@ -419,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+hash = "fac0d7d0e553575c2fcfbb054bdb0d7fdb51fdd5c5b5335baf28955fcd2f122e"
 metafile = true
 
 [[files]]
@@ -548,10 +573,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
+hash = "f3291d976cc0232a7b460c64aa0a3f05abe88385c30c3cb5c84ba87dde6a49ee"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+hash = "78399111bcbcfcd472c25a2c9207fb499c0472fccf56c72a68a27fe7b39939e1"
 metafile = true

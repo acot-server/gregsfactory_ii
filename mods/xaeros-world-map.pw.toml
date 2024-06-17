@@ -11,3 +11,8 @@ hash = "a7e0a8a5fc1e31bfff5fb733c51b361ffb1fb5da"
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "3t3qLyne"
+
+[option]
+optional = true
+default = true
+description = "World Map component for the Xaero's Map\nFor use in combination with Xaero's Minimap\n⚠ DO NOT USE WITH JOURNEY MAP ⚠"

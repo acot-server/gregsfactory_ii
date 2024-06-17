@@ -14,5 +14,5 @@ version = "gQvJhjQf"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Journey Map Minimap\n⚠ DO NOT USE WITH XAERO'S WORLD MAP AND XAERO'S MINIMAP ⚠"

@@ -27,6 +27,11 @@ hash = "81dcd4ae33c91916ca3b39df817995af92c3b89ec82fd1123b5e6afa30235902"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "9c71c4a0bfb53b0ee7164ea288e258e06b428f9abbdab2c8b7b4d86201086895"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
 metafile = true
@@ -232,6 +237,11 @@ hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "7a210f5b020288a1bd32e22e3f6e53bd3e2a6e8d3221fdff6fd3d5a037f6d9d0"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -313,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "33dcb0c71203322078d96e899bf8d2d44876525875a9f9eb55316fa389e47cf9"
+hash = "e03396686c2ac9155b0913e2a171d63e20c2be4ae3376edbd68b36aff108ffc2"
 metafile = true
 
 [[files]]
@@ -439,11 +449,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
-metafile = true
-
-[[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "fac0d7d0e553575c2fcfbb054bdb0d7fdb51fdd5c5b5335baf28955fcd2f122e"
 metafile = true
 
 [[files]]

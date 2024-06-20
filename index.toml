@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+hash = "10732d937971c70faa3f3708458b6088d6d28560f67e11da275f65757bfb66f6"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
+hash = "e4e7107718506a0ed56224ca1ea1dc0de79d40d68b37bee918d30bec35bd3cb8"
 metafile = true
 
 [[files]]

@@ -13,6 +13,10 @@ file = "kubejs/config/common.properties"
 hash = "9d3c45208421b2b5b7b24797610d302cb56666658d0450804e3dfef75fa0c45c"
 
 [[files]]
+file = "kubejs/server_scripts/anti_cheese_immersive.js"
+hash = "6863cca382fc50da59787f9a75146c37aea6033b68485b3bfcef5269dfaa36e0"
+
+[[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
 hash = "aabe1fea074f81edec4705d63bbcea0b1ee65576716ef0afa87c10519ddc7671"
 
@@ -77,6 +81,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "4535f8d40017b5be180adf3ceabe9a22d16e258d568985018f5de6977f020449"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
 metafile = true
@@ -119,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "0118dd1566b50a586223f714e6239c032c3e80aec997c9e9c4c68ed7aef32b46"
 metafile = true
 
 [[files]]
@@ -237,11 +251,6 @@ hash = "7a210f5b020288a1bd32e22e3f6e53bd3e2a6e8d3221fdff6fd3d5a037f6d9d0"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "3e6cd0338e376c0b84fbdbc7fed1b97637782087721c694a0bd6092694331c51"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -249,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
@@ -274,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/gtnn.pw.toml"
 hash = "b681c32c3ed8ffaa54c217f4c2515bf0d17cb7806a1c7fc9fffea2cf02c7fd55"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "ca70bbebd97964ddb0bce943232018e0c39a123a11fa8712d0ce78e226c76d26"
 metafile = true
 
 [[files]]
@@ -513,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]

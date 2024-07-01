@@ -77,6 +77,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "4535f8d40017b5be180adf3ceabe9a22d16e258d568985018f5de6977f020449"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "0118dd1566b50a586223f714e6239c032c3e80aec997c9e9c4c68ed7aef32b46"
 metafile = true
 
 [[files]]

@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "4535f8d40017b5be180adf3ceabe9a22d16e258d568985018f5de6977f020449"
+hash = "93865a9ee4674584b3df93d3089114aefa1cf3d06614c57957820ab565e9eeb6"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "0118dd1566b50a586223f714e6239c032c3e80aec997c9e9c4c68ed7aef32b46"
+hash = "17a166b10cee18d3e9a7d59e801e1f910ba94d86575cfabc25b67ecc4257bdd6"
 metafile = true
 
 [[files]]
@@ -233,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
 metafile = true
 
 [[files]]

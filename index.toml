@@ -5,20 +5,92 @@ file = "config/gtceu.yaml"
 hash = "61d0e4b0d8d3698c7b3d604cf009fd6c4df788cf652da3e8353cc85338d8dbee"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/gtceu/lang/en_us.json"
+hash = "c3b28edd0293e62ea7c2ac0ca00b8cdac6cf4c2db2a180c583fc53f45ad8a334"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter.png"
+hash = "38874e0b1c27ce0b1c4291ea4772a86f05f112c6c915836733995a6427863465"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter.png.mcmeta"
+hash = "0af0c009d8b58772ec619b4be032cb3a22148729d123a1170ceac220f36b679f"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_bloom.png"
+hash = "cd4a6b6196515f8d330dea359e7727f6549771cf089b4fc1c36345d07b8462bf"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_bloom.png.mcmeta"
+hash = "0b4d9da9699364a98374a482b38b0b5dfc31a102b81f20828546819565b9883e"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_bloom_ctm.png"
+hash = "d627b4b0bd98b1f90efcd7a4dcaee762cd6cab51483b344714b91f0be28cdea2"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_bloom_ctm.png.mcmeta"
+hash = "d35849f0d5ac47ae88f48ebb45dd5beb9f0bd01253f011ded748c27dc4a42737"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_ctm.png"
+hash = "f07fa41f2458fe6028ee939f925b573da7c14858f2853a5d23ab37621d9ee2e1"
+
+[[files]]
+file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter_ctm.png.mcmeta"
+hash = "4281b5edd13555bc87cc78cdee5181b678c3872e425f0ab35a0661c4baf287e1"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "868743b6cf0b7ca16155d920708c8ffbbae95e97c9eab6d88224a763bd2cda48"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "9d3c45208421b2b5b7b24797610d302cb56666658d0450804e3dfef75fa0c45c"
+hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
 file = "kubejs/server_scripts/anti_cheese_immersive.js"
 hash = "6863cca382fc50da59787f9a75146c37aea6033b68485b3bfcef5269dfaa36e0"
 
 [[files]]
+file = "kubejs/server_scripts/electronics_tags.js"
+hash = "8663d18cef79f541283d140f11c76f4fc491023f5772f7504ef7dc7335879890"
+
+[[files]]
+file = "kubejs/server_scripts/new_battery.js"
+hash = "897c15def48cff3675db10a9e4a572dca7da324cf9251610411f1a7f9aeb01ff"
+
+[[files]]
+file = "kubejs/server_scripts/shukrute_pump.js"
+hash = "68d9b85f11d4d99cb44a7bcc9b589e5bec367a40e7e420ff9bd35d75369f3c30"
+
+[[files]]
+file = "kubejs/startup_scripts/Coils.js"
+hash = "2558ef35fe0f58a50401acaa62a3597a89f3ba11b0b1e410377885f56ccdab8c"
+
+[[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
 hash = "aabe1fea074f81edec4705d63bbcea0b1ee65576716ef0afa87c10519ddc7671"
+
+[[files]]
+file = "kubejs/startup_scripts/init.js"
+hash = "62a4ffdbd323cdd217416159cea42e2c91445b601f73c85e0025dc43972cf08c"
+
+[[files]]
+file = "kubejs/startup_scripts/shukrute_pump.js"
+hash = "bcda15ff3e2de4546307f28e8619716794456e029b71825c5edeab6753bc7d16"
+
+[[files]]
+file = "kubejs/startup_scripts/shukrute_pump_map.js"
+hash = "740821a1d7d3ebbd7cfae45bbdd3f59edc4c1ae56fd7ea51f2dccfe6328628ff"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -396,6 +468,11 @@ hash = "db40389c09775cc7ac7837ca14fa9ebfd8e6ed073918a451e758c3fe3a67d9f7"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -469,6 +546,10 @@ metafile = true
 file = "mods/puzzles-lib.pw.toml"
 hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
 metafile = true
+
+[[files]]
+file = "mods/qilby_core-0.1.0.jar"
+hash = "e361d11cf3c8c6f89edc3c2fc07aa1dccd2e93eb8021ad9b248e580941ac5706"
 
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"

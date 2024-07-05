@@ -1,0 +1,9 @@
+{
+    "ldlib": {
+        "connection": "gtceu:block/casings/coils/dark_matter_bloom_ctm",
+        "emissive": true
+    },
+    "shimmer": {
+        "bloom": true
+    }
+}

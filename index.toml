@@ -57,8 +57,72 @@ file = "kubejs/config/common.properties"
 hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
+file = "kubejs/server_scripts/ae2.js"
+hash = "5c87d9314fd7b9e4c1b737b8742f01fc88fccebf7e777b3e67bbbd49b7be3d0a"
+
+[[files]]
 file = "kubejs/server_scripts/anti_cheese_immersive.js"
 hash = "6863cca382fc50da59787f9a75146c37aea6033b68485b3bfcef5269dfaa36e0"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/ae2.js"
+hash = "8e21863f8e5311127cfc6a4891a912ad5a414a8ab447484b9a4a64bccf542732"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/cables.js"
+hash = "753182c243862c546062c38e6ecdb2c7a21384484af71ce689682de7bb6fe244"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/cards.js"
+hash = "68fbc447200bd2f00e919233ca2bbb45c96fc8fa8030cb721e2d6edf4c374c76"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/cells.js"
+hash = "a173edffac6719f3968439865bb2a658fc20c471681f225a5081ab00b0129ea8"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/certus_quartz.js"
+hash = "4b8db54232c2656870078377ea6c6a97ec84f963a983da808f9398bdd1939df4"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/crafting_storage.js"
+hash = "e68a97b24aa63aa8290b9891b02af7499ccd7f9a1dc2ef2cc3d183d660c48177"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/inscriber.js"
+hash = "f145c934308bdc1ed48d30ec81ac0a686ed40d27d0c3d0a615f08f0e8c2e2975"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/inter_providers.js"
+hash = "7b2903c315b6dd1b0fe938e7f8220f4ca621b945373aa82a6a40b326cdfe6044"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/molecular_assemblers.js"
+hash = "e1befac5352ea32dcf4a2261f4ff88f0bba327a2aaf7d4bb4230c2fbbcf85c0a"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/patterns.js"
+hash = "1d5a65dff632046a5832d4a707b912e282aef5e5ccc7c560a849e40a8ae137d1"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/portable_cells.js"
+hash = "ef31a184c3685322b9a0f38d7e692e352ef1da698b74f835bf120c3b709e075c"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/pressing.js"
+hash = "4a7d34021202b814ad578b2c217c6e4e893d232ef7e4cb4bd5ab793aec5a34ae"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/removals.js"
+hash = "a858ddfed2b5799bb1222e50ef78fac4091ca55fde4e071afa82d21da12e158f"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/storage_parts.js"
+hash = "a184a4372a849553c142772f0f3a434fb59d0fa242c317deb2556451bd9880a5"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
+hash = "7588ffcb734f4ba3caecea9259dff93d4b66b4e7ebc1fe254645a6fb3fa3fa89"
 
 [[files]]
 file = "kubejs/server_scripts/electronics_tags.js"
@@ -333,8 +397,13 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
+file = "mods/gregic-energistics.pw.toml"
+hash = "8141c2ddb53a5aaf49dc760509646dcdeee1bae5cdb50ac722bac4cf17eeac85"
+metafile = true
+
+[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "cc831345b3692beaf8115323e1539e029df7bb756cc27abf60ef83d3fd8a6060"
+hash = "d71e4bc22ccfd285fb8e308297a642e2237773c7e3a2cf93297d34b67604c64c"
 metafile = true
 
 [[files]]
@@ -488,6 +557,11 @@ hash = "8469d0ee4847da9e38df295900d0d8a1965b4ba4b49a5091bf9c0031c2ac92fa"
 metafile = true
 
 [[files]]
+file = "mods/monomorphism.pw.toml"
+hash = "f433f6a0abbebd54ddd6aef1112b0a93946b4802f342dccfbcd39e197a73cd89"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2e686659097dc340552ea752c6b1bd557909e2b252ea99fc57796dad3d0d2583"
 metafile = true
@@ -548,8 +622,8 @@ hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
 metafile = true
 
 [[files]]
-file = "mods/qilby_core-0.1.0.jar"
-hash = "e361d11cf3c8c6f89edc3c2fc07aa1dccd2e93eb8021ad9b248e580941ac5706"
+file = "mods/qilby_core-1.0.0.jar"
+hash = "0b689325212ecd95fbd5a1ab587ea437f32db80050a42a4dbfbfb3a7a71c4893"
 
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"

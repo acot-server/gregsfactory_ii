@@ -352,8 +352,8 @@ ServerEvents.recipes((event) => {
 
   // Fluix Crystals
   greg
-    .autoclave("gtceu:fluix_crystal")
-    .itemInputs("gtceu:fluix_dust")
+    .autoclave("ae2:fluix_dust")
+    .itemInputs("ae2:fluix_dust")
     .inputFluids("water 100")
     .itemOutputs("ae2:fluix_crystal")
     .duration(200)

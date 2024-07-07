@@ -57,16 +57,20 @@ file = "kubejs/config/common.properties"
 hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
+file = "kubejs/server_scripts/Immersive/fix.js"
+hash = "011ecfebacfb128ef1babd14a46e65568672d14b0c4da6ce3ef1bbfa980b52ab"
+
+[[files]]
+file = "kubejs/server_scripts/Immersive/tags.js"
+hash = "891767ea9bece3758182b45fbb6423aca94ebb137e470ae10e554f153f2660e8"
+
+[[files]]
 file = "kubejs/server_scripts/ae2.js"
 hash = "5c87d9314fd7b9e4c1b737b8742f01fc88fccebf7e777b3e67bbbd49b7be3d0a"
 
 [[files]]
-file = "kubejs/server_scripts/anti_cheese_immersive.js"
-hash = "6863cca382fc50da59787f9a75146c37aea6033b68485b3bfcef5269dfaa36e0"
-
-[[files]]
 file = "kubejs/server_scripts/appliedenergistics2/ae2.js"
-hash = "8e21863f8e5311127cfc6a4891a912ad5a414a8ab447484b9a4a64bccf542732"
+hash = "22e80d59573b335043635276b3700ec9c4999337f58de6209a4cc5a8b6867e26"
 
 [[files]]
 file = "kubejs/server_scripts/appliedenergistics2/cables.js"

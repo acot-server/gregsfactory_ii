@@ -762,7 +762,7 @@ event.recipes.gtceu.shukrute_pump('shushu_max')
     'qilby_core:rushu_printed_circuit_board',
     'gtceu:highly_advanced_soc'
 )
-.circuit(15)
+.circuit(16)
 .inputFluids(
     Fluid.of('qilby_core:wakfu', 18432)
 )

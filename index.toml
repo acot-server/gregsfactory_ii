@@ -138,7 +138,7 @@ hash = "897c15def48cff3675db10a9e4a572dca7da324cf9251610411f1a7f9aeb01ff"
 
 [[files]]
 file = "kubejs/server_scripts/shukrute_pump.js"
-hash = "68d9b85f11d4d99cb44a7bcc9b589e5bec367a40e7e420ff9bd35d75369f3c30"
+hash = "8cc6922059e6dbbf5ad1e9f796259931cbc814922879cceae7f84fffb2915c76"
 
 [[files]]
 file = "kubejs/startup_scripts/Coils.js"

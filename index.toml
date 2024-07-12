@@ -271,6 +271,11 @@ hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "8628a832792c54b2328c60672fe122479bcf8c791f1bc7dbab37204432eeff7d"
 metafile = true
 
 [[files]]
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "e603a3af7a08e57e14df5bba3a12c0465087adae7a894c3dd609a97a6a8871d2"
 metafile = true
 
 [[files]]
@@ -662,11 +677,6 @@ hash = "171a5db16f6224edaaa63f349b3f8680e9b4aa2fb64e87a8026f736b34d31e46"
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"
 hash = "1f36a1f45e40c49ec7f3306d75ec534b9bc25a307572a03a662d29e2be07c38c"
-metafile = true
-
-[[files]]
-file = "mods/re-avaritia.pw.toml"
-hash = "1ab9d3e38c59f16d5a5f981ff70578b593e456a02cecfd8500fe6ad689562dec"
 metafile = true
 
 [[files]]

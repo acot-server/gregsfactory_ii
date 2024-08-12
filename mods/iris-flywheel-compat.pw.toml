@@ -1,18 +1,18 @@
 name = "Iris & Oculus Flywheel Compat"
-filename = "oculus-flywheel-compat-1.20.1-0.2.5.jar"
+filename = "oculus-flywheel-compat-forge1.20.1+1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c87704b10925302f8103a0323f868f93de436484"
+hash = "0f64671bdd1d460e5f864abe0ae46639e3207a06"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5338137
+file-id = 5603569
 project-id = 659897
 
 [option]
-optional=true
-default=true
-description= "Massive perf improvment for Oculus, /!\\ DO NOT USE WITHOUT OCULUS /!\\"
+optional = true
+description = "Massive perf improvment for Oculus, /!\\ DO NOT USE WITHOUT OCULUS /!\\"
+default = true

@@ -331,6 +331,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "9cf06c1f888201b8ec5150cd083ef9c08404dfed8f806ed59c3734e10607a2e3"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -353,6 +358,16 @@ metafile = true
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "51d5acfeeabb48a39c0a0e0e5c196ff612267243ff9b1cc5b5e3bb0a469912fe"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "7641de036f97e5ffa27fb065ed439f5b0b6df11d3091db9b54628c185dc86927"
 metafile = true
 
 [[files]]
@@ -601,6 +616,11 @@ hash = "8469d0ee4847da9e38df295900d0d8a1965b4ba4b49a5091bf9c0031c2ac92fa"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
+metafile = true
+
+[[files]]
 file = "mods/monomorphism.pw.toml"
 hash = "f433f6a0abbebd54ddd6aef1112b0a93946b4802f342dccfbcd39e197a73cd89"
 metafile = true
@@ -787,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]

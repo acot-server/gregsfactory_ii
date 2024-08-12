@@ -1,13 +1,13 @@
 name = "Ars Énergistique"
-filename = "arseng-1.2.0.jar"
+filename = "arseng-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/3nnmJpPI/arseng-1.1.7.jar"
 hash-format = "sha1"
-hash = "0866c840609d8872e84a4d52bbb2542699e88755"
+hash = "83fdaddec9f5ae68b116af469875bd25603e7519"
 
 [update]
 [update.modrinth]
 mod-id = "IJI3QuK8"
-version = "xpgyRm6m"
+version = "3nnmJpPI"

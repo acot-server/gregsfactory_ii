@@ -616,11 +616,6 @@ hash = "8469d0ee4847da9e38df295900d0d8a1965b4ba4b49a5091bf9c0031c2ac92fa"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
-metafile = true
-
-[[files]]
 file = "mods/monomorphism.pw.toml"
 hash = "f433f6a0abbebd54ddd6aef1112b0a93946b4802f342dccfbcd39e197a73cd89"
 metafile = true

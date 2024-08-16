@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
+hash = "8df4661f7a00b5e01562b27370b077d5b6df3d584aaf63e954dd7e449a77f6ab"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
+hash = "2500e18f940ff2f696b8ee26356ef941463458145683431995bc8dedc388481b"
 metafile = true
 
 [[files]]

@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "a65c83315b26398b8f5dca8f5ec651dee8f4a9fbe7bbfa5c6fbdc38521b638ee"
+hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "736e7681a3e66addd4682866ab217bb5264bbfd99e7b9263f041f602bcdaa331"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
@@ -828,12 +828,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f3291d976cc0232a7b460c64aa0a3f05abe88385c30c3cb5c84ba87dde6a49ee"
+hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "78399111bcbcfcd472c25a2c9207fb499c0472fccf56c72a68a27fe7b39939e1"
+hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
 metafile = true
 
 [[files]]

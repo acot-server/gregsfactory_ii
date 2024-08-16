@@ -1,13 +1,13 @@
 name = "Botania"
-filename = "Botania-1.20.1-444-FORGE.jar"
+filename = "Botania-1.20.1-446-FORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/cUfbpz6u/Botania-1.20.1-444-FORGE.jar"
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/QXK1IBLc/Botania-1.20.1-446-FORGE.jar"
 hash-format = "sha1"
-hash = "283aec350fc19bb83c9cc000fc4e0c96252d7e71"
+hash = "30ca9f036aaf7f18ebaa2cb5aa578c6ba1d273e6"
 
 [update]
 [update.modrinth]
 mod-id = "pfjLUfGv"
-version = "cUfbpz6u"
+version = "QXK1IBLc"

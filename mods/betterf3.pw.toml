@@ -11,8 +11,3 @@ hash = "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
 [update.modrinth]
 mod-id = "8shC1gFX"
 version = "xo6HmgWj"
-
-[option]
-optional = true
-default = true
-descritpion = "F3 Menu Overhaul"

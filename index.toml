@@ -538,11 +538,6 @@ hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "cdc72b21651fa04953f146cb8acc6193c16a6d231f53bf9e66d7999625faef54"
-metafile = true
-
-[[files]]
 file = "mods/kubejs+cc-tweaked.pw.toml"
 hash = "1298a96ae85aea547ec1ac1e481d86159f5b16bab57cb19b1d2c487bb9b6b67a"
 metafile = true

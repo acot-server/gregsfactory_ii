@@ -469,12 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "dcfdd08d53058c64fd7a0f7849efe7aafde9479c86fa88a80943e829fe4bc54e"
+hash = "d16d4a29d42bc1f694fd299d4b7486be5d6564d83d1bdf64ca8be063a9e84bd7"
 metafile = true
 
 [[files]]
 file = "mods/gtnn.pw.toml"
-hash = "b681c32c3ed8ffaa54c217f4c2515bf0d17cb7806a1c7fc9fffea2cf02c7fd55"
+hash = "c18b03a48154f5e64025789a358052b115a241421fa55ea603f0a7236dd91a7e"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+hash = "32271b16f562e79eda2e9541dd925a882f61ef8a59656cfde02b1bb3c8af8928"
 metafile = true
 
 [[files]]

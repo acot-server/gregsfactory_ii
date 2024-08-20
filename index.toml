@@ -463,11 +463,6 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
-file = "mods/gregic-energistics.pw.toml"
-hash = "8141c2ddb53a5aaf49dc760509646dcdeee1bae5cdb50ac722bac4cf17eeac85"
-metafile = true
-
-[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "d16d4a29d42bc1f694fd299d4b7486be5d6564d83d1bdf64ca8be063a9e84bd7"
 metafile = true
@@ -693,8 +688,8 @@ hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
 
 [[files]]
-file = "mods/qilby_core-1.0.0.jar"
-hash = "171a5db16f6224edaaa63f349b3f8680e9b4aa2fb64e87a8026f736b34d31e46"
+file = "mods/qilby_core-1.1.0.jar"
+hash = "60a902ed4e8e09a61469bf3599d6431e3ec9ce9885256b7b42779f4644458690"
 
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"

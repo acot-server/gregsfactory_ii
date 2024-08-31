@@ -433,6 +433,11 @@ hash = "ce7069fc17c2c8405eded41798ae5dd6740bef760d873bfdcfe5f8111d335c8a"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "b7277d2db3a4bc1006861370e6a6b63111571d8913ea0f0585872b525a46ab77"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "19db1960204d590a341c87c485dfba6a7192ee4b7fff1d519c771acd036bea69"
 metafile = true
 
 [[files]]

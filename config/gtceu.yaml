@@ -81,8 +81,12 @@ recipes:
   # Default: false
   harderCircuitRecipes: false
 
+  # Whether tools should have enchants or not. Like the flint sword getting fire aspect.
+  # Default: true
+  enchantedTools: true
+
 worldgen:
-  # Rubber Tree spawn chance (% per chunk)
+  # Rubber Tree spawn chance (decimal % per chunk)
   # Default: 0.5
   rubberTreeSpawnChance: 0.5
 
@@ -254,6 +258,84 @@ machines:
   # Default: false
   highTierContent: true
 
+  # Whether the Assembly Line should require the item inputs to be in order.
+  # Default: true
+  orderedAssemblyLineItems: false
+
+  # Whether the Assembly Line should require the fluid inputs to be in order.
+  # (Requires Ordered Assembly Line Item Inputs to be enabled.)
+  # Default: false
+  orderedAssemblyLineFluids: false
+
+  # Let Dual Hatch has more ability.
+  # When enabled it, Dual Hatch will can used to assemble line and so on.
+  # Need restart Minecraft to apply.
+  enableMoreDualHatchAbility: true
+
+  # Small Steam Boiler Options
+  smallBoilers:
+    # The amount of steam a Steam Solid Boiler produces per second at max temperature.
+    # Default: 120
+    solidBoilerBaseOutput: 120
+
+    # The amount of steam a High Pressure Steam Solid Boiler produces per second at max temperature.
+    # Default: 300
+    hpSolidBoilerBaseOutput: 300
+
+    # The amount of steam a Steam Liquid Boiler produces per second at max temperature.
+    # Default: 240
+    liquidBoilerBaseOutput: 240
+
+    # The amount of steam a High Pressure Steam Liquid Boiler produces per second at max temperature.
+    # Default: 600
+    hpLiquidBoilerBaseOutput: 600
+
+    # The amount of steam a Steam Solar Boiler produces per second at max temperature.
+    # Default: 120
+    solarBoilerBaseOutput: 120
+
+    # The amount of steam a High Pressure Steam Solar Boiler produces per second at max temperature.
+    # Default: 360
+    hpSolarBoilerBaseOutput: 360
+
+  # Large Steam Boiler Options
+  largeBoilers:
+    # The conversion rate between water and steam in Large Boilers.
+    # Default: 160
+    steamPerWater: 160
+
+    # The max temperature of the Large Bronze Boiler.
+    # Default: 800
+    bronzeBoilerMaxTemperature: 1200
+
+    # The heat speed of the Large Bronze Boiler.
+    # Default: 1
+    bronzeBoilerHeatSpeed: 1
+
+    # The max temperature of the Large Steel Boiler.
+    # Default: 1800
+    steelBoilerMaxTemperature: 2600
+
+    # The heat speed of the Large Steel Boiler.
+    # Default: 1
+    steelBoilerHeatSpeed: 1
+
+    # The max temperature of the Large Titanium Boiler.
+    # Default: 3200
+    titaniumBoilerMaxTemperature: 6000
+
+    # The heat speed of the Large Titanium Boiler.
+    # Default: 1
+    titaniumBoilerHeatSpeed: 1
+
+    # The max temperature of the Large Tungstensteel Boiler.
+    # Default: 6400
+    tungstensteelBoilerMaxTemperature: 14000
+
+    # The heat speed of the Large Tungstensteel Boiler.
+    # Default: 2
+    tungstensteelBoilerHeatSpeed: 2
+
 client:
   # Whether or not to enable Emissive Textures for GregTech Machines.
   # Default: true
@@ -376,6 +458,10 @@ gameplay:
   # Default: true
   environmentalHazards: false
 
+  # How much environmental hazards decay per chunk, per tick.
+  # Default: 0.001
+  environmentalHazardDecayRate: 0.001
+
   # Whether the GTCEu's ingame guidebook, 'Compass', be enabled.
   # WARNING: INCOMPLETE
   # Default: false
@@ -430,6 +516,10 @@ compat:
   # Whether Gregtech should remove smelting recipes from the vanilla furnace for ingots requiring the Electric Blast Furnace.
   # Default: true
   removeSmeltingForEBFMetals: true
+
+  # Whether dimension marker should show dimension tier.
+  # Default: false
+  showDimensionTier: false
 
 dev:
   # Debug general events? (will print recipe conficts etc. to server's debug.log)

@@ -22,7 +22,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
-hash = "c3b28edd0293e62ea7c2ac0ca00b8cdac6cf4c2db2a180c583fc53f45ad8a334"
+hash = "b1f4502416dcad1daee78dab9d46b5913e7171e581cd0ecd07c8f309232a022e"
 
 [[files]]
 file = "kubejs/assets/gtceu/textures/block/casings/coils/dark_matter.png"
@@ -69,6 +69,54 @@ file = "kubejs/config/common.properties"
 hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
+hash = "8663d18cef79f541283d140f11c76f4fc491023f5772f7504ef7dc7335879890"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/eliaforge.js"
+hash = "834e837c4ea5bb67a375139c59207384c058d9c518bae64b5939c8469f6880f2"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/greenhouse.js"
+hash = "adae0e40013f2c6cecd213c106f0f3f7cdafc04edda8e3bf24ab5bb856f9d06e"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/gt_parts_uev.js"
+hash = "78f750fd6888870923fee4394f98b1fd28a78754ae8b685f3f265eba01ed3659"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/gt_parts_uhv.js"
+hash = "5b1c0fbab855220664d06526e4e39d5b00d36f0a54b09d3662b62161c64b091f"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/gt_parts_uiv.js"
+hash = "d4cd2691fd85cb190f5ea8885aa6f09ff7ece5de44cc1ba3efa74da1a2aace38"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/gt_parts_uxv.js"
+hash = "0d5b7fd4aeed23b8767029a9f1e630b5ccefda401ca93af3c05aac1cdbe17e54"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/low_tier.js"
+hash = "71de90ab1d05c83ddd82ed84adb572d79b00b390ef51e9c0e7575233392e9328"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/machines.js"
+hash = "a9d0f8d064c5ca6069448a1f29ebf37b37b73586b354cab48c32e6407cbf9643"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/new_battery.js"
+hash = "7d3e4c2b198e44f4d1a72d0616854b9a3dc1e9edc1afea6a06a13dd5859c293e"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/rock_breaker.js"
+hash = "61976af15059f4d984ab07712ad62a8b907406f5241771b9ba2b8d5d4cc837dd"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/shukrute_pump.js"
+hash = "43820c5ef359fbbb5e8786af84aa8766d0e92e965ef6d50b9bf1018732ff5dc3"
+
+[[files]]
 file = "kubejs/server_scripts/Immersive/fix.js"
 hash = "011ecfebacfb128ef1babd14a46e65568672d14b0c4da6ce3ef1bbfa980b52ab"
 
@@ -78,7 +126,7 @@ hash = "891767ea9bece3758182b45fbb6423aca94ebb137e470ae10e554f153f2660e8"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "5c87d9314fd7b9e4c1b737b8742f01fc88fccebf7e777b3e67bbbd49b7be3d0a"
+hash = "d3e800a2d1ab15fb54248945d972f398661ea542d4d526df77e0fcfbc440f14e"
 
 [[files]]
 file = "kubejs/server_scripts/appliedenergistics2/ae2.js"
@@ -141,24 +189,28 @@ file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
 hash = "7588ffcb734f4ba3caecea9259dff93d4b66b4e7ebc1fe254645a6fb3fa3fa89"
 
 [[files]]
-file = "kubejs/server_scripts/electronics_tags.js"
-hash = "8663d18cef79f541283d140f11c76f4fc491023f5772f7504ef7dc7335879890"
-
-[[files]]
-file = "kubejs/server_scripts/new_battery.js"
-hash = "897c15def48cff3675db10a9e4a572dca7da324cf9251610411f1a7f9aeb01ff"
-
-[[files]]
-file = "kubejs/server_scripts/shukrute_pump.js"
-hash = "8cc6922059e6dbbf5ad1e9f796259931cbc814922879cceae7f84fffb2915c76"
-
-[[files]]
 file = "kubejs/startup_scripts/Coils.js"
 hash = "2558ef35fe0f58a50401acaa62a3597a89f3ba11b0b1e410377885f56ccdab8c"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
 hash = "aabe1fea074f81edec4705d63bbcea0b1ee65576716ef0afa87c10519ddc7671"
+
+[[files]]
+file = "kubejs/startup_scripts/eliaforge.js"
+hash = "f942489b258e8530d09005c16617c23adc10d9ac6b738c4d4f4d2478d5d7e520"
+
+[[files]]
+file = "kubejs/startup_scripts/eliaforge_map.js"
+hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
+
+[[files]]
+file = "kubejs/startup_scripts/greenhouse.js"
+hash = "9e96db0992d5265e60b1a5f86b853222825b96593e05fa7c06b46617c9fe02e5"
+
+[[files]]
+file = "kubejs/startup_scripts/greenhouse_map.js"
+hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
 
 [[files]]
 file = "kubejs/startup_scripts/init.js"
@@ -295,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/cadmus.pw.toml"
 hash = "17a166b10cee18d3e9a7d59e801e1f910ba94d86575cfabc25b67ecc4257bdd6"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
 
 [[files]]
@@ -443,6 +500,11 @@ hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
@@ -485,6 +547,15 @@ metafile = true
 [[files]]
 file = "mods/heracles.pw.toml"
 hash = "ca70bbebd97964ddb0bce943232018e0c39a123a11fa8712d0ce78e226c76d26"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-674.jar"
+hash = "42e63a4c871f60b3ffb55f3f37da68d33fe6f1c7c13a006459e559cdf3382316"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
@@ -683,6 +754,10 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
+hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
@@ -703,7 +778,7 @@ hash = "60a902ed4e8e09a61469bf3599d6431e3ec9ce9885256b7b42779f4644458690"
 
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"
-hash = "fb0b17fea38cb543ed9daabf0505b9015a69dc5e1984a1a243af68b00c1df8b3"
+hash = "0df893ecf041f732a9c541cfbdaf704aeab04151ccaa3e04ed3ba5454e1533c4"
 metafile = true
 
 [[files]]
@@ -839,6 +914,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
 metafile = true
 
 [[files]]

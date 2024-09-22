@@ -665,7 +665,7 @@ event.recipes.gtceu.shukrute_pump('rushu_uiv_1')
     Fluid.of('qilby_core:wakfu', 4608)
 )
 .itemOutputs(
-    'qilby_core:shushu_circuit_uev'
+    'qilby_core:shushu_circuit_uiv'
 )
 .duration(100)
 .CWUt(168)
@@ -681,7 +681,7 @@ event.recipes.gtceu.shukrute_pump('shushu_uiv_2')
     Fluid.of('qilby_core:wakfu', 4608)
 )
 .itemOutputs(
-    '2x qilby_core:shushu_circuit_uev'
+    '2x qilby_core:shushu_circuit_uiv'
 )
 .duration(100)
 .CWUt(168)
@@ -769,7 +769,7 @@ event.recipes.gtceu.shukrute_pump('shushu_max')
 .itemOutputs(
     '64x qilby_core:shushu_circuit_max'
 )
-.duration(1800)
+.duration(200)
 .CWUt(256)
 .EUt(2013265920);
 })

@@ -1,0 +1,6 @@
+{
+    "fluids": [
+        "#forge:methylhydrazine_nitrate_rocket_fuel"
+    ],
+    "fuel_ticks": 19200
+}

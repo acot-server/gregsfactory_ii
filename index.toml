@@ -69,6 +69,50 @@ file = "kubejs/config/common.properties"
 hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/biodiesel.json"
+hash = "69416fb03cfeb89870eb407f983305e15cafffa06f8afcbd3812313d2bdade74"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/cetane_boosted_diesel.json"
+hash = "4f167958110b277b2d218ec332d31bc0715e185d34d14ecde0cfb75517035a22"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/diesel.json"
+hash = "55b522dc97abc43cad1c7d5518b35a6bf0da1bcfd8def87bf88a0a93a937cdb6"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/hydrazine.json"
+hash = "579e03face54eb8c3b3986bdb9a538f2f2c4266a83e9b0e0bc2186092ef506ec"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/naquadah.json"
+hash = "d1b7d79441489cfb651013f92f35cf0875c716985fb441a5dd1a3994191bd3e3"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/plutonium.json"
+hash = "fdd3ce374e9f5a6c48e6024525772277eff2ed62e546b51f40e0d2e8d4d27759"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/rocket_fuel.json"
+hash = "a3c201fa7f87c9c36c0d908ec867b8b4eae0fd96343a9b6bdc3dd6c690bd145f"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/rp1.json"
+hash = "9d593701959fd2239b0e8f6a975d23d670f839f4021dede02e5ae367488f88ea"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/thorium.json"
+hash = "0ddfe918f9b8092381501651aa11b7d0181c4177067ab64db55a2371cc297e49"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/udmh.json"
+hash = "cffdbec2f1d3efb9b4fce310e6f98d1c4a670bf26197951df3a63fc759fa83a7"
+
+[[files]]
+file = "kubejs/data/qilby/railways_liquid_fuel/uranium.json"
+hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
 hash = "8663d18cef79f541283d140f11c76f4fc491023f5772f7504ef7dc7335879890"
 
@@ -352,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
 metafile = true
 
 [[files]]
@@ -760,6 +809,41 @@ hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "85f9a173449502bb042773c631c3e772eb32809f7b37458b16cb2b0505264945"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "ea80abd344fa08db9cacdafbe34a58dbf955ece9ab361580c75ec988e60cca6d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "33eb5e40fbac440cdbc35748ba1dc16919f16102c8b1fd05de8de71ea2ad1979"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "53cfb922861e92e8e2a23ff80b774ee274da1f940b286fca0636a9b592dce2cc"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "8806a9ffb536d6c708424145f73228feb30076056278bd7a0f611ee0c5b303b8"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "c2d665fbf9c7155612297031eecd80f783472c15ce01bf748e34a17d5f2e9044"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "120998414e3da04fe7578b60ecec369cc1f1b1450462249e3656154cebcfcf23"
 metafile = true
 
 [[files]]

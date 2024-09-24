@@ -1,0 +1,13 @@
+name = "Project Red - Exploration"
+filename = "ProjectRed-1.20.1-4.19.0-exploration.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "852c2f1a7a525f12c3360f62ec3e5cb4a8f9ac79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5615681
+project-id = 229049

@@ -1,0 +1,6 @@
+{
+    "fluids": [
+        "#forge:cetane_boosted_diesel"
+    ],
+    "fuel_ticks": 2250
+}

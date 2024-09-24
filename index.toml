@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "c2d665fbf9c7155612297031eecd80f783472c15ce01bf748e34a17d5f2e9044"
+hash = "18e381dc43b4c3d3530e4bbfaf2bd9e975d528bd9ead0e1b8bfaf4bfe6ccff4d"
 metafile = true
 
 [[files]]

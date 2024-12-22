@@ -580,17 +580,17 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "2359d5bc6ebf9b42c271ac7eeb517d9af55b7df242a45dfc350763e9ce06138a"
+hash = "69c727ffd3d79d725853ad0486dde3dd836ff8ecc3cb7021aeda691e7c28090b"
 metafile = true
 
 [[files]]
 file = "mods/gt.pw.toml"
-hash = "3b013ce92a1496ef2185a10512928fa22b04828d8cb815fadd9332f37f05b60a"
+hash = "70568a575ed35b703f10f6343ca668df31de417d0478d43bf83bf7d96dc597cb"
 metafile = true
 
 [[files]]
 file = "mods/gtmthings.pw.toml"
-hash = "6d10d72949b5e596ac4302a4140ebf64417c1e31ca37ff7eb940891fc49b25c1"
+hash = "b871177b6059f7cb42f670fd00b03fbeae71b6d8a5dedb3c4ca29522e51d2377"
 metafile = true
 
 [[files]]
@@ -658,8 +658,8 @@ hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "32271b16f562e79eda2e9541dd925a882f61ef8a59656cfde02b1bb3c8af8928"
+file = "mods/journeymap.pw.toml"
+hash = "3979b82d5760d5a21e6bfecc9de4d49163880ae335e24b8de3fbd1c398617c4a"
 metafile = true
 
 [[files]]
@@ -988,16 +988,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
 metafile = true
 
 [[files]]

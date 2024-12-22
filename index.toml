@@ -524,11 +524,6 @@ hash = "b814fff06b977987df71b2e0fd8a4f68439a88c5ec5dd843ad59638beabc2f3a"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "cd9104745e733e2f61c2de7639f1041017cf22af56d9f27994553ffb4e48b4d9"
-metafile = true
-
-[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "dc31224f7d7620e6daece2fe2c6b6fe6bb40380380bcfa5df733df9f3cd496fe"
 metafile = true
@@ -585,12 +580,17 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "d16d4a29d42bc1f694fd299d4b7486be5d6564d83d1bdf64ca8be063a9e84bd7"
+hash = "2359d5bc6ebf9b42c271ac7eeb517d9af55b7df242a45dfc350763e9ce06138a"
 metafile = true
 
 [[files]]
-file = "mods/gtnn.pw.toml"
-hash = "c18b03a48154f5e64025789a358052b115a241421fa55ea603f0a7236dd91a7e"
+file = "mods/gt.pw.toml"
+hash = "3b013ce92a1496ef2185a10512928fa22b04828d8cb815fadd9332f37f05b60a"
+metafile = true
+
+[[files]]
+file = "mods/gtmthings.pw.toml"
+hash = "6d10d72949b5e596ac4302a4140ebf64417c1e31ca37ff7eb940891fc49b25c1"
 metafile = true
 
 [[files]]
@@ -735,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "a9497456f2995c09550d79bcd6b0f99744928e12fd93b244c5ad51be84fbb082"
 metafile = true
 
 [[files]]
@@ -888,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "32ee85be1b868a77453a16ab97c3f8e1a69d8ea7fff95ea0eeb1aea78b8d0eef"
 metafile = true
 
 [[files]]

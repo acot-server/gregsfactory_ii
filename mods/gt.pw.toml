@@ -1,0 +1,13 @@
+name = "GT--"
+filename = "gtnn-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a831f0db49b3fd0d9a59e61eb8cb62745e55c23d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5755108
+project-id = 985872

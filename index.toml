@@ -114,7 +114,7 @@ hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
-hash = "d0defcb98a9933ba04db9ae0cd17e78f4473fef8377fa9320f255382c8681e9a"
+hash = "bd19580129d5b74f99c31fb9e29431ae6794a0844aa6b8595eb336bf871e84cd"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/eliaforge.js"

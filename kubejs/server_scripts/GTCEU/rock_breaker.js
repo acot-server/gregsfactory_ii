@@ -10,7 +10,6 @@ ServerEvents.recipes(event => {
     event.remove({id: 'gtceu:rock_breaker/obsidian'})
     event.remove({id: 'gtceu:rock_breaker/deepslate'})
 
-    const RockBreakerCondition = Java.loadClass("com.gregtechceu.gtceu.common.recipe.RockBreakerCondition")
 
 
     event.recipes.gtceu.rock_breaker('basalt')
@@ -20,7 +19,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('blackstone')
         .notConsumable('minecraft:blackstone')
@@ -29,7 +28,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('red_granite')
         .notConsumable('gtceu:red_granite')
@@ -38,7 +37,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('andesite')
         .notConsumable('minecraft:andesite')
@@ -47,7 +46,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('granite')
         .notConsumable('minecraft:granite')
@@ -56,7 +55,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('marble')
         .notConsumable('gtceu:marble')
@@ -65,7 +64,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('diorite')
         .notConsumable('minecraft:diorite')
@@ -74,7 +73,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('obsidian')
         .notConsumable('minecraft:redstone')
@@ -83,7 +82,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('deeplslate')
         .notConsumable('minecraft:deepslate')
@@ -92,7 +91,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('limestone')
         .notConsumable('create:limestone')
@@ -101,7 +100,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('tuff')
         .notConsumable('minecraft:tuff')
@@ -110,7 +109,7 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 
     event.recipes.gtceu.rock_breaker('calcite')
         .notConsumable('minecraft:calcite')
@@ -119,5 +118,5 @@ ServerEvents.recipes(event => {
         .addData("fluidB", "minecraft:water")
         .duration(16)
         .EUt(8)
-        .addCondition(RockBreakerCondition.INSTANCE)
+        
 })

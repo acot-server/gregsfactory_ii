@@ -114,7 +114,7 @@ hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
-hash = "8663d18cef79f541283d140f11c76f4fc491023f5772f7504ef7dc7335879890"
+hash = "d0defcb98a9933ba04db9ae0cd17e78f4473fef8377fa9320f255382c8681e9a"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/eliaforge.js"
@@ -154,7 +154,7 @@ hash = "7d3e4c2b198e44f4d1a72d0616854b9a3dc1e9edc1afea6a06a13dd5859c293e"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/rock_breaker.js"
-hash = "61976af15059f4d984ab07712ad62a8b907406f5241771b9ba2b8d5d4cc837dd"
+hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/shukrute_pump.js"

@@ -4,4 +4,5 @@ ServerEvents.tags('item', event => {
         tags.forEach(tag => {
             event.add(`gtceu:circuits/${tag}`, 'qilby_core:shushu_circuit_max');
         });
+        event.add('gtceu:circuits/lv', 'qilby_core:mass_production_lv_circuit');
 });

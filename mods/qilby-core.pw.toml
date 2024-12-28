@@ -1,0 +1,8 @@
+name = "Qilby Core"
+filename = "qilby_core-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/acot-server/qilby_core/releases/download/v1.2.0/qilby_core-1.2.0.jar"
+hash-format = "sha256"
+hash = "25b0dcd405fe2f5f67ba647e9e2fb0141d19aed59fc65ed4ce983d49d55dde8c"

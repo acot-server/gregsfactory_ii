@@ -1,6 +1,6 @@
 {
     "ldlib": {
-        "connection": "kubejs:block/coils/machine_coil_dark_matter_ctm",
+        "connection": "kubejs:block/coils/machine_coil_dark_matter_bloom_ctm",
         "emissive": true
     },
     "shimmer": {

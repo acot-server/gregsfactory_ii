@@ -274,7 +274,7 @@ hash = "3d72906983b9ba25b5777e5a07f4845d02a67c14f85d3d6f8210083c76a80ed3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium.png.mcmeta"
-hash = "8e2605a171303354dbc2da47a72ad314ff936f00ed50daf4bb020f5e90a407fd"
+hash = "38f5525a1f21e5d13317b7cbf1d180ad54d9ef59f38b411896a517b87ae4c6fc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom.png"
@@ -282,7 +282,7 @@ hash = "764237aaec2e46cdb5303a6a977caedaf222dc3985b6927861f811eeb1bc0244"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom.png.mcmeta"
-hash = "a069e6261efde988014df7fe2d2048ab623046b55b5d8474b00ede4e3e85d813"
+hash = "384e932b40ed3b3d2fe8db4c8e298c5117667636f0641c5aab9dca2135bb11fd"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom_ctm.png"
@@ -290,7 +290,7 @@ hash = "25d490912e2eae158964e4c6c0ff3d08ba754ad3d0dcbe59fb2b7f667d1657cf"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom_ctm.png.mcmeta"
-hash = "d35849f0d5ac47ae88f48ebb45dd5beb9f0bd01253f011ded748c27dc4a42737"
+hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_ctm.png"

@@ -1096,6 +1096,11 @@ hash = "717adc8ac4c50e0ccc60ae9148faa8478229237bc04578d33608fc5f8e2acdf4"
 metafile = true
 
 [[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "2f8f616461822689dd631dce97e3492b58250bcd7ef00c272820d8773d58c788"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-ae2.pw.toml"
 hash = "e4212fc3e7fcbb2c6b3d0cdf22dfedda1c0eb2f16e812df00f0804ecd7849247"
 metafile = true

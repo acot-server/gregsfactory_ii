@@ -9,12 +9,8 @@ file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
-file = "config/brandon3055/DraconicEvolution.cfg"
-hash = "041e6282b3fe57c2823d30baa9e4190b9dd82cf7db42904ddb067468cb128564"
-
-[[files]]
 file = "config/gtceu.yaml"
-hash = "c42731ea507ab5e187efd4d8e57717ede06ddeed7c98856557698ab79ce4c247"
+hash = "1168f6b88ba10b5ae9da98e7670d1beb86591de258a9335df1b3e9e1fd100d40"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -406,7 +402,7 @@ hash = "abe91b0b324df99567be84a1b1a4d590e09c6cbdc756285c3b88150e799e89af"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/wave_solderer.js"
-hash = "af04bac6a515784cafae2719294163ea8c7658a3fbadf45994d1832a3f60193b"
+hash = "70b525fd9be27a79928baeaa333685d275d7caa994da7055ff39e31aa0da8893"
 
 [[files]]
 file = "kubejs/server_scripts/MBHelper.js"

@@ -126,7 +126,7 @@ hash = "99518b2fc62c5f2291e5039757992841e8efffd83e041179236726b3c8b8d2ad"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium.png"
-hash = "a59cd06a6a5e16cffc14e52c386166d82c010d7692a6d3895a137033bf46ca3b"
+hash = "edd4b4b1fa8eaed44fd2226b72b7d707ea6a884c6f119e241acac0aa4f3fbeca"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium.png.mcmeta"
@@ -134,7 +134,7 @@ hash = "5596cf30408c0bd93746f6505545a687941029494d00ec2f688151de57de922e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium_bloom.png"
-hash = "2863ef0c2abe736b8120a07155ed47242113e7ac2860a27450303e44d7c6183a"
+hash = "3c62ca32e434f3a8fe1eddf53a5f67f438d92358f41e09176fc45724808424bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium_bloom.png.mcmeta"
@@ -142,7 +142,7 @@ hash = "ef56bdfcb016cdf131c82f76b12c0107d8e3744f3434d5b823cadb7c80dfccc9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium_bloom_ctm.png"
-hash = "d80d672e57474453ffeca699d56d38ebc4dfdeb788c4e76fd2083907eda74854"
+hash = "2fb23e9ccd7a6218e0be45a16f3ed2967f44812cf21e612479e75d6f367bf8df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium_bloom_ctm.png.mcmeta"
@@ -150,11 +150,11 @@ hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_chadium_ctm.png"
-hash = "cb41768dcc9d6fd46ef36b1b6c100bccc00fb421b258ed17213135ad53e6100f"
+hash = "3933af3689b2e421f351d35b20df3de1fb43f8882bb9fd7269106408f873c962"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter.png"
-hash = "c0e1dbf5f23235832f5191f0fd6c3c45c549173d300dd1ccfdbc036feb412c60"
+hash = "bca33c226662f45829a21a23dcd93d6ce49f949d7aa114931947c36c8d49c912"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter.png.mcmeta"
@@ -162,15 +162,15 @@ hash = "ee9e587e0af9d92fba140f1571baadaeba583e150082e982263b114d9cfdb7ee"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter_bloom.png"
-hash = "2863ef0c2abe736b8120a07155ed47242113e7ac2860a27450303e44d7c6183a"
+hash = "3c62ca32e434f3a8fe1eddf53a5f67f438d92358f41e09176fc45724808424bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter_bloom.png.mcmeta"
-hash = "e4f3ec542ba7954ef82484dec2e12c88a3ff968380cf424b72283e9012fe225f"
+hash = "417d34273a7ab1921bf049af4111076d23a05fda08a9a8ac46601de56d643519"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter_bloom_ctm.png"
-hash = "d80d672e57474453ffeca699d56d38ebc4dfdeb788c4e76fd2083907eda74854"
+hash = "2fb23e9ccd7a6218e0be45a16f3ed2967f44812cf21e612479e75d6f367bf8df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter_bloom_ctm.png.mcmeta"
@@ -178,31 +178,19 @@ hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_dark_matter_ctm.png"
-hash = "3bf54a9e5a5fb7c10eab36ce9b1af34d984ac6f10f4162abcf8ebfe45158e6fe"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_hsss.png"
-hash = "8eccf73ae3a9b9f8ee3898eca3e4b304bb11ef6241ae17d5d5279cbadb505930"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_hsss.png.mcmeta"
-hash = "e32c5447671dd7373242152c2badd97b1bd6da809b5171482fbd23fb59a3e4f9"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_hsss_ctm.png"
-hash = "9ad732a8d761d92354a5062e3c7febd2d567a1b655ae2d049330d6c2fbae8fa0"
+hash = "b6e2817015c8e39dc780bd808b4b6d3d6f752c52b49aef8b8d67e2944c206d7c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity.png"
-hash = "95fb158382baf151289b367c2cbfe4c6f582755e53e2cbe3b8fb7995ac4e7b29"
+hash = "fb86a6e899ef5b97989decf13a37cef197dea073340acff703be38b4ed56477d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity.png.mcmeta"
-hash = "f9692c9b7b4f0febb0819dfd36183eb357b19055b009f3d646192b1dc20ee164"
+hash = "c77bf6769b4d52b1c22e3d2c9f045005e26297040e4dc88e3bfcc88c2396458f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_bloom.png"
-hash = "2863ef0c2abe736b8120a07155ed47242113e7ac2860a27450303e44d7c6183a"
+hash = "3c62ca32e434f3a8fe1eddf53a5f67f438d92358f41e09176fc45724808424bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_bloom.png.mcmeta"
@@ -210,7 +198,7 @@ hash = "1986ae4b26f0deefd86aff7c98e72b11ef7994b062e725c000060c1e9e21d4ff"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_bloom_ctm.png"
-hash = "d80d672e57474453ffeca699d56d38ebc4dfdeb788c4e76fd2083907eda74854"
+hash = "2fb23e9ccd7a6218e0be45a16f3ed2967f44812cf21e612479e75d6f367bf8df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_bloom_ctm.png.mcmeta"
@@ -218,15 +206,11 @@ hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_ctm.png"
-hash = "dfe9e077c2fc3a137fb6b24fb491277bde0aeded0b1e4b2e853c1d532c812830"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_infinity_ctm.png.mcmeta"
-hash = "ef937bb2ca61cad7de80efa90fb112fd00b3a6c5143c5832bc0ad3204b5a24b3"
+hash = "4477909e772c66fb38455dcbc488cfd40714f0a4eb42aed52070281cc7bf2a10"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril.png"
-hash = "fad1eb3db0b408cf3200662c6a1f9fa90e6542f759cd3e8238601f4355613f20"
+hash = "eb5ac7dd5f71dfff4b3306e3403e273451048a70228e38915015ff0240781ac9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril.png.mcmeta"
@@ -234,7 +218,7 @@ hash = "0bf192286526c494f9340ab6fd7968653f9749a1799418b82e4c12e3e527ff9c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril_bloom.png"
-hash = "2863ef0c2abe736b8120a07155ed47242113e7ac2860a27450303e44d7c6183a"
+hash = "3c62ca32e434f3a8fe1eddf53a5f67f438d92358f41e09176fc45724808424bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril_bloom.png.mcmeta"
@@ -242,7 +226,7 @@ hash = "4230760f988418fb3b19cee0b482912e2ae1cdd5252c499ea0cccfe2ecd21433"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril_bloom_ctm.png"
-hash = "d80d672e57474453ffeca699d56d38ebc4dfdeb788c4e76fd2083907eda74854"
+hash = "2fb23e9ccd7a6218e0be45a16f3ed2967f44812cf21e612479e75d6f367bf8df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril_bloom_ctm.png.mcmeta"
@@ -250,19 +234,19 @@ hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_mithril_ctm.png"
-hash = "2c2677b1565005a089913565ef32e7af1989e99960c8946693afd720eff056bf"
+hash = "4908e5f6a83418b5bb7f596f478d1412c6ea9fd81dc5b9966337e31ba7c1a0fe"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter.png"
-hash = "2a1b902ca63176501ed5a6cdc4919bc94b2fee752f88a3ece3db39f6c85c693d"
+hash = "ee6208c1af194cff0fec2ee36bdb2e1e3ff8f9c4b92f25012b91ae92af4d6e3b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter.png.mcmeta"
-hash = "25bf2e5b39f9e98331763e2e1784c12edbd3154e12f763af49626d0127ddea03"
+hash = "090e4618db1bc5ccae11a2b426b96f71ccada65680c45e58bcde68254f54e9af"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_bloom.png"
-hash = "2863ef0c2abe736b8120a07155ed47242113e7ac2860a27450303e44d7c6183a"
+hash = "3c62ca32e434f3a8fe1eddf53a5f67f438d92358f41e09176fc45724808424bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_bloom.png.mcmeta"
@@ -270,7 +254,7 @@ hash = "2dcbabf92fe263da4a31e80f2f5047ce5ad7d322ff0e61854da8c175662ae5a1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_bloom_ctm.png"
-hash = "d80d672e57474453ffeca699d56d38ebc4dfdeb788c4e76fd2083907eda74854"
+hash = "2fb23e9ccd7a6218e0be45a16f3ed2967f44812cf21e612479e75d6f367bf8df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_bloom_ctm.png.mcmeta"
@@ -278,11 +262,35 @@ hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_ctm.png"
-hash = "098f265ce927099fc2c714374025d617306b9b4502a688a8e20b79ea6d704fd9"
+hash = "690b8f442bce8fb0bfaaefcd347cbf9aac129857cf1484d61e6850a955123715"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/coils/machine_coil_stellar_matter_ctm.png.mcmeta"
-hash = "00c98b70581c80cac888e33dc22552770a697d4180e0085aabd4d1e1e5eb57df"
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium.png"
+hash = "3d72906983b9ba25b5777e5a07f4845d02a67c14f85d3d6f8210083c76a80ed3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium.png.mcmeta"
+hash = "38f5525a1f21e5d13317b7cbf1d180ad54d9ef59f38b411896a517b87ae4c6fc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom.png"
+hash = "764237aaec2e46cdb5303a6a977caedaf222dc3985b6927861f811eeb1bc0244"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom.png.mcmeta"
+hash = "384e932b40ed3b3d2fe8db4c8e298c5117667636f0641c5aab9dca2135bb11fd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom_ctm.png"
+hash = "25d490912e2eae158964e4c6c0ff3d08ba754ad3d0dcbe59fb2b7f667d1657cf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_bloom_ctm.png.mcmeta"
+hash = "281a27aad941eed764b2e10671c29fa532f91ec2bf4e870fe95667b3e2435722"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coils/sources/machine_coil_tritanium_ctm.png"
+hash = "1209eb4bae6262f6b472ec596ccf6acb18a2138837082d70911fa80197805b30"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_lv_circuit_assembly.png"
@@ -606,8 +614,18 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f8221625641894cd6d29ac2940740d675cfb60e35db911776ae89423e38a5b3a"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-vanilla.pw.toml"
+hash = "91d52628607cd3360bc24cc52c963bb95136b1317bd9e3bf2b6159dcfa87573d"
 metafile = true
 
 [[files]]
@@ -616,8 +634,18 @@ hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
 
 [[files]]
+file = "mods/bigger-better-end-cities.pw.toml"
+hash = "38bfdd176dbfb684b40cd0239a95893b9e047813130fdd76935131ccf702989b"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "f7574bbc725128a0fa6a44c959c67d706d2279ed442dfedf2d135fd955e5ca6b"
 metafile = true
 
 [[files]]
@@ -628,11 +656,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
-metafile = true
-
-[[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
 metafile = true
 
 [[files]]
@@ -771,11 +794,6 @@ hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "e603a3af7a08e57e14df5bba3a12c0465087adae7a894c3dd609a97a6a8871d2"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b814fff06b977987df71b2e0fd8a4f68439a88c5ec5dd843ad59638beabc2f3a"
 metafile = true
@@ -837,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "1da8725ebba0cc2fe55def42e80e28020b69fa3fed7b01bd63b1f964c73bfef8"
+hash = "8cecb4d2306b6e94ba4b92c5b1f42bb59a8471363ddb92724cc71f5cf7c7a211"
 metafile = true
 
 [[files]]
@@ -975,6 +993,11 @@ hash = "fe6ba0e62c6791d76b18fec6a44d35b1dc50ad0a7a4aad7e6134ad09306e29a1"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "a433c965c277b4f3b89606b2e87c56545bca0c42568e5ee0e75962628ddd939e"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
 metafile = true
@@ -1049,6 +1072,11 @@ hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+metafile = true
+
+[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "f007198f36e4e364229e549d11738f7cd15ab58e76d636ca8ade186f8481c9a3"
 metafile = true
@@ -1061,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/qilby-core.pw.toml"
 hash = "717adc8ac4c50e0ccc60ae9148faa8478229237bc04578d33608fc5f8e2acdf4"
+metafile = true
+
+[[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "2f8f616461822689dd631dce97e3492b58250bcd7ef00c272820d8773d58c788"
 metafile = true
 
 [[files]]
@@ -1086,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "90b121a91bd521fbe23b396f7211da0ffe0aecaa003394604fe8e69dab29ed9c"
 metafile = true
 
 [[files]]
@@ -1159,13 +1197,18 @@ hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+file = "mods/terrablender.pw.toml"
+hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
 metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "a3a6ff06ee1f4411a1bd25e5e02709d9f0a96e99251cbbb603742a031717cdfa"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "bb950e8967b377266307508390a0a6848de082bcec20c38231e2449cb403f7ab"
 metafile = true
 
 [[files]]
@@ -1184,6 +1227,11 @@ hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus-forge.pw.toml"
+hash = "2d79b89befc8c928d17064588fa931129f39da52b668a94edbf6a5518c82ea4d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "34c86f976127ded13120aa03479144f6d66fba395665827b4db649c23822f1b6"
 metafile = true
@@ -1195,12 +1243,57 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "88273436c5fc0efecdd61d4615992ae76835b7f88aab2d0f9047b1dc3ec9a5e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
+hash = "eb89c7d6a1c7eeba70189cf2ad777b4ed5afba7ed2c6a40fb34eb3fad71419c8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "e5d9eba7b883a5bed97e98d97b0291f584d3de1696afe4d00f14585b579b6095"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "5ded53795031472b64e165faf04adc21d7181854e4d9d2c83fea7b7b12ab3ddf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "a3adfd6be62c3540b81cb117a71d68d4021ae7d4a85486599eb5028cd8692b7d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "131843ce0d9cea505760b3903bc4bbe9b39e9f2ec0e155311c0eaa87f7faa428"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "d48200a73fc05992c86bc1ec2ffd0bcf3d49f9f4cd7fc0bbc9a1599e686a47a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
 
 [[files]]

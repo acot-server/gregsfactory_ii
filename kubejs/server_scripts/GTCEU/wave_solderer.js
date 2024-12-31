@@ -25,5 +25,5 @@ ServerEvents.recipes(event => {
         'qilby_core:lv_circuit_assembly'
     )
     .duration(200)
-    .EUt(GTValues.VA[GTValues.MV]);
+    .EUt(GTValues.VA[GTValues.HV]);
 });

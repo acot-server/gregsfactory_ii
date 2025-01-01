@@ -83,7 +83,7 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.shukrute_pump('wakfu')
         .itemInputs(
             'botania:terrasteel_block',
-            '64x #minecolonies:cook_ingredient'
+            '64x #farmersdelight:cabbage_roll_ingredients'
         )
         .inputFluids(
             Fluid.of('gtceu:hydrofluoric_acid', 500)
@@ -97,7 +97,7 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.shukrute_pump('stasis')
         .itemInputs(
             'qilby_core:wakfu_block',
-            '64x #minecolonies:cook_ingredient'
+            '64x #farmersdelight:cabbage_roll_ingredients'
         )
         .inputFluids(
             Fluid.of('gtceu:hydrofluoric_acid', 1000)

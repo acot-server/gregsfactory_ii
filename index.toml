@@ -477,6 +477,10 @@ file = "kubejs/server_scripts/create/lv_circuit_assembly.js"
 hash = "8c9bf7452aaa56f433f8363a6d74b3f0ebb24dc47772aecc4667b6b572891abb"
 
 [[files]]
+file = "kubejs/server_scripts/create/tweaks.js"
+hash = "e201c28b5dc675b2803ca1d2859e06d7703801d308ad744d7630f050b73aec72"
+
+[[files]]
 file = "kubejs/startup_scripts/GTCEU/Coils.js"
 hash = "1b0f08c9ca8358aab9dd268fd3661580b2ace79cfd3b0628616d7dfdaf477037"
 

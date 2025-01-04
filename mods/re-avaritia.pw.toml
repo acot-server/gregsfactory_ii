@@ -1,13 +1,13 @@
-name = "Re:Avaritia[Forge/Fabric/Neoforge]"
+name = "Re:Avaritia"
 filename = "Re-Avaritia-forged-1.20.1-1.3.9.0-alpha1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24bbf634b6ea0d4f86d5a26dda29600f7c79a2af"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QeB3NRC5/versions/AOOSQtmS/Re-Avaritia-forged-1.20.1-1.3.9.0-alpha1.jar"
+hash-format = "sha512"
+hash = "8934d3e5d49a72caef995965d44d8d427b87f0085a4f6c5fa14858e8082d107a491becd7f7f705347f4a55d94174c1926a39db7376cac4ce6f4bfba6dec54bd2"
 
 [update]
-[update.curseforge]
-file-id = 5888767
-project-id = 623969
+[update.modrinth]
+mod-id = "QeB3NRC5"
+version = "AOOSQtmS"

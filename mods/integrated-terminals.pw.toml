@@ -1,13 +1,13 @@
 name = "Integrated Terminals"
-filename = "IntegratedTerminals-1.20.1-1.5.0.jar"
+filename = "IntegratedTerminals-1.20.1-1.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/sUCoWJIY/IntegratedTerminals-1.20.1-1.5.0.jar"
-hash-format = "sha1"
-hash = "b001cff6086eb2a3157cdc7384583a5e8094de4c"
+url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/aND6fE2M/IntegratedTerminals-1.20.1-1.6.3.jar"
+hash-format = "sha512"
+hash = "2bb00e81ce03205206bf3eb476468976a05cbd5bf8be586eeadd1174c20ed69fdd1b06408e717d8c0f57218c8b5224d119ff593eb571846271666724fd479258"
 
 [update]
 [update.modrinth]
 mod-id = "HmLJoQ1K"
-version = "sUCoWJIY"
+version = "aND6fE2M"

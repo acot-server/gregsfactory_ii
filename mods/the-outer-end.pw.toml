@@ -3,11 +3,11 @@ filename = "TheOuterEnd-1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c922e6be6db4c8ed8b5839e28cb36ca7138c7a59"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/X8s97ySO/versions/BdUokcEW/TheOuterEnd-1.0.9.jar"
+hash-format = "sha512"
+hash = "97a74fe6e859c859872c140ec3c538572146f4ede14966de004853a680e209e0b8f698aea8d03a16a2c958d8137bd36886f82c2b62db0bc87da980849c83a571"
 
 [update]
-[update.curseforge]
-file-id = 5183463
-project-id = 430404
+[update.modrinth]
+mod-id = "X8s97ySO"
+version = "BdUokcEW"

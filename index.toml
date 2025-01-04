@@ -10,7 +10,11 @@ hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "1168f6b88ba10b5ae9da98e7670d1beb86591de258a9335df1b3e9e1fd100d40"
+hash = "da99d23cb4256e3fa45a7c181d9e9e62d4588cf4af45329a844bf7b2351208da"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
 
 [[files]]
 file = "kubejs/README.txt"

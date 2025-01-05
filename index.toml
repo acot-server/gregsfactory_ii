@@ -818,6 +818,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "fbea5711d4d06394b7e67f80c497ce518f806be82aad515d219c5544273d357f"
 metafile = true
@@ -934,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "7f6c0ca162ebadc819fa2fe5d925daec6144d3480a6d75c769a72b8b46b78f9f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3c4797a9ade2ad41b4163a8838ad95b27f2b07906bf44f1c05a04c822e44719b"
 metafile = true
 
 [[files]]
@@ -1141,11 +1151,6 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "80d8a6648182daa3cd346db6235fe3dcbc3b8d8573507b27d3e8fdf6d9efd048"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "26ee02ad42278b3050bbd31e66d3d8ad774ed4e46f27dbb34a30f54a5a9617fe"
 metafile = true
@@ -1223,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "95708c5221b1334c46943118ccde29fcc9100edfea17d0f2c5ab148b7c44b68b"
 metafile = true
 
 [[files]]

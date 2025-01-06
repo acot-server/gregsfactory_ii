@@ -10,7 +10,7 @@ hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "da99d23cb4256e3fa45a7c181d9e9e62d4588cf4af45329a844bf7b2351208da"
+hash = "4083aee1747b0ad39e81174723ceecd44936aa3209e17663568044c361b26b9f"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -417,8 +417,8 @@ file = "kubejs/server_scripts/GTCEU/wave_solderer.js"
 hash = "70b525fd9be27a79928baeaa333685d275d7caa994da7055ff39e31aa0da8893"
 
 [[files]]
-file = "kubejs/server_scripts/MBHelper.js"
-hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
+file = "kubejs/server_scripts/ad_astra/removals.js"
+hash = "4260ca1fce8c62d5ead40ff3670dff1d00d6e10cf4ccdd469a0124c305473952"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
@@ -485,12 +485,36 @@ file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
 hash = "7588ffcb734f4ba3caecea9259dff93d4b66b4e7ebc1fe254645a6fb3fa3fa89"
 
 [[files]]
+file = "kubejs/server_scripts/create/crushing_wheel.js"
+hash = "0570a04f7f37635ed291b5c8f8151865f8fcfc2874f671a4455a3987916d5d52"
+
+[[files]]
+file = "kubejs/server_scripts/create/haunting.js"
+hash = "ad83b2158c6a274a4bf28889bc6e2452d779f03620bf54b1f7f7e2993b791242"
+
+[[files]]
 file = "kubejs/server_scripts/create/lv_circuit_assembly.js"
 hash = "8c9bf7452aaa56f433f8363a6d74b3f0ebb24dc47772aecc4667b6b572891abb"
 
 [[files]]
+file = "kubejs/server_scripts/create/mechanical_crafting.js"
+hash = "1380959142917b246ada7b430992b8cf20bac320e98d766f507b1d0e234ad067"
+
+[[files]]
+file = "kubejs/server_scripts/create/mixer.js"
+hash = "18ccdc278ab561f06a31ae79adb6ce7304271abb6ac2e8dda9f6660244604566"
+
+[[files]]
+file = "kubejs/server_scripts/create/spout.js"
+hash = "2838c30981d724acb8ae6e851348b25884c33fd71f37b4ad9cffd14bf9ad8148"
+
+[[files]]
 file = "kubejs/server_scripts/create/tweaks.js"
 hash = "e201c28b5dc675b2803ca1d2859e06d7703801d308ad744d7630f050b73aec72"
+
+[[files]]
+file = "kubejs/server_scripts/integrated_dynamics/menril_extractor.js"
+hash = "a3afcc85f0b46d62c3810d72c0f6f7a1e44b299fa314f116a49e3bd4097f0fec"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/Coils.js"

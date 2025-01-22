@@ -354,15 +354,11 @@ hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Agriculture/greenhouse.js"
-hash = "36ec7300702ff98f05faa71954137776c1214a9c170630a0fbf0c1185c769479"
+hash = "0a7bab643030f2c9afabf70f578e14653b0231ee1b485acaf17eebb2ae75bb31"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Agriculture/low_tier.js"
 hash = "71de90ab1d05c83ddd82ed84adb572d79b00b390ef51e9c0e7575233392e9328"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/Agriculture/machines.js"
-hash = "a9d0f8d064c5ca6069448a1f29ebf37b37b73586b354cab48c32e6407cbf9643"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/Shukrute_process/shukrute_pump.js"

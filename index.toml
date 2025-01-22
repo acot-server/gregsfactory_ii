@@ -17,10 +17,6 @@ file = "config/immediatelyfast.json"
 hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
 hash = "d2075e91ce35061c6b864a20efa0c3486e3bfc194c892354930ca5ed2acbf7df"
 
@@ -357,64 +353,84 @@ file = "kubejs/data/qilby/railways_liquid_fuel/uranium.json"
 hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/deep_core_miner.js"
-hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
-hash = "f2d63010c22629c40d05fd92a0c201dc78cc02d692972c67a04e7e7f3183e339"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/eliaforge.js"
-hash = "f6ba022b32046c486beb76f0af1ae81e898f72fc736f7ba7310b71ef43f6c77e"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/greenhouse.js"
+file = "kubejs/server_scripts/GTCEU/Agriculture/greenhouse.js"
 hash = "36ec7300702ff98f05faa71954137776c1214a9c170630a0fbf0c1185c769479"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/gt_parts_uev.js"
-hash = "cf8e62410fe3fce2f59dd66d83208bb5687d192cf7f5b3673dabd1d931cf82fc"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/gt_parts_uhv.js"
-hash = "7716fa07ef8f0b63d539b6b5859faeecb0fdd911a9f46b2e51a3075c782291f0"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/gt_parts_uiv.js"
-hash = "d5bbd58b508d3e10dbf9f932e60c5d5cf47f0b0e80bd754692f9f537ae74c7a6"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/gt_parts_uxv.js"
-hash = "0f590269fe69a73ada0460eb8c730a721c8d142ca73403fdf45ee10f64e9a815"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/low_tier.js"
+file = "kubejs/server_scripts/GTCEU/Agriculture/low_tier.js"
 hash = "71de90ab1d05c83ddd82ed84adb572d79b00b390ef51e9c0e7575233392e9328"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/machines.js"
+file = "kubejs/server_scripts/GTCEU/Agriculture/machines.js"
 hash = "a9d0f8d064c5ca6069448a1f29ebf37b37b73586b354cab48c32e6407cbf9643"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/new_battery.js"
-hash = "2bd160f17113715030dc38db8f3299c95fb43039f1501ba1bc2469f7c236dfac"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/new_silicon.js"
-hash = "8451f282690747f7ab685e5d7e933e5214636c9373ff736daa554c56d6e8070d"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/rock_breaker.js"
-hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/shukrute_pump.js"
+file = "kubejs/server_scripts/GTCEU/Ankama/Shukrute_process/shukrute_pump.js"
 hash = "088d45ada0a567517b8b050a76b667e95cf70862575b2ad3de64f84ff97e40bc"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/wave_solderer.js"
+file = "kubejs/server_scripts/GTCEU/Ankama/eliaforge.js"
+hash = "f6ba022b32046c486beb76f0af1ae81e898f72fc736f7ba7310b71ef43f6c77e"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uev.js"
+hash = "cf8e62410fe3fce2f59dd66d83208bb5687d192cf7f5b3673dabd1d931cf82fc"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uhv.js"
+hash = "7716fa07ef8f0b63d539b6b5859faeecb0fdd911a9f46b2e51a3075c782291f0"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uiv.js"
+hash = "d5bbd58b508d3e10dbf9f932e60c5d5cf47f0b0e80bd754692f9f537ae74c7a6"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uxv.js"
+hash = "0f590269fe69a73ada0460eb8c730a721c8d142ca73403fdf45ee10f64e9a815"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Computer/Data_Transmission.js"
+hash = "6211659c13417ff35267d1449618da6ddb208069a7d259f0a929abc437b3dc7d"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Computer/HPCA.js"
+hash = "76ee127b5bb3aa2f551a9cf14191cf6abacfd3d582c75272d97c775607e821dc"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cooler.js"
+hash = "e88323704db3db3d24d348a8c7ddc741fff8793fbe67c670424bbba058e3f69c"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js"
+hash = "3e91340eede670bcc764aec62b3531f65d795e7ff989a09baf5f050e868d9b55"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/electronics_tags.js"
+hash = "f2d63010c22629c40d05fd92a0c201dc78cc02d692972c67a04e7e7f3183e339"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/new_silicon.js"
+hash = "8451f282690747f7ab685e5d7e933e5214636c9373ff736daa554c56d6e8070d"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
 hash = "70b525fd9be27a79928baeaa333685d275d7caa994da7055ff39e31aa0da8893"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
+hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Mining/rock_breaker.js"
+hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Power_Devices/new_battery.js"
+hash = "2bd160f17113715030dc38db8f3299c95fb43039f1501ba1bc2469f7c236dfac"
+
+[[files]]
+file = "kubejs/server_scripts/MBHelper.js.dis"
+hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
 
 [[files]]
 file = "kubejs/server_scripts/ad_astra/removals.js"
@@ -485,12 +501,12 @@ file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
 hash = "7588ffcb734f4ba3caecea9259dff93d4b66b4e7ebc1fe254645a6fb3fa3fa89"
 
 [[files]]
-file = "kubejs/server_scripts/create/crushing_wheel.js"
-hash = "0570a04f7f37635ed291b5c8f8151865f8fcfc2874f671a4455a3987916d5d52"
+file = "kubejs/server_scripts/create/compacting.js"
+hash = "3e5a6f1162b2dc145db37698831e731255d24140f8b1004b794a7feb57e33649"
 
 [[files]]
-file = "kubejs/server_scripts/create/haunting.js"
-hash = "ad83b2158c6a274a4bf28889bc6e2452d779f03620bf54b1f7f7e2993b791242"
+file = "kubejs/server_scripts/create/crushing_wheel.js"
+hash = "87957050e4ece0d40a0fd1e84c15272977f108b9177e1f3b214ce8259881c53b"
 
 [[files]]
 file = "kubejs/server_scripts/create/lv_circuit_assembly.js"
@@ -502,7 +518,7 @@ hash = "1380959142917b246ada7b430992b8cf20bac320e98d766f507b1d0e234ad067"
 
 [[files]]
 file = "kubejs/server_scripts/create/mixer.js"
-hash = "18ccdc278ab561f06a31ae79adb6ce7304271abb6ac2e8dda9f6660244604566"
+hash = "6c3834a6c55489be70bd3781b125494c3bbac2a7b77619e4da60ec3e4e9309b6"
 
 [[files]]
 file = "kubejs/server_scripts/create/spout.js"

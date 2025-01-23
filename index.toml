@@ -904,6 +904,11 @@ hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
@@ -915,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "8cecb4d2306b6e94ba4b92c5b1f42bb59a8471363ddb92724cc71f5cf7c7a211"
+hash = "a725eb287bd9aeec09b22ef672bd3348cd8da3427e17af7e889bd05482b11897"
 metafile = true
 
 [[files]]
@@ -1143,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "022f3c311d00ab2d87f0d50600f68d1a099d5a0650b5b0832556c043f1509590"
+hash = "961bbc3648a5ccb1c71b7ca50ef178a224e268e0a80886b18a8cb5acd560c912"
 metafile = true
 
 [[files]]
@@ -1227,11 +1232,6 @@ hash = "dc7724775db48eff6ff36d11a30119acda1c0963c47ceb3038d137041acad655"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -1259,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/the-outer-end.pw.toml"
 hash = "676bd7644ac5de1cb54a854e28d7fef21ceed155265becb3bdc117424e5bf424"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]

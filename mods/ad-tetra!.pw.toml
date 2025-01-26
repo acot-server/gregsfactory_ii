@@ -1,0 +1,13 @@
+name = "Ad Tetra!"
+filename = "adtetra-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YecCeirP/versions/l6TLDnhF/adtetra-2.1.0.jar"
+hash-format = "sha512"
+hash = "f3209377ba357ba539a9c95b83a63d902b477005b9d0a792d478a15760d99d9647600aff4ae17f9c1dc3187b4e6e52773cccdc52ceee91fa9205bdd6cba124ed"
+
+[update]
+[update.modrinth]
+mod-id = "YecCeirP"
+version = "l6TLDnhF"

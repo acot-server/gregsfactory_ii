@@ -1,0 +1,13 @@
+name = "Advanced Book"
+filename = "advancedbook-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aO4gqyXW/versions/QPs767UE/advancedbook-1.0.4.jar"
+hash-format = "sha512"
+hash = "41b724ad0cacf30cad5c3bcca43403ebe014234c46bbd613614155af00854be277440d78950fcf4e0bb5361f4286de3ccf1715df921f0830084892aff471323a"
+
+[update]
+[update.modrinth]
+mod-id = "aO4gqyXW"
+version = "QPs767UE"

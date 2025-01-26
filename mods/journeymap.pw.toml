@@ -3,11 +3,11 @@ filename = "journeymap-1.20.1-5.9.18-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67e67dde4cfa1288fa9d1c77a788c85b6fb0ef29"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/gQvJhjQf/journeymap-1.20.1-5.9.18-neoforge.jar"
+hash-format = "sha512"
+hash = "a14c1996c7524cd934d02443e82d3d49075a4d38f3cd116e1b7a3642d90b2fb9f9ceb5b2aa90a6167c2b1d2ec5db8941d4ead6ea3e379f6c7dad2b214453fb26"
 
 [update]
-[update.curseforge]
-file-id = 4873863
-project-id = 32274
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "gQvJhjQf"

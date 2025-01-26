@@ -9,6 +9,14 @@ file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
+file = "config/brandon3055/DraconicEvolution.cfg"
+hash = "3d58d06424580407399e8cb0f0150629ed0722f4720013117c393a984d49e3d5"
+
+[[files]]
+file = "config/brandon3055/ModuleStats.cfg"
+hash = "01162bbb14f6c9cf82cb09f3a767a0e016ab8955d657cd971da393f60a8e251e"
+
+[[files]]
 file = "config/gtceu.yaml"
 hash = "4083aee1747b0ad39e81174723ceecd44936aa3209e17663568044c361b26b9f"
 
@@ -587,10 +595,6 @@ hash = "dbeceac4df7a57fc102d87c8ea679bcd65bbb8594efcba092b14891e17ab9cea"
 [[files]]
 file = "kubejs/startup_scripts/init.js"
 hash = "62a4ffdbd323cdd217416159cea42e2c91445b601f73c85e0025dc43972cf08c"
-
-[[files]]
-file = "modlist.csv"
-hash = "5de1abc68ead4417eb22c3d071241c12d7e0e0c76a821fb65f607419a1d67241"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

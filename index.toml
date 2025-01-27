@@ -1153,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true
 
 [[files]]

@@ -566,7 +566,7 @@ hash = "740821a1d7d3ebbd7cfae45bbdd3f59edc4c1ae56fd7ea51f2dccfe6328628ff"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/unificationEntry.js"
-hash = "f3707e2efcd701343b1be3136ed04149f773313dccda52f6a6cfa99b1bd52288"
+hash = "b12d73e9fb42b06a6042c5caa1da60345cfe854c4afc231ee3dc7e33ecd9710c"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/wave_solderer.js"
@@ -578,7 +578,7 @@ hash = "179c134c84f6a4969a3074ec89bcb411932d860a26c6b3213dcf6c1f0a8b0f41"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
-hash = "7935c0ca294ae84ec34504477a5eea40c3185dfd5d25f1f38d9bace766158e5c"
+hash = "ebfa4f85aec262dd105c5b5931acbd88a2955204acf8538074fb2a99f29946cf"
 
 [[files]]
 file = "kubejs/startup_scripts/create/sequenced_assembly_transisional.js"

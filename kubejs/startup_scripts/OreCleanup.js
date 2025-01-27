@@ -7,10 +7,6 @@ WorldgenEvents.remove( event => {
             // Create
             'create:zinc_ore',
             'create:deepslate_zinc_ore',
-            'draconicevolution:overworld_draconium_ore',
-            'draconicevolution:deepslate_draconium_ore',
-            'draconicevolution:nether_draconium_ore',
-            'draconicevolution:end_draconium_ore'
         ];
     });-
     console.info('Ore cleanup DONE');

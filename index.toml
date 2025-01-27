@@ -394,11 +394,11 @@ hash = "0f590269fe69a73ada0460eb8c730a721c8d142ca73403fdf45ee10f64e9a815"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/hpca_new_cooler.js"
-hash = "e88323704db3db3d24d348a8c7ddc741fff8793fbe67c670424bbba058e3f69c"
+hash = "514dc71ef5f31d570125c2f8bd709b95070a341d4abfb21c755eaf2476402501"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/hpca_new_cpu.js"
-hash = "d9e2e93d3a8d70de3b221b7c82f8aab4f88f567a7100f0880e3540a26bc009d0"
+hash = "82302bb5e1926c433925d0bcd8ffc1894d3918692fc8cf5440af2ef249712326"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/low_tier.js"

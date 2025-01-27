@@ -827,11 +827,6 @@ hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -894,11 +889,6 @@ metafile = true
 [[files]]
 file = "mods/crushed-astra.pw.toml"
 hash = "c0f20122e92efc35eae8da260aa287c0aaee3ce59feb5e6cb00d94ad8499214b"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]

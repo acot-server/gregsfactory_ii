@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'gtceu:assembler/hpca_computation_component'})
     event.remove({id: 'gtceu:assembler/hpca_advanced_computation_component'})
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk1')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk1')
         .itemInputs(
             '64x gtceu:fine_annealed_copper_wire',
             '64x gtceu:fine_red_alloy_wire',
@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.MV]);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk2')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk2')
         .itemInputs(
             '64x gtceu:fine_annealed_copper_wire',
             '64x gtceu:fine_red_alloy_wire',
@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
         .duration(3500)
         .EUt(GTValues.VA[GTValues.HV]);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk3')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk3')
         .itemInputs(
             '64x gtceu:fine_annealed_copper_wire',
             '64x gtceu:fine_red_alloy_wire',
@@ -43,7 +43,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.EV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk4')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk4')
         .itemInputs(
             '64x gtceu:fine_platinum_wire',
             '64x gtceu:fine_silver_wire',
@@ -57,7 +57,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.IV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk5')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk5')
         .itemInputs(
             '64x gtceu:ram_chip',
             '64x gtceu:ram_chip',
@@ -71,7 +71,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.LuV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk6')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk6')
         .itemInputs(
             '64x gtceu:ram_chip',
             '16x gtceu:qbit_cpu_chip',
@@ -85,7 +85,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.ZPM])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.circuit_assembler('HPCA_cpu_mk7')
+    event.recipes.gtceu.assembler('HPCA_cpu_mk7')
         .itemInputs(
             '64x gtceu:ram_chip',
             '16x gtceu:advanced_soc',

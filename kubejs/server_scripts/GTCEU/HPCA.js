@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'gtceu:assembler/computer_heat_vent'})
     event.remove({id: 'gtceu:assembler/hpca_empty_component'})
 
-    event.recipes.gtceu.circuit_assembler('new_HPCA')
+    event.recipes.gtceu.assembler('new_HPCA')
         .itemInputs(
             '1x computercraft:computer_normal',
             '4x #gtceu:circuits/hv',

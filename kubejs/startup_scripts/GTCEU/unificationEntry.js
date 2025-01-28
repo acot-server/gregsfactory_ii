@@ -1,5 +1,6 @@
 GTCEuStartupEvents.craftingComponents(event => {
     //PLATE
+    event.modifyUnificationEntry(CraftingComponent.PLATE, GTValues.HV,  new UnificationEntry('plate', 'gtceu:desh'))
     event.modifyUnificationEntry(CraftingComponent.PLATE, GTValues.UHV, new UnificationEntry('plate', 'qilby_core:dark_matter'))
     event.modifyUnificationEntry(CraftingComponent.PLATE, GTValues.UEV, new UnificationEntry('plate', 'qilby_core:dark_energy'))
     event.modifyUnificationEntry(CraftingComponent.PLATE, GTValues.UIV, new UnificationEntry('plate', 'qilby_core:runic_stelarite'))
@@ -118,9 +119,6 @@ GTCEuStartupEvents.craftingComponents(event => {
     event.modifyUnificationEntry(CraftingComponent.ROTOR, GTValues.UIV, new UnificationEntry('rotor', 'qilby_core:runic_stelarite'))
     event.modifyUnificationEntry(CraftingComponent.ROTOR, GTValues.UXV, new UnificationEntry('rotor', 'qilby_core:stellarite'))
     event.modifyUnificationEntry(CraftingComponent.ROTOR, GTValues.OpV, new UnificationEntry('rotor', 'qilby_core:fabric_of_reality'))
-
-    //BUZZSAW
-
 
     //COIL HEATING
     event.modifyUnificationEntry(CraftingComponent.COIL_HEATING, GTValues.UHV, new UnificationEntry('wireGtDouble', 'gtceu:europium'))

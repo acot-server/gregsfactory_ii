@@ -3,11 +3,11 @@ filename = "monomorphism-1.20.1-1.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7af4c381c78ec423ff1bf37814e6d1a97a2fa68e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fpsY92ff/versions/fwvIl9WE/monomorphism-1.20.1-1.0.10.jar"
+hash-format = "sha512"
+hash = "4b2d9fb27c6897430ffde2d1e00b1590cdd10bc338245f12c2463dcacc3a01a737a1a53540e1ecfc073d20a831144ff4ce4a92d2324419ba6ea222ba57e6a4ca"
 
 [update]
-[update.curseforge]
-file-id = 5385057
-project-id = 1027918
+[update.modrinth]
+mod-id = "fpsY92ff"
+version = "fwvIl9WE"

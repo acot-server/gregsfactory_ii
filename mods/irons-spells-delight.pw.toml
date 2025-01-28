@@ -1,0 +1,13 @@
+name = "Iron's Spells Delight"
+filename = "ironsspellsdelight-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ne9jukgU/versions/qb1NNtAW/ironsspellsdelight-1.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "5d3714afecd4ed82d58bae6d0cdc4dde17ef675d29175694155bdb26dc8f2d9ce9e485ed954eec485d262c1ab600fa2ed4963e6f670bf6515c8542dbcc00f6f9"
+
+[update]
+[update.modrinth]
+mod-id = "Ne9jukgU"
+version = "qb1NNtAW"

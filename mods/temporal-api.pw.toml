@@ -1,0 +1,13 @@
+name = "Temporal API"
+filename = "temporalapi-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JDtt43My/versions/WT6tW8nQ/temporalapi-1.6.6.jar"
+hash-format = "sha512"
+hash = "405782317546b4443051dedcc87ca0d0c57c80ac15f4557da865048d0e717c68daa7bdbf966fd240282a8ea4c7a1b5ecafc7a635f153b91956aff2a064ead144"
+
+[update]
+[update.modrinth]
+mod-id = "JDtt43My"
+version = "WT6tW8nQ"

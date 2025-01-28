@@ -1,0 +1,13 @@
+name = "Moderately Enough Effect Descriptions (MEED) - A JEED Addon"
+filename = "MEED-1.20.1-5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1dxbxzCg/versions/VLkj6ZLI/MEED-1.20.1-5.7.jar"
+hash-format = "sha512"
+hash = "816288f1aa08de3d3422a0ae896eb48d3653a79c6199301e314a62458fb9d6e154b9674f8b4d90a683edb0e3dd60c94cf497436e1e03eecf412d2ef78460e1be"
+
+[update]
+[update.modrinth]
+mod-id = "1dxbxzCg"
+version = "VLkj6ZLI"

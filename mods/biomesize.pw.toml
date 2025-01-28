@@ -1,0 +1,13 @@
+name = "Biome Sizes[Forge/Fabric]"
+filename = "biomesize-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "649d563353c3df11d25cb44492574bd2b827a72c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6013048
+project-id = 775502

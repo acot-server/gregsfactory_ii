@@ -9,6 +9,10 @@ file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
+file = "config/biomesize.json"
+hash = "abf9fe5e7e1b0613992e9893800736661d7b3b8d7eb0081793528ed3531c84b7"
+
+[[files]]
 file = "config/brandon3055/DraconicEvolution.cfg"
 hash = "3d58d06424580407399e8cb0f0150629ed0722f4720013117c393a984d49e3d5"
 
@@ -23,6 +27,10 @@ hash = "4083aee1747b0ad39e81174723ceecd44936aa3209e17663568044c361b26b9f"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
+
+[[files]]
+file = "config/memorysettings.json"
+hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
@@ -717,6 +725,11 @@ hash = "7b91491f4977bac34139188e8a6b3a51c6c752977424e7c4edbe643a19a1f942"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "99b6848e7c4594db98f2bd53c5ec392dc0cc6df8f7a74646dd9530148b131665"
+metafile = true
+
+[[files]]
 file = "mods/better-end-cities-vanilla.pw.toml"
 hash = "91d52628607cd3360bc24cc52c963bb95136b1317bd9e3bf2b6159dcfa87573d"
 metafile = true
@@ -729,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
 hash = "38bfdd176dbfb684b40cd0239a95893b9e047813130fdd76935131ccf702989b"
+metafile = true
+
+[[files]]
+file = "mods/biomesize.pw.toml"
+hash = "cf7946725e4b8c6457267419ea66246eaedcda7e6c0f410e87b08a4aeddaac3f"
 metafile = true
 
 [[files]]
@@ -992,6 +1010,11 @@ hash = "f608b8ea0277a4a27e4f61f17ac689f9d2d105e5ebcd2b0893caa437fd576af4"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "628b59d31760869883fc30bcad9708d48301bf1766e66f2ec67299017a65e478"
 metafile = true
@@ -1201,6 +1224,11 @@ hash = "40049415cea2d12870a314900f9bdf5986a4843182ad586875fa7e17e4144865"
 metafile = true
 
 [[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "c0e6a14f6320209bd493d8591589be7db82c32d054fcc114d7b0081956ad27c1"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -1370,6 +1398,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "fe2fccdae540a4eb5629b6a77e640972307d38e7e5f41848129f87741e5aff80"
 metafile = true
@@ -1377,6 +1410,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "ba0c68dbb5d164f5ed3b7a0b15c668b400d1eaca4b03ab4ee0236be24db5e1e4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "646c0ecfbe42b7d4ce7e64deb9dcf5022cbf85f47c05529538858e477f23de21"
 metafile = true
 
 [[files]]

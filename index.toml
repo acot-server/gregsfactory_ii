@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtmthings.pw.toml"
-hash = "360fa8887f0840b59e8e02296cd44eedd6fd1cdfbab436dd5af11c3bfc5cfaac"
+hash = "135c8d86ee8a220586fb3a32db9dd8870614b65d00082111b8f7414e3a281616"
 metafile = true
 
 [[files]]

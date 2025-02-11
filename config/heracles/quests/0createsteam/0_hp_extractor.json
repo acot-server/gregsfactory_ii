@@ -1,0 +1,40 @@
+{
+  "dependencies": [
+    "0_steel"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "0 - Create & Steam": {
+        "position": [
+          125,
+          100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:hp_steam_extractor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "High Pressure Extractor"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

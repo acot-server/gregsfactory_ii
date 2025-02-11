@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "0_gathering_gtsteam"
+  ],
+  "tasks": {
+    "wrench": {
+      "type": "heracles:item",
+      "item": "minecraft:calcite",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "0 - Create & Steam": {
+        "position": [
+          100,
+          -150
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:iron_wrench",
+        "count": 1,
+        "nbt": {
+          "DisallowContainerItem": 0,
+          "GT.Behaviours": {
+            "Mode": 2
+          },
+          "HideFlags": 2,
+          "GT.Tool": {
+            "MaxDamage": 255,
+            "Damage": 0
+          }
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gregtech Tools"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

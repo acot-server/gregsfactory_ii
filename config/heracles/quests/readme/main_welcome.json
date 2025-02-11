@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Read the overview": {
+      "title": "Read the overview",
+      "icon": {
+        "item": {
+          "id": "minecraft:written_book",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "# Welcome to the Pack",
+      "",
+      "## On quests",
+      "",
+      "- Quests in a circle are documentation quests, they typically are just a place where an explaination of how an item or mechanic works is written, they can most often be validated with a check box. This very quest is one of those.</li>",
+      "- Quests in a diamond are optional and mostly for completionists, you can complete the pack without issues while never doing them",
+      "- Quests in a cogwheel are key quests, they typically unlock a questline in another page.",
+      "- The rest (in squares) are your normal quest: do task, get reward, continue on to the next one.",
+      "",
+      "<hr/>",
+      "## On documentation quests specifically",
+      "",
+      "/c/**--__READ THEM__--**/c/",
+      "Seriously, unless you are familiar with Gregtech, read them, it will prevent you wondering why in the nine hells your fluids are not getting to your machines, or why you exploded your workshop for the upteenth time.",
+      "",
+      "<hr/>",
+      "## On quest requirements",
+      "",
+      "If a quest asks you to make a stack of something, you usually should craft a big batch of it, you're gonna need a lot of it"
+    ],
+    "groups": {
+      "Readme": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:written_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Welcome to the Pack"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

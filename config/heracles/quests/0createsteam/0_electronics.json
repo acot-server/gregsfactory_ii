@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "0_mechanical_rubber",
+    "0_steel"
+  ],
+  "tasks": {
+    "dummy": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "value": "12f164b0-a419-42e4-b9c0-fcd74f63",
+      "description": "",
+      "type": "heracles:dummy"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "0 - Create & Steam": {
+        "position": [
+          -75,
+          100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:basic_electronic_circuit",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Electronics"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

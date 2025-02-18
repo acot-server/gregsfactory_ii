@@ -546,7 +546,7 @@ hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/electronics_tags.js"
-hash = "f2d63010c22629c40d05fd92a0c201dc78cc02d692972c67a04e7e7f3183e339"
+hash = "26ba613a28696f8d9d8825faad047e191109ed56d6438e57fa1cdf792c5e6565"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/eliaforge.js"

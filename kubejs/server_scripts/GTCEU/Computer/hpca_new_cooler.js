@@ -5,7 +5,7 @@ ServerEvents.recipes(event => {
 
     //air cooler
 
-    event.recipes.gtceu.assembler('new_HPCA_Heat_sink')
+    event.recipes.gtceu.assembler('new_hpca_heat_sink')
         .itemInputs(
             'gtceu:hpca_empty_component',
             'gtceu:aluminium_plate',

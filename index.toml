@@ -566,19 +566,19 @@ hash = "71de90ab1d05c83ddd82ed84adb572d79b00b390ef51e9c0e7575233392e9328"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/Data_Transmission.js"
-hash = "6211659c13417ff35267d1449618da6ddb208069a7d259f0a929abc437b3dc7d"
+hash = "ade8c3be1b6a0946a330864177e81c32a90d159c871dfb5b5bfcfd689ce5afa6"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/HPCA.js"
-hash = "67096c3c9b9a4965c29d55cdb791c724e9e3b2193c039d653c4ec6da859d9c3f"
+hash = "b0950e2297a98c4bd3b9f745db612b3a9be8f4d7df784c45644ffe0a15073e36"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cooler.js"
-hash = "e88323704db3db3d24d348a8c7ddc741fff8793fbe67c670424bbba058e3f69c"
+hash = "02b924821693a4a4f15b70b5b003cb662e90d6199560a54656c7e651d499a039"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js"
-hash = "d9e2e93d3a8d70de3b221b7c82f8aab4f88f567a7100f0880e3540a26bc009d0"
+hash = "45706e80d5613599e51003fefd2b7654246aa4f0dce9fd3d2924c6a111b58fae"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/electronics_tags.js"

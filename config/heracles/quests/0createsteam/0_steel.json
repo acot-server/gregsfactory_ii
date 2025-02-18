@@ -2,13 +2,36 @@
   "dependencies": [
     "0_pbf"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "steel": {
+      "type": "heracles:item",
+      "item": "gtceu:steel_ingot",
+      "amount": 8,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "/": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "It's Iron, now with secret ingredient: Carbon"
     },
-    "description": [],
+    "description": [
+      "This quest doesn't ask for a lot of it to let you continue on faster while your PBF makes the rest, but for your own sake, start a large batch of the stuff, you'll **--DEFINITELY--** need it.",
+      "",
+      "Actually ideally, until you unlock your electric blast furnace, your PBF should be making steel almost non-stop."
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

@@ -2,13 +2,46 @@
   "dependencies": [
     "0_tools"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "boiler": {
+      "amount": 1,
+      "tasks": {
+        "solid": {
+          "type": "heracles:item",
+          "item": "gtceu:lp_steam_solid_boiler",
+          "amount": 1,
+          "collection": "AUTOMATIC"
+        },
+        "liquid": {
+          "type": "heracles:item",
+          "item": "gtceu:lp_steam_liquid_boiler",
+          "amount": 1,
+          "collection": "AUTOMATIC"
+        }
+      },
+      "type": "heracles:composite"
+    }
+  },
+  "rewards": {
+    "steam": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Hot water box"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

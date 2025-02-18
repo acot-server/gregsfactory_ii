@@ -1,18 +1,46 @@
 {
   "dependencies": [
-    "0_more_workshop"
+    "0_more_workshop",
+    "0_automation_ii"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "saw": {
+      "type": "heracles:item",
+      "item": "create:mechanical_saw",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "dep": {
+      "type": "heracles:item",
+      "item": "create:deployer",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "mech": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/mechanical",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Wood by the chestful"
     },
-    "description": [],
+    "description": [
+      "Saws cut trees in contraptions, however you'll need deployers too to replace the saplings"
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [
-          -50,
+          -100,
           50
         ]
       }

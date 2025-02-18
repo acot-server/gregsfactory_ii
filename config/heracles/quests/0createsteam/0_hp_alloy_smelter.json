@@ -2,13 +2,34 @@
   "dependencies": [
     "0_steel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "fxg": {
+      "type": "heracles:item",
+      "item": "gtceu:hp_steam_alloy_smelter",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "dzs": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Better steam machines [OPTIONAL]"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

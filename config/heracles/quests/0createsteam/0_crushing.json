@@ -2,13 +2,34 @@
   "dependencies": [
     "0_mechanical_crafting"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "cru": {
+      "type": "heracles:item",
+      "item": "create:crushing_wheel",
+      "amount": 2,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "nevcdfasdf": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/mechanical",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Into a fine paste"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

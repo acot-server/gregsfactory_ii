@@ -3,13 +3,34 @@
     "0_more_workshop",
     "0_steel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "dri": {
+      "type": "heracles:item",
+      "item": "create:mechanical_drill",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "mech": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/mechanical",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Making big holes"
     },
-    "description": [],
+    "description": [
+      "With a bit of thinking, it can make a rather effective quarry"
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

@@ -2,13 +2,58 @@
   "dependencies": [
     "0_early_workshop"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "lava": {
+      "type": "heracles:item",
+      "item": "minecraft:lava_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "campfire": {
+      "type": "heracles:item",
+      "item": "minecraft:campfire",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "water": {
+      "type": "heracles:item",
+      "item": "minecraft:water_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "soul": {
+      "type": "heracles:item",
+      "item": "minecraft:soul_campfire",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "fans": {
+      "type": "heracles:item",
+      "item": "create:encased_fan",
+      "amount": 4,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "loot": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/mechanical",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Blowing off"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

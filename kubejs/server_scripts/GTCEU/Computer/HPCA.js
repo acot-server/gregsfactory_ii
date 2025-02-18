@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'gtceu:assembler/computer_heat_vent'})
     event.remove({id: 'gtceu:assembler/hpca_empty_component'})
 
-    event.recipes.gtceu.assembler('new_hpca')
+    event.recipes.gtceu.assembler('new_HPCA')
         .itemInputs(
             '1x computercraft:computer_normal',
             '4x #gtceu:circuits/hv',
@@ -22,7 +22,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
         
-    event.recipes.gtceu.assembler('new_computer_casing')
+    event.recipes.gtceu.assembler('new_Computer_Casing')
         .itemInputs(
             'gtceu:aluminium_frame',
             '6x gtceu:aluminium_plate',
@@ -35,7 +35,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.MV]);
 
-    event.recipes.gtceu.assembler('new_advanced_computer_casing')
+    event.recipes.gtceu.assembler('new_Advanced_Computer_Casing')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/hv',
@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
         
-    event.recipes.gtceu.assembler('new_computer_heat_vent')
+    event.recipes.gtceu.assembler('new_Computer_Heat_Vent')
         .itemInputs(
             'gtceu:stainless_steel_frame',
             '2x gtceu:hv_electric_motor',
@@ -60,7 +60,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
 
-    event.recipes.gtceu.assembler('new_hpca_empty_component')
+    event.recipes.gtceu.assembler('new_HPCA_Empty_Component')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/lv',

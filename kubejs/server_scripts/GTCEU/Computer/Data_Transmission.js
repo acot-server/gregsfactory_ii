@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
 
     //T1 Data Computation Hatch
 
-    event.recipes.gtceu.assembler('new_comp_transm')
+    event.recipes.gtceu.assembler('new_Computation_Data_Transmission_Hatch')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/hv',
@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
 
-    event.recipes.gtceu.assembler('new_comp_recep')
+    event.recipes.gtceu.assembler('new_Computation_Data_Reception')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/hv',
@@ -37,7 +37,7 @@ ServerEvents.recipes(event => {
 
     //T2 Data Computation Hatch
 
-    event.recipes.gtceu.assembler('new_comp_transm_2')
+    event.recipes.gtceu.assembler('new_Computation_Data_Transmission_Hatch_2')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/ev',
@@ -51,7 +51,7 @@ ServerEvents.recipes(event => {
         .duration(3000)
         .EUt(GTValues.VA[GTValues.EV]);
 
-    event.recipes.gtceu.assembler('new_comp_recep_2')
+    event.recipes.gtceu.assembler('new_Computation_Data_Reception_2')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/ev',
@@ -67,7 +67,7 @@ ServerEvents.recipes(event => {
 
     //T3 Data Computation Hatch
 
-    event.recipes.gtceu.assembler('new_comp_transm_3')
+    event.recipes.gtceu.assembler('new_Computation_Data_Transmission_Hatch_3')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/iv',
@@ -82,7 +82,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.IV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.assembler('new_comp_recep_3')
+    event.recipes.gtceu.assembler('new_Computation_Data_Reception_3')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/iv',
@@ -99,7 +99,7 @@ ServerEvents.recipes(event => {
 
     //T4 Data Computation Hatch
 
-    event.recipes.gtceu.assembler('new_comp_transm_4')
+    event.recipes.gtceu.assembler('new_Computation_Data_Transmission_Hatch_4')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/luv',
@@ -114,7 +114,7 @@ ServerEvents.recipes(event => {
         .EUt(GTValues.VA[GTValues.LuV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.assembler('new_comp_recep_4')
+    event.recipes.gtceu.assembler('new_Computation_Data_Reception_4')
         .itemInputs(
             'gtceu:computer_casing',
             '#gtceu:circuits/luv',

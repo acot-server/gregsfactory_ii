@@ -144,7 +144,7 @@ ServerEvents.recipes(event => {
 
     event.recipes.gtceu.shukrute_pump('printed_rushu_circuit_board')
         .itemInputs(
-            'qilby_core:shukrute_circuit_board',
+            'qilby_core:rushu_circuit_board',
             '16x gtceu:ruridit_foil'
         )
         .circuit(1)
@@ -159,7 +159,7 @@ ServerEvents.recipes(event => {
 
     event.recipes.gtceu.shukrute_pump('printed_rushu_circuit_board_4')
         .itemInputs(
-            '4x qilby_core:shukrute_circuit_board',
+            '4x qilby_core:rushu_circuit_board',
             '64x gtceu:ruridit_foil'
         )
         .circuit(2)

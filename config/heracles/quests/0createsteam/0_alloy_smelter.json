@@ -2,13 +2,34 @@
   "dependencies": [
     "0_boiler"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "alloy": {
+      "type": "heracles:item",
+      "item": "gtceu:lp_steam_alloy_smelter",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "s": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
       "translate": "Mixing metals together"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

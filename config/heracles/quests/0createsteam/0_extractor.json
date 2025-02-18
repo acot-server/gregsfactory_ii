@@ -2,13 +2,34 @@
   "dependencies": [
     "0_boiler"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "extractor": {
+      "type": "heracles:item",
+      "item": "gtceu:lp_steam_extractor",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "st": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
       "translate": "Juicer"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

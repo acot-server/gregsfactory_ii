@@ -2,13 +2,22 @@
   "dependencies": [
     "0_early_workshop"
   ],
-  "tasks": {},
+  "tasks": {
+    "brass": {
+      "type": "heracles:item",
+      "item": "#forge:ingots/brass",
+      "amount": 64,
+      "collection": "AUTOMATIC"
+    }
+  },
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Sturdier materials for contraptions"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

@@ -2,17 +2,38 @@
   "dependencies": [
     "0_steel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "a": {
+      "type": "heracles:item",
+      "item": "gtceu:hp_steam_macerator",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "a": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Better steam machines [OPTIONAL]"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [
-          25,
+          26,
           100
         ]
       }

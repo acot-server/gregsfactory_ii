@@ -2,8 +2,27 @@
   "dependencies": [
     "0_boiler"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "fh": {
+      "type": "heracles:item",
+      "item": "gtceu:lp_steam_forge_hammer",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "loot": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
       "translate": "For cheaper plates"

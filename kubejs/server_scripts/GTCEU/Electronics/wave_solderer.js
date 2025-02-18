@@ -26,4 +26,15 @@ ServerEvents.recipes(event => {
     )
     .duration(200)
     .EUt(GTValues.VA[GTValues.HV]);
+
+    event.recipes.gtceu.distillery('soldering_flux')
+    .circuit(1)
+    .inputFluids(
+        Fluid.of('integrateddynamics:menril_resin', 1000)
+    )
+    .outputFluids(
+        Fluid.of('qilby_core:soldering_flux', 72)
+    )
+    .EUt(GTValues.VA[GTValues.MV])
+    .duration(600);
 });

@@ -3,13 +3,58 @@
     "0_brass",
     "0_automation_i"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "fil": {
+      "type": "heracles:item",
+      "item": "create:filter",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "chu": {
+      "type": "heracles:item",
+      "item": "create:smart_chute",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "tun": {
+      "type": "heracles:item",
+      "item": "create:brass_tunnel",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "fil2": {
+      "type": "heracles:item",
+      "item": "create:attribute_filter",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "fun": {
+      "type": "heracles:item",
+      "item": "create:brass_funnel",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "mechanical": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/mechanical",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Without human intervention"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

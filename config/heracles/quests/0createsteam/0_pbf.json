@@ -3,13 +3,40 @@
     "0_compressor",
     "0_macerator"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "controller": {
+      "type": "heracles:item",
+      "item": "gtceu:primitive_blast_furnace",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "firebricks": {
+      "type": "heracles:item",
+      "item": "gtceu:firebricks",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "steam": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/steam",
+      "type": "heracles:loottable"
+    }
+  },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Material processing"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "0 - Create & Steam": {
         "position": [

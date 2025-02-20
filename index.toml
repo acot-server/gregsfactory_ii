@@ -593,6 +593,14 @@ file = "kubejs/server_scripts/GTCEU/Electronics/new_silicon.js"
 hash = "8451f282690747f7ab685e5d7e933e5214636c9373ff736daa554c56d6e8070d"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/optical_assembly_line.js"
+hash = "7b03a3dcf5235bf971228a22cacf61f807a5884f374a19ec9b4644a7cf45f62f"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/optical_circuit.js"
+hash = "4d09ebf892ad03c14393b86aa80bf7f4daa53aa10e9776177482d040da0a1a75"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
 hash = "bdec48dada3209e67e7ee4aa290d1e3888a1259de4d1cb9cecb207005768d25c"
 
@@ -739,6 +747,14 @@ hash = "9e96db0992d5265e60b1a5f86b853222825b96593e05fa7c06b46617c9fe02e5"
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/greenhouse_map.js"
 hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
+hash = "e9333773c5f5500ad797d54f724549f8d2fb6c6b9de4b6f2ce3fa3d625221d73"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"
+hash = "ab27af7105abe187eed2fa67ee8095a56bff7cd28c7817ad11be886bc56322bc"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump.js"

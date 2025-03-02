@@ -1079,6 +1079,11 @@ hash = "25efcb8b71d0e8386e4d717f3975480f134463f95947877a6c8689e9f4966cf3"
 metafile = true
 
 [[files]]
+file = "mods/create-realism.pw.toml"
+hash = "c0d591ccb6b4f5ee78331e73610173d01bd8170fc703450dd358da32cda58a17"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
@@ -1689,6 +1694,11 @@ metafile = true
 [[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "95708c5221b1334c46943118ccde29fcc9100edfea17d0f2c5ab148b7c44b68b"
+metafile = true
+
+[[files]]
+file = "mods/tramways.pw.toml"
+hash = "00c62900127d54ff88210e84eca3da7230e8e8338614ae2237340036765ddbc9"
 metafile = true
 
 [[files]]

@@ -1230,12 +1230,12 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "5535500f9dc389efe9de510ad3fdfb573d0778d85bcc7f071cc03df89413c9b3"
+hash = "13213fa54c2012b4c90702b03284337acd4e2f102fefcbc53fcce341f5a70bed"
 metafile = true
 
 [[files]]
 file = "mods/gtmthings.pw.toml"
-hash = "135c8d86ee8a220586fb3a32db9dd8870614b65d00082111b8f7414e3a281616"
+hash = "56d2f23744d5e7fae0dec6ff75955ac9a6f36a80dbb802141b50377c8e8193ae"
 metafile = true
 
 [[files]]

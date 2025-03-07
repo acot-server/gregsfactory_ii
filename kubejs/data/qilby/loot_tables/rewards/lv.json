@@ -1,0 +1,217 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "gtceu:battery_alloy_ingot",
+          "weight": 80,
+          "functions": [
+            { "function": "set_count", "count": { "min": 32, "max": 64 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:copper_ingot",
+          "weight": 100,
+          "functions": [
+            { "function": "set_count", "count": { "min": 32, "max": 64 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:tin_ingot",
+          "weight": 100,
+          "functions": [
+            { "function": "set_count", "count": { "min": 32, "max": 64 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:transistor",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 10, "max": 15 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:inductor",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 10, "max": 15 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:capacitor",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 10, "max": 15 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:diode",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 10, "max": 15 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:resistor",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 10, "max": 15 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:resin_printed_circuit_board",
+          "weight": 50,
+          "functions": [
+            { "function": "set_count", "count": { "min": 3, "max": 5 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_battery_buffer_4x",
+          "weight": 20,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 2 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_electric_motor",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_electric_pump",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_conveyor_module",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_robot_arm",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_electric_piston",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_field_generator",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_emitter",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:lv_sensor",
+          "weight": 10,
+          "functions": [
+            { "function": "set_count", "count": { "min": 2, "max": 8 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_electric_motor",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_electric_pump",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_conveyor_module",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_robot_arm",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_electric_piston",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_field_generator",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_emitter",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "gtceu:mv_sensor",
+          "weight": 1,
+          "functions": [
+            { "function": "set_count", "count": { "min": 1, "max": 1 } }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -66,7 +66,7 @@ hash = "e7d8be36cd5aa219a325ed56d3f404bc3c3fd442c9bc7eaf57fbd83b66ebea72"
 
 [[files]]
 file = "config/heracles/quests/0createsteam/0_electronics.json"
-hash = "ac621b7e5008b68259ce2d2122ca82388e8adc6b3b32a825c3a1cea3a41509a7"
+hash = "d9500c10fca55314da58f5dd34092c76c71ead25abb3583ae8b03225a3eabd12"
 
 [[files]]
 file = "config/heracles/quests/0createsteam/0_extractor.json"
@@ -118,7 +118,7 @@ hash = "019afe9ba5bfe195c21b8de21785201c899a14e59dd6b95d2bf9f76601e2da3b"
 
 [[files]]
 file = "config/heracles/quests/0createsteam/0_large_boiler.json"
-hash = "b88c73e81ce8130c5fc777ccff6ce64f671f0cd3ac3f7c18ce1f5ed4c62b7215"
+hash = "09f8982807dfd31b7ebbd77bb8f8294830b7b404f805baa25e0cac949ee21408"
 
 [[files]]
 file = "config/heracles/quests/0createsteam/0_macerator.json"
@@ -169,8 +169,52 @@ file = "config/heracles/quests/0createsteam/0_wood_automation.json"
 hash = "4b96fa782717857a6fcf2d53af3bbd7817758b161c7e0a3b3351154f37f4e1ff"
 
 [[files]]
+file = "config/heracles/quests/1lv/1_aluminium.json"
+hash = "85c1acac5fb3216d3b232ccf55f90093bca242c6146aa25456e1b6a162922e00"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_casing_hull.json"
+hash = "14d52313d4f881e53e7a5100ba657b346ce67b60a9fa422d6979f9e5908d6fe1"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_circuits.json"
+hash = "17af4ac971ea1034f7fc99469bfc79aa054c3653a89bd392f1dff059ee82150c"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_ebf.json"
+hash = "45a4c5a233ad3b6ee53faa710e53749f192ccb5b6bbae73ac3bd633b34073e2a"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_machine_shop.json"
+hash = "070ece19b3b446920d6f8bd686bd5e2fc14c428d2cd268eb07e15063dee0eee4"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_machine_shop_2.json"
+hash = "41326ca204c0ce42e2194c413f77e0405a411ba6921e11e3076895a8ce3a7ae5"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_ore_proc.json"
+hash = "2725b42fb9cb7d96aef1e97b1b79bdc93b5144aff877fe5a678c8c6ee9c5a1d1"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_pe.json"
+hash = "bc1f1e72bd0f94eac4d7dbfb4cce02923575a00e932ee27f5f178cc80ae349c7"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_scrubber.json"
+hash = "1e1adfa502cc059c978c6f087342b6d1b913e082a5850895905f5e573cb91a59"
+
+[[files]]
+file = "config/heracles/quests/1lv/1_turbine.json"
+hash = "a1c990aba5afd4da7923a19627636a1f6d6494e9c17cce1c54077f71502f2bed"
+
+[[files]]
 file = "config/heracles/quests/readme/main_welcome.json"
-hash = "8f43bd547eadc264ddf40efa9f51116281b90fb93b8d77a8392e1dc35a13a5ed"
+hash = "b545f31cf3fbf47607c4c0a970118131e5b5fa7c4b48b41259ea8adb50e2ce3b"
+
+[[files]]
+file = "config/heracles/quests/readme/using_the_quest_tree.json"
+hash = "eeefa4a4d2dbc5972fe937afa6c7cb85fe6f18ff751c66d03b2739176b000883"
 
 [[files]]
 file = "config/heracles/tutorial.html"
@@ -477,8 +521,16 @@ file = "kubejs/config/common.properties"
 hash = "177ee8281033a217550fd333dc0bea62deae45324ee23fe48757f9fa9b9e6a33"
 
 [[files]]
+file = "kubejs/data/qilby/loot_tables/rewards/lv.json"
+hash = "4743e9784b6ee0bb02d75a61da2c24a0c18af388fce97c5cbb42ddbc6c8064be"
+
+[[files]]
 file = "kubejs/data/qilby/loot_tables/rewards/mechanical.json"
 hash = "d4e2ab733cb2e729a2080b1f2b3f7ebd1df352692d3234a43e1a9de2ad422cd1"
+
+[[files]]
+file = "kubejs/data/qilby/loot_tables/rewards/mv.json"
+hash = "47a9aebcd0c605a2ee66ae0a501002790f643180ae1a10cffe59170baa908fc4"
 
 [[files]]
 file = "kubejs/data/qilby/loot_tables/rewards/special.json"

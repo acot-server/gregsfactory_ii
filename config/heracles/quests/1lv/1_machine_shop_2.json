@@ -1,0 +1,103 @@
+{
+    "dependencies": [
+        "1_machine_shop"
+    ],
+    "tasks": {
+        "polarizer": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_polarizer"
+        },
+        "extractor": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_extractor"
+        },
+        "compressor": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_compressor"
+        },
+        "centrifuge": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_centrifuge"
+        },
+        "alloy_smelter": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_alloy_smelter"
+        },
+        "macerator": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_macerator"
+        },
+        "assembler": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_assembler"
+        },
+        "mixer": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_mixer"
+        },
+        "electrolyzer": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:lv_electrolyzer"
+        }
+    },
+    "rewards": {
+        "x": {
+            "icon": {
+                "item": { "id": "minecraft:bundle", "count": 1 },
+                "type": "heracles:item"
+            },
+            "type": "heracles:loottable",
+            "loot_table": "qilby:rewards/lv"
+        }
+    },
+    "display": {
+        "subtitle": {
+            "translate": "More Machines"
+        },
+        "description": [
+            ""
+        ],
+        "groups": {
+            "1 - LV": {
+                "position": [0, 150]
+            }
+        },
+        "icon": {
+            "item": {
+                "id": "gtceu:lv_macerator",
+                "count": 1
+            },
+            "type": "heracles:item"
+        },
+        "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+        "title": {
+            "translate": "The Electric Machine Shop II"
+        }
+    },
+    "settings": {
+        "showDependencyArrow": true,
+        "repeatable": false,
+        "autoClaimRewards": false,
+        "individual_progress": false,
+        "hidden": "LOCKED",
+        "unlockNotification": false
+    }
+}

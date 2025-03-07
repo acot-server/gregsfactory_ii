@@ -1,42 +1,70 @@
 {
-  "dependencies": [
-    "0_electronics"
-  ],
-  "tasks": {},
-  "rewards": {},
-  "display": {
-    "subtitle": {
-      "translate": "More steam"
-    },
-    "description": [
-      ""
+    "dependencies": [
+      "0_electronics"
     ],
-    "groups": {
-      "0 - Create & Steam": {
-        "position": [
-          -75,
-          150
-        ]
-      }
+    "tasks": {
+        "controller": {
+            "type": "heracles:item",
+            "amount": 1,
+            "collection": "AUTOMATIC",
+            "item": "gtceu:bronze_large_boiler"
+        }
     },
-    "icon": {
-      "item": {
-        "id": "gtceu:bronze_large_boiler",
-        "count": 1
-      },
-      "type": "heracles:item"
+    "rewards": {
+        "x": {
+            "icon": {
+                "item": { "id": "minecraft:bundle", "count": 1 },
+                "type": "heracles:item"
+            },
+            "type": "heracles:loottable",
+            "loot_table": "qilby:rewards/lv"
+        }
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
-    "title": {
-      "translate": "Large Boiler"
+    "display": {
+        "subtitle": {
+            "translate": "More steam"
+        },
+        "description": [
+            "In addition to the controller asked for by this quest you will need:",
+            "- a maintenance hatch",
+            "- a muffler hatch",
+            "- an input for your fuel of choice (item, or fluid, or both)",
+            "- a fluid input for water",
+            "- 1 to 4 fluid outputs for steam (you can get away with only one, but at high throttle, a single pipe may not be able to handle the full output)",
+            "- 2 bronze pipe casings",
+            "- enough bronze firebox casings and steam machine casings to complete the structure.",
+            "Read the aditional information in your datalink for assembly instructions",
+            "",
+            "PS: Consider using coke ovens and make charcoal to fuel this one",
+            "",
+            "PS 2: polution is enabled, so redirect the output of the muffler (with duct pipes) to an area you don't care too much about until you can get yourself an air scrubber"
+        ],
+        "groups": {
+            "0 - Create & Steam": {
+                "position": [
+                    -75,
+                    150
+                ]
+            }
+        },
+        "icon": {
+            "item": {
+                "id": "gtceu:bronze_large_boiler",
+                "count": 1
+            },
+            "type": "heracles:item"
+        },
+        "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+        "title": {
+            "translate": "Large Boiler"
+        }
+    },
+    "settings": {
+        "showDependencyArrow": true,
+        "repeatable": false,
+        "autoClaimRewards": false,
+        "individual_progress": false,
+        "hidden": "LOCKED",
+        "unlockNotification": false
     }
-  },
-  "settings": {
-    "showDependencyArrow": true,
-    "repeatable": false,
-    "autoClaimRewards": false,
-    "individual_progress": false,
-    "hidden": "LOCKED",
-    "unlockNotification": false
-  }
 }

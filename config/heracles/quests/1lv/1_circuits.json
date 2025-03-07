@@ -1,0 +1,99 @@
+{
+  "dependencies": [
+    "1_machine_shop_2"
+  ],
+  "tasks": {
+    "a_resistor": {
+      "title": "Automate resistors",
+      "icon": {
+        "item": {
+          "id": "gtceu:resistor",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    },
+    "c_tube": {
+      "title": "Automate Vacuum tubes",
+      "icon": {
+        "item": {
+          "id": "gtceu:vacuum_tube",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    },
+    "b_board": {
+      "title": "Automate resin PCBs",
+      "icon": {
+        "item": {
+          "id": "gtceu:resin_printed_circuit_board",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    },
+    "d_circuits": {
+      "title": "Automate the assembly of electronic circuits",
+      "icon": {
+        "item": {
+          "id": "gtceu:basic_electronic_circuit",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "x": {
+      "icon": {
+        "item": {
+          "id": "minecraft:bundle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "qilby:rewards/lv",
+      "type": "heracles:loottable"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Circuits by the drawer"
+    },
+    "description": [
+      "Here I will put the text"
+    ],
+    "groups": {
+      "1 - LV": {
+        "position": [
+          50,
+          150
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:lv_ore_washer",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Circuits"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

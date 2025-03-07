@@ -1,0 +1,126 @@
+{
+    "dependencies": [
+        "1_scrubber"
+    ],
+    "tasks": {
+        "coils": {
+            "type": "heracles:item",
+            "item": "gtceu:cupronickel_coil_block",
+            "amount": 16,
+            "collection": "AUTOMATIC"
+        },
+        "energy_hatches": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_energy_input_hatch",
+            "amount": 2,
+            "collection": "AUTOMATIC"
+        },
+        "item_in": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_input_bus",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "item_out": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_output_bus",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "fluid_in": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_input_hatch",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "fluid_out": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_output_hatch",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "maintenance": {
+            "type": "heracles:item",
+            "item": "gtceu:maintenance_hatch",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "controller": {
+            "type": "heracles:item",
+            "item": "gtceu:electric_blast_furnace",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "muffler": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_muffler_hatch",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "casings": {
+            "type": "heracles:item",
+            "item": "gtceu:heatproof_machine_casing",
+            "amount": 9,
+            "collection": "AUTOMATIC"
+        }
+    },
+    "rewards":  {
+        "x": {
+            "icon": {
+                "item": {
+                    "id": "minecraft:bundle",
+                    "count": 1
+                },
+                "type": "heracles:item"
+            },
+            "loot_table": "qilby:rewards/lv",
+            "type": "heracles:loottable"
+        },
+        "y": {
+            "icon": {
+                "item": {
+                    "id": "minecraft:bundle",
+                    "count": 1
+                },
+                "type": "heracles:item"
+            },
+            "loot_table": "qilby:rewards/lv",
+            "type": "heracles:loottable"
+        }
+    },
+    "display": {
+    "subtitle": {
+      "translate": "Making metals rather hot"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "1 - LV": {
+        "position": [
+          0,
+          250
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:electric_blast_furnace",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Electric blast furnace"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

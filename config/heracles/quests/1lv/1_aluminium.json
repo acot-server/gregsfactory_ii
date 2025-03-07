@@ -1,49 +1,56 @@
 {
   "dependencies": [
-    "0_mechanical_rubber",
-    "0_steel"
+    "1_ebf"
   ],
   "tasks": {
-    "dummy": {
+    "ingot": {
+      "type": "heracles:item",
+      "item": "#forge:ingots/aluminium",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "x": {
       "icon": {
         "item": {
-          "id": "minecraft:air",
-          "count": 0
+          "id": "minecraft:bundle",
+          "count": 1
         },
         "type": "heracles:item"
       },
-      "value": "12f164b0-a419-42e4-b9c0-fcd74f63",
-      "description": "",
-      "type": "heracles:dummy"
+      "type": "heracles:loottable",
+      "loot_table": "qilby:rewards/lv"
     }
   },
-  "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "01001000 01101001"
+      "translate": "Better metals"
     },
-    "description": [
-      ""
-    ],
     "groups": {
-      "0 - Create & Steam": {
+      "1 - LV": {
         "position": [
-          -75,
-          100
+          0,
+          300
         ]
       },
-      "1 - LV": { "position": [0, -50] }
+      "2 - MV": {
+        "position": [
+          0,
+          0
+        ]
+      }
     },
     "icon": {
       "item": {
-        "id": "gtceu:basic_electronic_circuit",
+        "id": "gtceu:aluminium_ingot",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "title": {
-      "translate": "Electronics"
+      "translate": "Aluminium"
     }
   },
   "settings": {

@@ -1,0 +1,64 @@
+{
+    "dependencies": [
+        "0_electronics"
+    ],
+    "tasks": {
+        "hull": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_machine_hull",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        },
+        "casing": {
+            "type": "heracles:item",
+            "item": "gtceu:lv_machine_casing",
+            "amount": 1,
+            "collection": "AUTOMATIC"
+        }
+    },
+    "rewards": {
+        "x": {
+            "icon": {
+                "item": { "id": "minecraft:bundle", "count": 1 },
+                "type": "heracles:item"
+            },
+            "type": "heracles:loottable",
+            "loot_table": "qilby:rewards/lv"
+        }
+    },
+    "display": {
+        "description": [
+            ""
+        ],
+        "groups": {
+            "1 - LV": {
+                "position": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "icon": {
+            "item": {
+                "id": "gtceu:lv_machine_casing",
+                "count": 1
+            },
+            "type": "heracles:item"
+        },
+        "subtitle": {
+            "translate": "You just need imagination to use this."
+        },
+        "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+        "title": {
+            "translate": "Boxes for Machines"
+        }
+    },
+    "settings": {
+        "showDependencyArrow": true,
+        "repeatable": false,
+        "autoClaimRewards": false,
+        "individual_progress": false,
+        "hidden": "LOCKED",
+        "unlockNotification": false
+    }
+}

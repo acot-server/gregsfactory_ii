@@ -19,25 +19,34 @@
       "text": ""
     },
     "description": [
-      "# Welcome to the Pack",
+      "/3/**CRITICAL FAILURE**/3/",
+      "/3/**Trying to reset datalink . . . ERROR couldn't load initial memory image**/3/",
+      "/3/**Trying to connect to emergency file server . . . ERROR server unreachable**/3/",
+      "/3/**Initializing fallback system**/3/",
+      "/9/**VERIFIYING MEMORY INTEGRITY 2147483648 / 2147483648 B . . . DONE**/9/",
+      "/9/**VERIFIYING EMERGENCY KERNEL CHECKSUM . . . DONE**/9/",
+      "/9/**VERIFIYING EMERGENCY MEMORY IMAGE CHECKSUM . . . DONE**/9/",
+      "/9/**STARTING EMERGENCY SYSTEM**/9/",
+      "/9/**GREG CORP EMERGENCY SYSTEMS v1.414.213562373095 - (c) 5132 GREG CORP**/9/",
       "",
-      "## On quests",
+      "/9/**CURRENT DATETIME 5232-06-28 03:14:15 UTC**/9/",
+      "/9/**LAST CONNECTED 5231-02-12 23:31:10 UTC**/9/",
+      "/9/**YOU HAVE 1 UNREAD MESSAGE. READ NOW [Y/N] ?**/9/ **Y**",
       "",
-      "- Quests in a circle are documentation quests, they typically are just a place where an explaination of how an item or mechanic works is written, they can most often be validated with a check box. This very quest is one of those.</li>",
-      "- Quests in a diamond are optional and mostly for completionists, you can complete the pack without issues while never doing them",
-      "- Quests in a cogwheel are key quests, they typically unlock a questline in another page.",
-      "- The rest (in squares) are your normal quest: do task, get reward, continue on to the next one.",
+      "> Hello, If you are reading this, something went terribly wrong, we are deeply sorry.",
+      "> So let's break the news:",
+      "> + Good news: You are alive",
+      "> + Good news: Your data link is intact enough to start the emergency system",
+      "> + Bad news: The dimensional shift experiment went awry and you have no idea where you're at.",
+      "> + Bad news: We probably also have no idea where you landed at.",
+      "> + Bad news: The comunicator that was supposed to call back home in case of problems either broke or cannot reach home (otherwise it would have grabbed a clean coppy of the normal system for your datalink)",
+      "> + Bad news: you are basically stranded with not much more than what you got on you, until you can figure a device to get you out of here",
+      "> + Good news: your datalink should have all the blueprints for the required tech (or at least enough to start doing your own research), you just have to collect the resources and assemble all the things.",
+      "> So uh, good luck",
+      "> — Dr. Marius Trucker, Head of Research and Developement, Greg Corp",
       "",
-      "<hr/>",
-      "## On documentation quests specifically",
-      "",
-      "/c/**--__READ THEM__--**/c/",
-      "Seriously, unless you are familiar with Gregtech, read them, it will prevent you wondering why in the nine hells your fluids are not getting to your machines, or why you exploded your workshop for the upteenth time.",
-      "",
-      "<hr/>",
-      "## On quest requirements",
-      "",
-      "If a quest asks you to make a stack of something, you usually should craft a big batch of it, you're gonna need a lot of it"
+      "/9/**END OF MESSAGE**/9/",
+      "/9/**END OF MESSAGES, HAVE A NICE DAY**/9/"
     ],
     "groups": {
       "Readme": {
@@ -49,14 +58,14 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:written_book",
+        "id": "gtceu:terminal",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Welcome to the Pack"
+      "translate": "STARTUP"
     }
   },
   "settings": {

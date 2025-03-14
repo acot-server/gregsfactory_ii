@@ -1,13 +1,13 @@
 name = "Cyclops Core"
-filename = "CyclopsCore-1.20.1-1.19.6.jar"
+filename = "CyclopsCore-1.20.1-1.19.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/DecmuACQ/CyclopsCore-1.20.1-1.19.6.jar"
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/Q1XepmfL/CyclopsCore-1.20.1-1.19.8.jar"
 hash-format = "sha512"
-hash = "6fe6aead563363027cd12f2f723ff2a922bb2ad548c26973ebd6365ffb8fe8e57a9c0c8f56ecdc9b78a90100907bd762c2a9b8ade7d1147dff1eb36f0d69a0eb"
+hash = "0c8219bdd98f75f887df9cdfd939eebf48cf4d925a9bfbd926ce5795f99bbd43814e889cd4b1d38eebd326e7a23695af9ab1fd8b38ce5ffaa4d69a8ee16985f7"
 
 [update]
 [update.modrinth]
 mod-id = "Z9DM0LJ4"
-version = "DecmuACQ"
+version = "Q1XepmfL"

@@ -1,13 +1,13 @@
 name = "Geckolib"
-filename = "geckolib-neoforge-1.20.1-4.4.9.jar"
+filename = "geckolib-forge-1.20.1-4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/maatiOOo/geckolib-neoforge-1.20.1-4.4.9.jar"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar"
 hash-format = "sha512"
-hash = "cdd734d028fe4c607bc8aa40fdaf57755c12fe344106e30b58317b6cf25c8c01f8f46a3f123d5e1753f970780276083add89cbea5e775fc080a01ab894302273"
+hash = "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149"
 
 [update]
 [update.modrinth]
 mod-id = "8BmcQJ2H"
-version = "maatiOOo"
+version = "LwI6czff"

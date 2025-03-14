@@ -830,7 +830,7 @@ hash = "179c134c84f6a4969a3074ec89bcb411932d860a26c6b3213dcf6c1f0a8b0f41"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
-hash = "7935c0ca294ae84ec34504477a5eea40c3185dfd5d25f1f38d9bace766158e5c"
+hash = "00bc1e5a76271dd1d77f62239350f0909abcf752b4d4ea37d86a12603667ba6f"
 
 [[files]]
 file = "kubejs/startup_scripts/create/sequenced_assembly_transisional.js"
@@ -1566,6 +1566,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
+metafile = true
+
+[[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "d77c84cf2ffe027efc80558485cca2da3ad51aaa9e964a5e9e7203c6c647d75e"
 metafile = true
 
 [[files]]

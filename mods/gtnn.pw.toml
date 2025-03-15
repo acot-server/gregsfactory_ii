@@ -1,13 +1,13 @@
 name = "GT--"
-filename = "gtnn-1.20.1-1.1.8.jar"
+filename = "gtnn-1.20.1-1.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/onpJaUJ0/versions/ldQxjogP/gtnn-1.20.1-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/onpJaUJ0/versions/Qm2PtRdf/gtnn-1.20.1-1.1.10.jar"
 hash-format = "sha512"
-hash = "c4afe2eae805ca97f7f3dd95430a15749bf62006d622e5b0da49f3ecac1fa5a1de9369b631c6ebf071e0df346b29e6d263a00962f936009ad17ce85165bcd060"
+hash = "9b76620899dd4d0674a1953255cd769416cc4078a2bd61dce2f061994055c16c5f02418ee98db1c0156ab9949de3bf37362653581c4a0d035295249a6a1446fc"
 
 [update]
 [update.modrinth]
 mod-id = "onpJaUJ0"
-version = "ldQxjogP"
+version = "Qm2PtRdf"

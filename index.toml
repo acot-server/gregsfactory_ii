@@ -229,6 +229,10 @@ file = "config/memorysettings.json"
 hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
+file = "config/xycraft/machines_common.toml"
+hash = "a1a626d90009589dc6d7313afa76fbc312c68fa16eaa7d53f8fdffdd797ba782"
+
+[[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
 hash = "d2075e91ce35061c6b864a20efa0c3486e3bfc194c892354930ca5ed2acbf7df"
 
@@ -952,7 +956,12 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
 
 [[files]]
@@ -1162,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
+hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
 metafile = true
 
 [[files]]
@@ -1350,6 +1359,11 @@ hash = "23dae17754dd0c22bde48f8cdde76b79fbf32db951d02eef98d16ec58e25cd4e"
 metafile = true
 
 [[files]]
+file = "mods/item-production-lib.pw.toml"
+hash = "15965344525e18aa5c36186572f69f3d597566fd22846401b892c8e5b8eeb0ae"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "3f432b6a6358f773426d01ab360816b2792c2d033eeca8d5595d2af205b22321"
 metafile = true
@@ -1522,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "e0d9db82e60f58d505d8fdb2cc2e0ed73510385582c2ca10e7934fd9fb81517e"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
 
 [[files]]
@@ -1766,6 +1785,26 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-machines.pw.toml"
+hash = "a0e467e6f8e56b02040026d9121c2efc2ce2e451ecc884deb82d6bde5911397a"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-override.pw.toml"
+hash = "4df9b9bfeda878ecf2a4529070c4a099e60799beb09e50c79b832d3e5f60ef02"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-world.pw.toml"
+hash = "0b53eb0aa8da580b8a8f11e907a46633853cef4fcf15cdcdcc0ff1e1396a935f"
+metafile = true
+
+[[files]]
+file = "mods/xycraft.pw.toml"
+hash = "29d3255ea87d64f22f342e78e4ff82bd36938248ea3c0e11490c301f2eab16a1"
 metafile = true
 
 [[files]]

@@ -230,7 +230,7 @@ hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"
-hash = "a1a626d90009589dc6d7313afa76fbc312c68fa16eaa7d53f8fdffdd797ba782"
+hash = "55deb077744d32583ed9d36cb5959583163904a80ebcfb434c812882b62c343b"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"

@@ -9,10 +9,6 @@ file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
-file = "config/biomesize.json"
-hash = "abf9fe5e7e1b0613992e9893800736661d7b3b8d7eb0081793528ed3531c84b7"
-
-[[files]]
 file = "config/brandon3055/DraconicEvolution.cfg"
 hash = "3d58d06424580407399e8cb0f0150629ed0722f4720013117c393a984d49e3d5"
 
@@ -846,7 +842,7 @@ hash = "62a4ffdbd323cdd217416159cea42e2c91445b601f73c85e0025dc43972cf08c"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "5e727d91523c52e5056a57556d63118fe26802d824668c662195c8abf762a265"
+hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
 
 [[files]]
@@ -936,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-creo.pw.toml"
-hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
 metafile = true
 
 [[files]]
@@ -946,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
+hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
 metafile = true
 
 [[files]]
@@ -987,11 +983,6 @@ metafile = true
 [[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
 hash = "38bfdd176dbfb684b40cd0239a95893b9e047813130fdd76935131ccf702989b"
-metafile = true
-
-[[files]]
-file = "mods/biomesize.pw.toml"
-hash = "cf7946725e4b8c6457267419ea66246eaedcda7e6c0f410e87b08a4aeddaac3f"
 metafile = true
 
 [[files]]
@@ -1061,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
@@ -1100,53 +1091,23 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "b9f602d8ff484f7cae702fdfb45d006ed47e77efbdb0a552da2fa14132137dc8"
-metafile = true
-
-[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "a8325458914ecc387c8fdb2e64ddf2076454c7f3171a303b6809bc055df99028"
-metafile = true
-
-[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
-hash = "f3d3886f57a32fcd3ed4b65e63dcefbeb95d7a5bf033bb7702af8b9ed3712cef"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
+hash = "e6b58f23c741ff89b97cfab8242ad4f34d0b91082bb8d861b9f4ed08c9beece0"
 metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "140515ab8fb320b7b333931a0b256e091e02f45f295108633d6c77478b3d8ff9"
+hash = "ae285415e99b8f9b9666b34cf938b6163d7e09ca047263d69eec236e29949779"
 metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "25efcb8b71d0e8386e4d717f3975480f134463f95947877a6c8689e9f4966cf3"
-metafile = true
-
-[[files]]
-file = "mods/create-realism.pw.toml"
-hash = "c0d591ccb6b4f5ee78331e73610173d01bd8170fc703450dd358da32cda58a17"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
 
 [[files]]
@@ -1156,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
@@ -1191,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "a247ce1e2f3334589632c90922ad74abd1b937952b7fb53aa929be3208258564"
+hash = "83260a78c1a7e8f24c6bc276a40f4a6f656cc1b63ad13dab1d717cc68ea70890"
 metafile = true
 
 [[files]]
@@ -1226,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "aa2bf2748b555aaeb44148c3cc3e8396f02000de333ebebca8bb1e20151d06ce"
+hash = "8b1a786043c605b87c2c18db9aec4e71035f4e33aba68ecb9f48a1e10879962b"
 metafile = true
 
 [[files]]
@@ -1340,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "dc5120c1a6e91cd9c3ffd93190e3e093d1013ee5f55c6a3feb64d9f43f5f14fd"
+hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
 metafile = true
 
 [[files]]
@@ -1603,11 +1564,6 @@ hash = "4e717e20893bb5edb032bd85130347169de1b50c0666e921f7dd4ddc5d9a8469"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "95cb627d4f6ac64e0482ad359f0fb9cfa0c1abe248370d61bc2a520d2b8c665c"
 metafile = true
@@ -1684,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "9c93c8814bd7a3b30c7e8dc559b18c1355630c43ec2b4e16208369f7652c186b"
+hash = "b4dfdba1d7ac126bc9cf2751782a62bd71375c5ba7f46289e14d9127b1e1479a"
 metafile = true
 
 [[files]]
@@ -1699,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "21ded7427eed05b00fd5f1fb2c1e5232809113dc9020f612269181cad844a1fb"
+hash = "061f2fdc7a914407b29a5066980f5e5c72095a61bb008d7ce2d3d28956d3f15a"
 metafile = true
 
 [[files]]
@@ -1760,11 +1716,6 @@ metafile = true
 [[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "95708c5221b1334c46943118ccde29fcc9100edfea17d0f2c5ab148b7c44b68b"
-metafile = true
-
-[[files]]
-file = "mods/tramways.pw.toml"
-hash = "00c62900127d54ff88210e84eca3da7230e8e8338614ae2237340036765ddbc9"
 metafile = true
 
 [[files]]

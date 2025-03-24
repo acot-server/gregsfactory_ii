@@ -87,7 +87,7 @@
 		tank_size_limit = 13
 		#How much fluid can be stored for each empty air block in the defined box. Measured in milli-buckets (mB)
 		#Range: 1 ~ 64000
-		tank_storage_per_block = 32000
+		tank_storage_per_block = 64000
 		#How frequently a tank will tick.
 		#Range: 5 ~ 20
 		tank_tick_rate = 10

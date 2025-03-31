@@ -1096,6 +1096,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "7b231b4dcf6ae31bd4a8906e062d12257cc5e409f1e4c378c62d1c641a25d826"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "e6b58f23c741ff89b97cfab8242ad4f34d0b91082bb8d861b9f4ed08c9beece0"
 metafile = true
@@ -1107,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
+hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
 
 [[files]]
@@ -1258,6 +1263,11 @@ metafile = true
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "13213fa54c2012b4c90702b03284337acd4e2f102fefcbc53fcce341f5a70bed"
+metafile = true
+
+[[files]]
+file = "mods/gt-community-additions.pw.toml"
+hash = "2c45f5bd9648cebb5fa4c182bc2872c11261959dde72c754f7dc42233f1d6e4c"
 metafile = true
 
 [[files]]

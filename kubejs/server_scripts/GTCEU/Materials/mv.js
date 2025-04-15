@@ -2,7 +2,6 @@ ServerEvents.recipes(ev => {
     // MV Casing
     ev.remove('gtceu:shaped/casing_mv');
     ev.remove('gtceu:assembler/casing_mv');
-
     ev.shaped(
         'gtceu:mv_machine_casing',
         [ 'PPP'

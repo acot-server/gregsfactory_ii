@@ -14,10 +14,10 @@ ServerEvents.recipes(ev => {
     );
     ev.recipes.gtceu.assembler('new_mv_casing')
         .itemInputs('8x #forge:plates/terra_steel')
+        .itemOutputs('gtceu:mv_machine_casing')
         .circuit(8)
         .EUt(16)
-        .duration(50)
-        .itemOutputs('gtceu:mv_machine_casing');
+        .duration(50);
 });
 
 ServerEvents.tags('item', ev => {

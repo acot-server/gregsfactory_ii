@@ -12,7 +12,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
       )
       .pattern((definition) => 
         FactoryBlockPattern.start()
-      .aisle("  AAA  ", "  A@A  ", "  AAA  ", "  AAA  ") 
+      .aisle("  AAA  ", "  AGA  ", "  AAA  ", "  AAA  ") 
       .aisle("  AAA  ", "  BCB  ", "  ADA  ", "  EAE  ") 
       .aisle("  AAA  ", "  BCB  ", "  ADA  ", "  EAE  ") 
       .aisle("  AAA  ", "  BCB  ", "  ADA  ", "  EAE  ") 
@@ -24,7 +24,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
       .aisle("AAAAAAA", "A     A", "A     A", "AFFFFFA") 
       .aisle("AAAAAAA", "G     G", "A     A", "AFFFFFA") 
       .aisle("AAAAAAA", "A     A", "A     A", "AFFFFFA") 
-      .aisle("AAAAAAA", "AAAGAAA", "AAAAAAA", "AAAAAAA") 
+      .aisle("AAAAAAA", "AAA@AAA", "AAAAAAA", "AAAAAAA") 
           .where("@", Predicates.controller(Predicates.blocks(definition.get())))
           .where(
             "A",

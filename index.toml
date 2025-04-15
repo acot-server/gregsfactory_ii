@@ -681,12 +681,24 @@ file = "kubejs/server_scripts/MBHelper.js.dis"
 hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
 
 [[files]]
+file = "kubejs/server_scripts/ad_astra/chips.js"
+hash = "c8b196889a20c65200174877ec463fc016bba150f9be9407e5841ecdcf509746"
+
+[[files]]
+file = "kubejs/server_scripts/ad_astra/heavy_alloy.js"
+hash = "fc311add916dac2f0a8e7700cf1074a9df14bd92ce7a2b24617bb7472f5e3b74"
+
+[[files]]
 file = "kubejs/server_scripts/ad_astra/parts.js"
 hash = "3b954f97d8ec1e08c47ad92fed0cee2be7cef350e8ef05e382443c27a3752430"
 
 [[files]]
 file = "kubejs/server_scripts/ad_astra/removals.js"
 hash = "4260ca1fce8c62d5ead40ff3670dff1d00d6e10cf4ccdd469a0124c305473952"
+
+[[files]]
+file = "kubejs/server_scripts/ad_astra/rocket.js"
+hash = "ad337f494aa88e646c85b8c7a9fe97c4c1f9315c5d65b104cf69b2d9e54ad7e9"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
@@ -814,7 +826,7 @@ hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
-hash = "e9333773c5f5500ad797d54f724549f8d2fb6c6b9de4b6f2ce3fa3d625221d73"
+hash = "e51f3f5c551dba86b5b5b397b78c6daeb71a191756014630f36efe7d6da92dc2"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"

@@ -1,13 +1,8 @@
 ServerEvents.recipes(ev => {
-<<<<<<< HEAD
     // MV Casing
     ev.remove('gtceu:shaped/casing_mv');
     ev.remove('gtceu:assembler/casing_mv');
-=======
-    ev.remove('gtceu:shaped/casing_mv');
-    ev.remove('gtceu:assembler/casing_mv');
 
->>>>>>> 5c7f133 (change material for MV hull)
     ev.shaped(
         'gtceu:mv_machine_casing',
         [ 'PPP'

@@ -662,7 +662,7 @@ hash = "e17ebfcca79f2de57ed312e001fed75a78d69ae199af63ad442f5f77399367b8"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/mv.js"
-hash = "ea9a2aa4b50e54f2a0bc95e5794e6e63cbc4aa3ace5adddff68a6f7568439e54"
+hash = "2ba798b11f1e7634ecdb188367bbe7e7fd75d56853038fd6180951dcaf93d3a1"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"

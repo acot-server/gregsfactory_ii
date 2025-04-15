@@ -677,6 +677,10 @@ file = "kubejs/server_scripts/MBHelper.js.dis"
 hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
 
 [[files]]
+file = "kubejs/server_scripts/ad_astra/parts.js"
+hash = "3b954f97d8ec1e08c47ad92fed0cee2be7cef350e8ef05e382443c27a3752430"
+
+[[files]]
 file = "kubejs/server_scripts/ad_astra/removals.js"
 hash = "4260ca1fce8c62d5ead40ff3670dff1d00d6e10cf4ccdd469a0124c305473952"
 

@@ -30,7 +30,7 @@ hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "5656743225b3fcb770497a4cafc7b90d5237d9f4b01f738f65624981c4642dd9"
+hash = "6d6bf9c8eb2e6a83f77b5aa010d6bf92a6c9f90cf8d4a980943affd158f9e213"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"

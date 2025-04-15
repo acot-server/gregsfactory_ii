@@ -1773,6 +1773,11 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
+file = "mods/xenon.pw.toml"
+hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
+metafile = true
+
+[[files]]
 file = "mods/xycraft-machines.pw.toml"
 hash = "a0e467e6f8e56b02040026d9121c2efc2ce2e451ecc884deb82d6bde5911397a"
 metafile = true

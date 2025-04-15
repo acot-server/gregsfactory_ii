@@ -657,6 +657,10 @@ file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
 hash = "bdec48dada3209e67e7ee4aa290d1e3888a1259de4d1cb9cecb207005768d25c"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Materials/mv.js"
+hash = "77dd9a7722e0a39e6a5125573f8ecab60b0cd3dd1f4b33eb0639428f9604d08d"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
 hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
 

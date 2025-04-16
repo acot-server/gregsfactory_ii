@@ -946,12 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
-metafile = true
-
-[[files]]
-file = "mods/argonauts.pw.toml"
-hash = "93865a9ee4674584b3df93d3089114aefa1cf3d06614c57957820ab565e9eeb6"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -1057,11 +1052,6 @@ metafile = true
 [[files]]
 file = "mods/building-wands.pw.toml"
 hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "17a166b10cee18d3e9a7d59e801e1f910ba94d86575cfabc25b67ecc4257bdd6"
 metafile = true
 
 [[files]]
@@ -1265,6 +1255,41 @@ hash = "e669b0daf2777dcc5f81b7a9d236d9aa86eba2ae215eb6aaf75c43ff40f48d8e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "e4a60dc6d46d1070e33b8972e2c000a200928d3a401af21df57649f39e207bf5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "47c9773ffdea65b209557efa75cedbeb612c83bcbc9dbc21606c70445ece9b4f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
 metafile = true
@@ -1302,11 +1327,6 @@ metafile = true
 [[files]]
 file = "mods/gtnn.pw.toml"
 hash = "d4c2e709144bc9b0174608697987ae40e589bdd235d5cb0f51da1da2b4e0e5ca"
-metafile = true
-
-[[files]]
-file = "mods/heracles.pw.toml"
-hash = "ca70bbebd97964ddb0bce943232018e0c39a123a11fa8712d0ce78e226c76d26"
 metafile = true
 
 [[files]]
@@ -1560,11 +1580,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
-metafile = true
-
-[[files]]
-file = "mods/prometheus.pw.toml"
-hash = "f007198f36e4e364229e549d11738f7cd15ab58e76d636ca8ade186f8481c9a3"
 metafile = true
 
 [[files]]

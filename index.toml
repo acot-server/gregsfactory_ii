@@ -1320,11 +1320,6 @@ hash = "2c45f5bd9648cebb5fa4c182bc2872c11261959dde72c754f7dc42233f1d6e4c"
 metafile = true
 
 [[files]]
-file = "mods/gtmthings.pw.toml"
-hash = "56d2f23744d5e7fae0dec6ff75955ac9a6f36a80dbb802141b50377c8e8193ae"
-metafile = true
-
-[[files]]
 file = "mods/gtnn.pw.toml"
 hash = "d4c2e709144bc9b0174608697987ae40e589bdd235d5cb0f51da1da2b4e0e5ca"
 metafile = true

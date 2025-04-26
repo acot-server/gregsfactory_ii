@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "copycats-3.0.0+mc.1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/u3FzFq67/copycats-3.0.0%2Bmc.1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "fbe3273c7288e52ed0d506509ae2113197580270ae229c60910c6d197d99317ab0f3273fffd4dd47816996142f7ad3b36085bd0f6adbe1c0a0bd688db0d1017e"
+
+[update]
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "u3FzFq67"

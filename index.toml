@@ -29,6 +29,10 @@ file = "config/memorysettings.json"
 hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
+file = "config/skilltree-common.toml"
+hash = "361401e100ed66e59b6da1ca8e6f92f3ebc0c0b2f32f72ec015571f5bd2afb57"
+
+[[files]]
 file = "config/xycraft/machines_common.toml"
 hash = "55deb077744d32583ed9d36cb5959583163904a80ebcfb434c812882b62c343b"
 

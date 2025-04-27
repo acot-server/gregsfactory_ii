@@ -2,7 +2,7 @@ name = "GT Community Additions"
 filename = "gtca-1.3.jar"
 side = "both"
 
-[dowload]
+[download]
 url = "https://cdn.modrinth.com/data/jIPykDYO/versions/BhGzHmQI/gtca-1.3.jar"
 hash-format = "sha512"
 hash = "e75c289ce2bba9a0ff7da5f331e7c557b50414ef66bcad48b08ecb6dafe07651cd6483274cbdb0f8179ffbb7d598a92a311228659cbfc3056c12b286bca1a794"

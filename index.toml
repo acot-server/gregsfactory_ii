@@ -1121,7 +1121,7 @@ metafile = true
 
 [[files]]
 file = "mods/gt-community-additions.pw.toml"
-hash = "a68310aa7374f7991eabb774c8bf372c8ec6ca280959f7f0723907ca349bf49b"
+hash = "7ebbc35e44ce34fd10e657f65e54b0a9f5fcf500d289ed633f0944b7e3dd544d"
 metafile = true
 
 [[files]]

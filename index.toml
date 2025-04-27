@@ -30,7 +30,7 @@ hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "361401e100ed66e59b6da1ca8e6f92f3ebc0c0b2f32f72ec015571f5bd2afb57"
+hash = "5656743225b3fcb770497a4cafc7b90d5237d9f4b01f738f65624981c4642dd9"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"
@@ -393,16 +393,16 @@ file = "kubejs/data/qilby/railways_liquid_fuel/uranium.json"
 hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Agriculture/greenhouse.js"
-hash = "0a7bab643030f2c9afabf70f578e14653b0231ee1b485acaf17eebb2ae75bb31"
-
-[[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/Shukrute_process/shukrute_pump.js"
 hash = "868fe8994dc774685f7c616f8c0deb408cc6f2298563b657e1fed990d2acf64c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/eliaforge.js"
 hash = "f6ba022b32046c486beb76f0af1ae81e898f72fc736f7ba7310b71ef43f6c77e"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Components/cover.js"
+hash = "4bc5e9f8ab57981803a822e1838c62b5dc7751a13adacae7c03f87267f40556c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uev.js"
@@ -623,14 +623,6 @@ hash = "40456aa584060b0f68ee937539bcf1f7b30f7b3abb6683d3c15c7335f6b830fd"
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/eliaforge_map.js"
 hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
-
-[[files]]
-file = "kubejs/startup_scripts/GTCEU/greenhouse.js"
-hash = "9e96db0992d5265e60b1a5f86b853222825b96593e05fa7c06b46617c9fe02e5"
-
-[[files]]
-file = "kubejs/startup_scripts/GTCEU/greenhouse_map.js"
-hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"

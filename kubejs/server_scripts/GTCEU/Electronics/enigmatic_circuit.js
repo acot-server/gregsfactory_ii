@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
             '12x qilby_core:enigmatic_processor'
         )
         .duration(150)
-        .EUt(450000)
+        .EUt(GTValues.VA[GTValues.UHV])
         .cleanroom(CleanroomType.CLEANROOM);
 
     event.recipes.gtceu.circuit_assembler('enigmatic_processor_assembly')
@@ -27,7 +27,7 @@ ServerEvents.recipes(event => {
             '6x qilby_core:enigmatic_processor_assembly'
         )
         .duration(600)
-        .EUt(GTValues.VA[GTValues.ZPM])
+        .EUt(GTValues.VA[GTValues.UV])
         .cleanroom(CleanroomType.CLEANROOM);
 
     event.recipes.gtceu.assembly_line('enigmatic_processor_supercompter')
@@ -37,12 +37,12 @@ ServerEvents.recipes(event => {
             '12x gtceu:advanced_smd_diode',
             '48x gtceu:nor_memory_chip',
             '44x gtceu:fine_indium_tin_barium_titanium_cuprate_wire',
-            '48x gtceu:polybenzimidazole_foil',
-            '8x gtceu:trinium_plate'
+            '24x gtca:radon_polymer_plate',
+            '8x gtca:quantum_alloy_plate'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 1152),
-            Fluid.of('gtceu:polybenzimidazole', 576)
+            Fluid.of('gtca:radon_polymer', 576)
         )
         .itemOutputs(
             '3x qilby_core:enigmatic_processor_computer'
@@ -60,22 +60,21 @@ ServerEvents.recipes(event => {
             '64x gtceu:advanced_smd_inductor',
             '64x gtceu:advanced_smd_resistor',
             '64x gtceu:advanced_smd_transistor',
-            '64x gtceu:polybenzimidazole_foil',
-            '64x gtceu:polybenzimidazole_foil',
+            '64x gtca:radon_polymer_plate',
             '64x gtceu:ram_chip',
             '16x gtceu:ruthenium_trinium_americium_neutronate_double_wire',
-            '8x gtceu:trinium_plate'
+            '8x gtca:quantum_alloy_plate'
 
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 2880),
-            Fluid.of('gtceu:polybenzimidazole', 1440)
+            Fluid.of('gtca:radon_polymer', 1440)
         )
         .itemOutputs(
             'qilby_core:enigmatic_processor_mainframe'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_mainframe')).CWUt(2048).EUt(GTValues.VA[GTValues.UHV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_mainframe')).CWUt(2048).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
-        .EUt(GTValues.VA[GTValues.UHV]);
+        .EUt(GTValues.VA[GTValues.UV]);
 
 });

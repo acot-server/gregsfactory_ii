@@ -1686,10 +1686,6 @@ hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
-file = "qilby_core-1.6.1.jar"
-hash = "367e91159dfb78357e0d9ead62cb8cdd1523b838eaa8ecf0d7518e0d538f543b"
-
-[[files]]
 file = "resourcepacks/computercraft-greg-flavored.pw.toml"
 hash = "2d9aebd21f71d33cec50ca12735efcc18c0b6a4bcb3fd02b373891f96601b11d"
 metafile = true

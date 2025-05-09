@@ -3,6 +3,6 @@ filename = "qilby_core-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/acot-server/qilby_core/releases/download/v1.6.0/qilby_core-1.6.0.jar"
+url = "https://github.com/acot-server/qilby_core/releases/download/v1.6.1/qilby_core-1.6.1.jar"
 hash-format = "sha1"
-hash = "c5edb09e6db8e2f611f1623fb1bb84bcec7efd55"
+hash = "4614424a3230882ed3175cf3e5fb57a3556768b6"

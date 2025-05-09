@@ -30,7 +30,7 @@ hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
 
 [[files]]
 file = "config/skilltree-common.toml"
-hash = "5656743225b3fcb770497a4cafc7b90d5237d9f4b01f738f65624981c4642dd9"
+hash = "6d6bf9c8eb2e6a83f77b5aa010d6bf92a6c9f90cf8d4a980943affd158f9e213"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"
@@ -441,12 +441,20 @@ file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js"
 hash = "45706e80d5613599e51003fefd2b7654246aa4f0dce9fd3d2924c6a111b58fae"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/early_game_circuits.js"
+hash = "682a2481545a97828aa4b09f6cdd56e75eb924c99d1af9340c17b90681c00360"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/electronics_tags.js"
-hash = "26ba613a28696f8d9d8825faad047e191109ed56d6438e57fa1cdf792c5e6565"
+hash = "70a9fa3c32de7f37bd849d6e73d1a8957c4f0f3847602aa4e9d37219bd945eea"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/enigmatic_circuit.js"
-hash = "7e2d403f2516b42bc72d0610e0dfe7e81f6c633251afcdd97ab5c0835d8b4241"
+hash = "be7a1e932f1f42bbd2d70f7218ae280033b783f8547f088addc959e704b657d4"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/mid_game_circuits.js"
+hash = "0be543144c558ec42d4f6b66750470f43e929cdac0e3a8e7f3762496cef161eb"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/new_silicon.js"
@@ -458,7 +466,7 @@ hash = "7b03a3dcf5235bf971228a22cacf61f807a5884f374a19ec9b4644a7cf45f62f"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_circuit.js"
-hash = "4d09ebf892ad03c14393b86aa80bf7f4daa53aa10e9776177482d040da0a1a75"
+hash = "8aba9299418b1101a2262e56bd67a1aa99a4ce2eee60d05a6fd57aeb15f6560a"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
@@ -1394,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "5a8e6dc8c4865e4b047397caa7c8c833248c314d7508bc94a8a6c2879ce389d5"
+hash = "064136d6273417f99d58ec49209a272628ccd7a1a04a259c5e36b7ab93d1c654"
 metafile = true
 
 [[files]]

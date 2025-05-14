@@ -952,6 +952,11 @@ hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "6d49769200f9a98127f2e457f9d9afa5f84e538dafaf40542aeb712efe380cc4"
+metafile = true
+
+[[files]]
 file = "mods/create-wizardry.pw.toml"
 hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
 metafile = true

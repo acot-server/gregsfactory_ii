@@ -642,7 +642,7 @@ hash = "ab27af7105abe187eed2fa67ee8095a56bff7cd28c7817ad11be886bc56322bc"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/parallel_fusion_reactor.js"
-hash = "eda8af2f00ab3f2f692657a9cf4282fd197073f5b10bd34441438211a94408f4"
+hash = "e892b0c3b2ffe907aa2a03d17ab3ccbaa750aae544b2c32682738820da54acde"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump.js"

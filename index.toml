@@ -641,6 +641,10 @@ file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"
 hash = "ab27af7105abe187eed2fa67ee8095a56bff7cd28c7817ad11be886bc56322bc"
 
 [[files]]
+file = "kubejs/startup_scripts/GTCEU/parallel_fusion_reactor.js"
+hash = "eda8af2f00ab3f2f692657a9cf4282fd197073f5b10bd34441438211a94408f4"
+
+[[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump.js"
 hash = "bf332e9971c9804cfa3a28792962e17d01a61d9fb768a09205b2095434cbe09b"
 

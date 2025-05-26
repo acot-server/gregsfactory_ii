@@ -5,6 +5,10 @@ file = "config/adchimneys-common.toml"
 hash = "cd48c9f16b82ed52ac036c326c4613393b58cc2df56bf61736ee7777df9abc83"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "eeb3b5e1dd864f48ba8dc9559c5c186360abb16a8da403abed039eb294b14869"
+
+[[files]]
 file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
@@ -14,11 +18,11 @@ hash = "3d58d06424580407399e8cb0f0150629ed0722f4720013117c393a984d49e3d5"
 
 [[files]]
 file = "config/brandon3055/ModuleStats.cfg"
-hash = "01162bbb14f6c9cf82cb09f3a767a0e016ab8955d657cd971da393f60a8e251e"
+hash = "896c23a9ea947b66aa12459c0327863db17bb046edac24df9735253701ece303"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "4083aee1747b0ad39e81174723ceecd44936aa3209e17663568044c361b26b9f"
+hash = "90cca4ab8e8529ea6aeb030d7739e231fb8c289955770138d63b092882d91598"
 
 [[files]]
 file = "config/immediatelyfast.json"

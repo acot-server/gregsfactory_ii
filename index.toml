@@ -961,6 +961,11 @@ hash = "6d49769200f9a98127f2e457f9d9afa5f84e538dafaf40542aeb712efe380cc4"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "bacad21ae6da0a999eb913f557d68357e0010c2ce0d3eda06693d67b6e84a061"
+metafile = true
+
+[[files]]
 file = "mods/create-wizardry.pw.toml"
 hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
 metafile = true
@@ -983,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
+metafile = true
+
+[[files]]
+file = "mods/curvy-pipes.pw.toml"
+hash = "649327b211c77b93cf99d0205dc419df61ed4c09cf0de09b396454ff51274428"
 metafile = true
 
 [[files]]

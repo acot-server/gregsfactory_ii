@@ -911,6 +911,11 @@ hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
+file = "mods/configuration.pw.toml"
+hash = "7c1e6a587c3a46d1f9c379cdd0dc6305a87d578700c64f46da0f630f14b8a98f"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
 metafile = true
@@ -1143,6 +1148,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "ce26e71a01dc450b60d754bc44675915e8a54f2bb6db215a76a21e43fad3d44e"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-modern-utilities.pw.toml"
+hash = "f7eb52dc00d8186cc6a1d93b7c2d437586cca160828aad2147168c52ffba6525"
 metafile = true
 
 [[files]]

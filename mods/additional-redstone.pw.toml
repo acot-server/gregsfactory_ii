@@ -1,13 +1,13 @@
 name = "Additional Redstone"
-filename = "additionalredstone-forge-1.20.1-1.1.0.jar"
+filename = "additionalredstone-forge-1.20.1-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hhraLneG/versions/dxBdJGM1/additionalredstone-forge-1.20.1-1.1.0.jar"
-hash-format = "sha1"
-hash = "ade10809c1a2ff5dd3fb388b645cdfa926464a09"
+url = "https://cdn.modrinth.com/data/hhraLneG/versions/eRXBVXUH/additionalredstone-forge-1.20.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "b8ffc059209d124f4e17e1d59253cf82b46a0eab77896f459110537a2f51b4e30e59d453185a3a2e0e5a974c29641b85b906cda309dcd867e89fc90dacc64ac9"
 
 [update]
 [update.modrinth]
 mod-id = "hhraLneG"
-version = "dxBdJGM1"
+version = "eRXBVXUH"

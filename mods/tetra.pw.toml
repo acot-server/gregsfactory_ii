@@ -1,13 +1,13 @@
 name = "tetra"
-filename = "tetra-1.20.1-6.8.0.jar"
+filename = "tetra-1.20.1-6.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YP9DjOvN/versions/lAB6ZGqG/tetra-1.20.1-6.8.0.jar"
+url = "https://cdn.modrinth.com/data/YP9DjOvN/versions/v6cyAXIJ/tetra-1.20.1-6.9.0.jar"
 hash-format = "sha512"
-hash = "1e33bd00c10d5087196910f20adcf4c6eae2377d96f37973df5d8dd5491a56cc82823377fcbaeef30237946ae18e873e8c8a50ff2a9d91681d132ce9ac2337d3"
+hash = "00a254b7d9d84251c5c75bcaa12cee7fb42e9bbf43bc22c2ef8504140a26bd5fb03f2f1d1810a8319d1c7c43f5a6cf6c1930ba4fe3e12f5bbb4a9917beffb2ba"
 
 [update]
 [update.modrinth]
 mod-id = "YP9DjOvN"
-version = "lAB6ZGqG"
+version = "v6cyAXIJ"

@@ -1,17 +1,11 @@
 // priority: 3
 GTCEuStartupEvents.registry("gtceu:machine", (event) => {
-  event
-    .create("eliaforge", "multiblock")
+  event.create("eliaforge", "multiblock")
     .rotationState(RotationState.NON_Y_AXIS)
     .recipeType("eliaforge")
     .appearanceBlock(GTBlocks.ADVANCED_COMPUTER_CASING)
-    .recipeModifier(
-      GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(
-        OverclockingLogic.NON_PERFECT_OVERCLOCK
-      )
-    )
-    .pattern((definition) => 
-      FactoryBlockPattern.start()
+    .recipeModifiers([GTRecipeModifiers.PARALLEL_HATCH, GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(OverclockingLogic.PERFECT_OVERCLOCK)])
+    .pattern((definition) => FactoryBlockPattern.start()
         .aisle("        AAA   AAA        ", "        BBB   BBB        ", "        CCC   CCC        ", "        CCC   CCC        ", "        AAA   AAA        ") 
         .aisle("        AAADDDAAA        ", "        B B   B B        ", "        C C   C C        ", "        C C   C C        ", "        AAADDDAAA        ") 
         .aisle("        AAA D AAA        ", "        BBB   BBB        ", "        CCC   CCC        ", "        CCC   CCC        ", "        AAA D AAA        ") 
@@ -56,6 +50,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
             .or(Predicates.abilities(PartAbility.COMPUTATION_DATA_RECEPTION)
                   .setExactLimit(1)
               )
+            .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
             .or(Predicates.autoAbilities(definition.getRecipeTypes()))
         )
         .where(" ", Predicates.any())

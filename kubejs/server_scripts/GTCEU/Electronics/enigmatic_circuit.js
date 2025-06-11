@@ -73,7 +73,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             'qilby_core:enigmatic_processor_mainframe'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_mainframe')).CWUt(2048).EUt(GTValues.VA[GTValues.UV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_computer')).CWUt(2048).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
         .EUt(GTValues.VA[GTValues.UV]);
 

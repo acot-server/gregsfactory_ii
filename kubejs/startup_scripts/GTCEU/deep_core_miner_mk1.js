@@ -4,11 +4,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
       .rotationState(RotationState.NON_Y_AXIS)
       .recipeType("deep_core_miner")
       .appearanceBlock(GTBlocks.CASING_STEEL_SOLID)
-      .recipeModifier(
-        GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(
-          OverclockingLogic.NON_PERFECT_OVERCLOCK
-        )
-      )
+      .recipeModifiers([GTRecipeModifiers.PARALLEL_HATCH, GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(OverclockingLogic.PERFECT_OVERCLOCK)])
     .pattern((definition) => FactoryBlockPattern.start()
 	    .aisle("AAAAAAAAA", "B       B", "B       B", "B       B", "B       B", "BBBBBBBBB", "CCC   CCC", "CCC   CCC", "         ") 
 	    .aisle("AAAAAAAAA", " D     D ", " D     D ", " D     D ", " D     D ", "BAAB BAAB", "CCC   CCC", "CEC   CEC", " E     E ") 
@@ -27,9 +23,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
             "C",
             Predicates.blocks("gtceu:stable_machine_casing")
               .setMinGlobalLimited(1)
-              //.or(Predicates.abilities(PartAbility.COMPUTATION_DATA_RECEPTION)
-              //      .setExactLimit(1)
-              //  )
+              .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
               .or(Predicates.autoAbilities(definition.getRecipeTypes()))
           )
 	    .where("D", Predicates.blocks("gtceu:iv_lapotronic_battery"))

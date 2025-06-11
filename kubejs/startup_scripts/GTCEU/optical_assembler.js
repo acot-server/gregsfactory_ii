@@ -1,17 +1,11 @@
 // priority: 3
 GTCEuStartupEvents.registry("gtceu:machine", (event) => {
-    event
-      .create("optical_assembly_line", "multiblock")
+    event.create("optical_assembly_line", "multiblock")
       .rotationState(RotationState.NON_Y_AXIS)
       .recipeType("optical_assembler")
       .appearanceBlock(GTBlocks.ADVANCED_COMPUTER_CASING)
-      .recipeModifier(
-        GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(
-          OverclockingLogic.PERFECT_OVERCLOCK
-        )
-      )
-      .pattern((definition) => 
-        FactoryBlockPattern.start()
+      .recipeModifiers([GTRecipeModifiers.PARALLEL_HATCH, GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(OverclockingLogic.PERFECT_OVERCLOCK)])
+      .pattern((definition) => FactoryBlockPattern.start()
       .aisle("  AAA  ", "  AGA  ", "  AAA  ", "  AAA  ") 
       .aisle("  AAA  ", "  BCB  ", "  ADA  ", "  EAE  ") 
       .aisle("  AAA  ", "  BCB  ", "  ADA  ", "  EAE  ") 
@@ -33,6 +27,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
               .or(Predicates.abilities(PartAbility.COMPUTATION_DATA_RECEPTION)
                     .setExactLimit(1)
                 )
+              .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
               .or(Predicates.autoAbilities(definition.getRecipeTypes()))
           )
           .where("B", Predicates.blocks("gtceu:fusion_glass"))

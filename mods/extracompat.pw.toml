@@ -1,13 +1,13 @@
 name = "Extra Compat"
-filename = "extra_compat-1.5.23.jar"
+filename = "extra_compat-1.5.25 (1).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZEmnOZbp/versions/r78yjPlH/extra_compat-1.5.23.jar"
+url = "https://cdn.modrinth.com/data/ZEmnOZbp/versions/OrWDjxxP/extra_compat-1.5.25%20%281%29.jar"
 hash-format = "sha512"
-hash = "568356af1a56ae899d1c143acbd071fa54e79602596082d225eb68bd79976a112cefa270b5d38f5b667fcad296262e38b00f7ffb6ebaed6d344bacffe7f2fb56"
+hash = "18997f248dedaee472b58d337dcc2a4f88beb4bd5827228d3e91bb204f763f1a07521c53e8f617de273b086e9285119fa1585c1584b3b858d11b1d75c91a4ce0"
 
 [update]
 [update.modrinth]
 mod-id = "ZEmnOZbp"
-version = "r78yjPlH"
+version = "OrWDjxxP"

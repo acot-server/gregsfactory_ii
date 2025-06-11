@@ -1,17 +1,11 @@
 // priority: 1
 GTCEuStartupEvents.registry("gtceu:machine", (event) => {
-    event
-      .create("shukrute_pump", "multiblock")
+    event.create("shukrute_pump", "multiblock")
       .rotationState(RotationState.NON_Y_AXIS)
       .recipeType("shukrute_pump")
       .appearanceBlock(GTBlocks.PLASTCRETE)
-      .recipeModifier(
-        GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(
-          OverclockingLogic.NON_PERFECT_OVERCLOCK
-        )
-      )
-      .pattern((definition) => 
-        FactoryBlockPattern.start()
+      .recipeModifiers([GTRecipeModifiers.PARALLEL_HATCH, GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(OverclockingLogic.PERFECT_OVERCLOCK)])
+      .pattern((definition) => FactoryBlockPattern.start()
       .aisle("AAAAAAAAAAAAA ", "ABBBBB BBBBBA ", "ABBBBB BBBBBA ", "ABBBBBBBBBBBA ", "ABBBBBBBBBBBA ", "AAAAAAAAAAAAA ", "              ", "              ", "              ") 
       .aisle("AAAAAAAAAAAAA ", "B           B ", "B           B ", "B           B ", "B           B ", "AAA       AAA ", "   BBBBBBB    ", "              ", "              ") 
       .aisle("AAAAAAAAAAAAA ", "B  C     C  B ", "B           B ", "B           B ", "B           B ", "AA         AA ", "  A       A   ", "   BBBBBBB    ", "              ") 
@@ -34,6 +28,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
               .or(Predicates.abilities(PartAbility.COMPUTATION_DATA_RECEPTION)
                     .setExactLimit(1)
                 )
+              .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
               .or(Predicates.autoAbilities(definition.getRecipeTypes()))
           )
       .where("B", Predicates.blocks("gtceu:cleanroom_glass"))

@@ -1,18 +1,13 @@
 name = "Build Guide"
-filename = "BuildGuide-1.20-0.4.4.jar"
+filename = "BuildGuide-1.20-0.4.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XwBDibES/versions/UlLeMuqu/BuildGuide-1.20-0.4.4.jar"
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/LUtKbaBz/BuildGuide-1.20-0.4.5.jar"
 hash-format = "sha512"
-hash = "22d91da7e562a7bc42bce24e227064ca94932e8dea9058a838afef682e5028df4ed70b81c7964eff9c2e7fb8981ca331d0e1bafb28323791ecf1933083128095"
+hash = "56380faf195a8359ea99b1de1ff89ef966fddd776200feb89b39776cd2e05be47fd34f507063095054717affe29c529e6e0ddb23a4eb6b8cf4de2ae7e4103b08"
 
 [update]
 [update.modrinth]
 mod-id = "XwBDibES"
-version = "UlLeMuqu"
-
-[option]
-optional = true
-default = true
-description = "Render overlays to guide building"
+version = "LUtKbaBz"

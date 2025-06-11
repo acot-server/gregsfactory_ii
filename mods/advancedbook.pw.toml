@@ -1,13 +1,13 @@
 name = "Advanced Book"
-filename = "advancedbook-1.0.4.jar"
+filename = "advancedbook-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aO4gqyXW/versions/QPs767UE/advancedbook-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/aO4gqyXW/versions/TKQktoaH/advancedbook-2.0.1.jar"
 hash-format = "sha512"
-hash = "41b724ad0cacf30cad5c3bcca43403ebe014234c46bbd613614155af00854be277440d78950fcf4e0bb5361f4286de3ccf1715df921f0830084892aff471323a"
+hash = "177346316a3030205dc488ee023ba8f824b9f85e9eb9ca76f5dd74d7fc04366180dc886f717d2ae2810802266b1376b6287f0af809ba6086db3344b19e3c1f20"
 
 [update]
 [update.modrinth]
 mod-id = "aO4gqyXW"
-version = "QPs767UE"
+version = "TKQktoaH"

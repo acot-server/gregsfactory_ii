@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ryYcxeeA/versions/DDN7NmiW/rechiseled_chipped-1.1.jar"
-hash-format = "sha1"
-hash = "5f36d3e0e2fa0e39bb7c1812653406523df448cd"
+hash-format = "sha512"
+hash = "f34374439f2b5d62d485930f3d9c3fde5866356b98528e5c631811fe02219bb1ee08cba70eeaa37a83b9319b7f928d089ffcaa8be437ddf0c4006cd0c72daf21"
 
 [update]
 [update.modrinth]

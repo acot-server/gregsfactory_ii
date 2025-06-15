@@ -1,0 +1,13 @@
+name = "Pufferfish's Unofficial Additions"
+filename = "pufferfish_unofficial_additions-1.20.1-2.2.3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAao6ECB/versions/TICpq2yo/pufferfish_unofficial_additions-1.20.1-2.2.3-all.jar"
+hash-format = "sha512"
+hash = "c25d0a93abb2edf4806e2bbf6a9fac000f32149b4214d6e00f27c6d7d776e32cd1e4f5fe3e05102c8d551edd670a2897b4adf046474aee651749e2092af885ae"
+
+[update]
+[update.modrinth]
+mod-id = "IAao6ECB"
+version = "TICpq2yo"

@@ -3,11 +3,11 @@ filename = "gtmutils-1.1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0cbaf5aaaa5736ecc1c6aa9986a667f73ad85aa1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KMnOsM3N/versions/6hQNeIop/gtmutils-1.1.12.jar"
+hash-format = "sha512"
+hash = "b992259bcaf125e037b682b3f935508fc92b384fb0dfc5ea6d1184906b80055da9919de4a40389ac39a991b0ab869906cf79e76f0033668ce65294a0e70f2c0a"
 
 [update]
-[update.curseforge]
-file-id = 6603285
-project-id = 1235020
+[update.modrinth]
+mod-id = "KMnOsM3N"
+version = "6hQNeIop"

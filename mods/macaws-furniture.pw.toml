@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dtWC90iB/versions/jQcvCX79/mcw-furniture-3.3.0-mc1.20.1forge.jar"
-hash-format = "sha1"
-hash = "997ff389bebed728e1e8094ba5438e7beb059ef3"
+hash-format = "sha512"
+hash = "aeb7537b9bb41615418e32d8383d6a0ea8b337554593752aa39ed955d50e1faa025c35a1d4bdb66fe49f9930a33d3becb8c897ee438c353da44d5fc8b7dfbdb8"
 
 [update]
 [update.modrinth]

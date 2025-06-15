@@ -1,0 +1,13 @@
+name = "VillagersPlus"
+filename = "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHGMwNDR/versions/Oc5T4c7q/VillagersPlus_3.1_%28FORGE%29_for_1.20.1.jar"
+hash-format = "sha512"
+hash = "47d03051147b2f14b96ecec95d258d6f7fd64e58bd53b885abe8670e40abcbfb3aeb93c1e52bcad4f3a82cd31a8e9e0229a30936579dce8646b86fd2cb72d8ed"
+
+[update]
+[update.modrinth]
+mod-id = "oHGMwNDR"
+version = "Oc5T4c7q"

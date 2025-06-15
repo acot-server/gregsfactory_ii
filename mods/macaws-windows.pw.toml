@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/C7I0BCni/versions/GhYHduKi/mcw-windows-2.3.0-mc1.20.1forge.jar"
-hash-format = "sha1"
-hash = "3d1f0d0334126b6014c43bf496776366620d0229"
+hash-format = "sha512"
+hash = "e693bc3592ef53f704b62a9a90af9a7931c624b1b12a4293bd5a56054529b2c21ebb4549d197cbff26898f41e5c59a92ed2afc19907ac6549aec32fddf3519f6"
 
 [update]
 [update.modrinth]

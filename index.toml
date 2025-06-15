@@ -1710,7 +1710,3 @@ metafile = true
 file = "resourcepacks/computercraft-greg-flavored.pw.toml"
 hash = "2d9aebd21f71d33cec50ca12735efcc18c0b6a4bcb3fd02b373891f96601b11d"
 metafile = true
-
-[[files]]
-file = "updatemods.fish"
-hash = "ffb173b96a4ae2900f5b79fd8b540fbfc0ccfa7555e8199813c6d6203608b939"

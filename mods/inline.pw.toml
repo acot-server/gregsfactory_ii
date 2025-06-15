@@ -1,6 +1,6 @@
 name = "Inline"
 filename = "inline-forge-1.20.1-1.2.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fin1PX4m/versions/H1jsvy53/inline-forge-1.20.1-1.2.2.jar"

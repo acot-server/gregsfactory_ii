@@ -1,0 +1,13 @@
+name = "More AE2 Additions"
+filename = "more-ae2-additions-1.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cee7846d32badc633ad745090cfd424b3396914"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6639824
+project-id = 1241870

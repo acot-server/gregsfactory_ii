@@ -932,6 +932,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crazy-ae2-addons.pw.toml"
+hash = "0f00f3b4fb7625d32fbe00fefbd0cd21a6b5b1af513ddd3029de3f119f53054c"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "81624db65c91a18ac83dd8356ad49c1436b090a95983f927a1c69269af5646d9"
 metafile = true
@@ -1372,6 +1377,11 @@ hash = "95a388afd649dadaa1420d5b258aeb95b7bacc64ccab31dd541ddc29e26d21c6"
 metafile = true
 
 [[files]]
+file = "mods/more-ae2-additions.pw.toml"
+hash = "1716bdd5cebdc75febb9664f57f851c37c30a4249d14eebcbb9f215142fc5434"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -1422,6 +1432,11 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/programmed-circuit-card.pw.toml"
+hash = "2623d7c1afbe6d0ccb5c39faaa83b8f0324af8ad1b8814adb8b96502b0620cf0"
+metafile = true
+
+[[files]]
 file = "mods/pufferfishs-unofficial-additions.pw.toml"
 hash = "7dc8f1e98b0915fd6d451d09b2d696efdde9339787bf40f4665fba6f5b026fe2"
 metafile = true
@@ -1438,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true
 
 [[files]]

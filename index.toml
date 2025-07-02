@@ -465,8 +465,16 @@ file = "kubejs/server_scripts/GTCEU/Electronics/mid_game_circuits.js"
 hash = "0be543144c558ec42d4f6b66750470f43e929cdac0e3a8e7f3762496cef161eb"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/multiversal_circuits.js"
+hash = "4e07a51e6ee92d72b9deb82607595da5f4b48ff089a50d5ec2241211121737f7"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/new_silicon.js"
 hash = "8451f282690747f7ab685e5d7e933e5214636c9373ff736daa554c56d6e8070d"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/omniversal_crcuit.js"
+hash = "73a95a7ac3264d722b18a7f96127b675fced6f38b6c60497aa7e8456c97181d0"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_assembly_line.js"
@@ -475,6 +483,10 @@ hash = "7b03a3dcf5235bf971228a22cacf61f807a5884f374a19ec9b4644a7cf45f62f"
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_circuit.js"
 hash = "8aba9299418b1101a2262e56bd67a1aa99a4ce2eee60d05a6fd57aeb15f6560a"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Electronics/supra_causal_circuit.js"
+hash = "94f347630ed05d709b9a62500daa7ef8d7d16731823c53b303ce59ea53550d4d"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
@@ -671,6 +683,14 @@ hash = "594cc316b05e6aa32cf739908ab8549c7f31d66c83050146dd9b4c01f23a9393"
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/eliaforge_map.js"
 hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/mob_farm.js"
+hash = "45c0edebca0715dc07a3509ece11e920dde099e1e9ec4463acc85f2cdb94a443"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"
+hash = "a5186d34e339416a518ba0aa78250b5c5a212a84cf423e91215c6815de56a6c6"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"

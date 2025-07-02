@@ -1,12 +1,12 @@
 name = "Greg's Factory II"
 author = "Annwan, LunaFrejya"
-version = "b.1.0"
+version = "b.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3b17341e7c5f59c89604c96480b30e2eb086980eefd9320353cb46689504dcd"
+hash = "0b49b09f0e369035b254c4c41cbf9875d47ad36a290f5e7c40902a0b38f7913b"
 
 [versions]
 forge = "47.4.2"

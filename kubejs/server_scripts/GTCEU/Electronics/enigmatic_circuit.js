@@ -4,8 +4,10 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
             '2x gtceu:highly_advanced_soc',
-            '12x gtceu:fine_indium_tin_barium_titanium_cuprate_wire',
-            '8x gtceu:naquadah_alloy_bolt'
+            '16x qilby_core:quantum_smd_resistor',
+            '8x qilby_core:quantum_smd_transistor',
+            '16x qilby_core:quantum_smd_diode',
+            '12x qilby_core:quantum_smd_capacitor'
         )
         .itemOutputs(
             '12x qilby_core:enigmatic_processor'
@@ -18,10 +20,10 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
             '3x qilby_core:enigmatic_processor',
-            '12x gtceu:advanced_smd_inductor',
-            '16x gtceu:advanced_smd_capacitor',
+            '16x qilby_core:quantum_smd_resistor',
+            '8x qilby_core:quantum_smd_transistor',
             '32x gtceu:ram_chip',
-            '24x gtceu:fine_indium_tin_barium_titanium_cuprate_wire'
+            '16x qilby_core:quantum_smd_diode'
         )
         .itemOutputs(
             '6x qilby_core:enigmatic_processor_assembly'
@@ -34,9 +36,11 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
             '4x qilby_core:enigmatic_processor_assembly',
-            '12x gtceu:advanced_smd_diode',
-            '48x gtceu:nor_memory_chip',
-            '44x gtceu:fine_indium_tin_barium_titanium_cuprate_wire',
+            '16x qilby_core:quantum_smd_diode',
+            '14x qilby_core:quantum_smd_transistor',
+            '16x qilby_core:quantum_smd_resistor',
+            '16x qilby_core:quantum_smd_inductor',
+            '12x qilby_core:quantum_smd_capacitor',
             '24x gtca:radon_polymer_plate',
             '8x gtca:quantum_alloy_plate'
         )
@@ -55,11 +59,11 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'gtceu:neutronium_frame',
             '2x qilby_core:enigmatic_processor_computer',
-            '64x gtceu:advanced_smd_diode',
-            '64x gtceu:advanced_smd_capacitor',
-            '64x gtceu:advanced_smd_inductor',
-            '64x gtceu:advanced_smd_resistor',
-            '64x gtceu:advanced_smd_transistor',
+            '16x qilby_core:quantum_smd_diode',
+            '14x qilby_core:quantum_smd_transistor',
+            '16x qilby_core:quantum_smd_resistor',
+            '16x qilby_core:quantum_smd_inductor',
+            '12x qilby_core:quantum_smd_capacitor',
             '64x gtca:radon_polymer_plate',
             '64x gtceu:ram_chip',
             '16x gtceu:ruthenium_trinium_americium_neutronate_double_wire',

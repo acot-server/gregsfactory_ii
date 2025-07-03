@@ -27,6 +27,7 @@ ServerEvents.recipes(event => {
             'gtceu:neutronium_nugget',
             '16x gtca:neutron',
         )
+        .circuit(1)
         .inputFluids(
             Fluid.of('qilby_core:dark_matter', 36),
         )
@@ -40,11 +41,32 @@ ServerEvents.recipes(event => {
         .CWUt(2048)
         .EUt(GTValues.V[GTValues.UV]);
 
+    event.recipes.gtceu.chroniton_hoursglass('raw_unstable_chroniton_void')
+        .itemInputs(
+            'gtceu:neutronium_nugget',
+            '16x gtca:neutron',
+        )
+        .circuit(2)
+        .inputFluids(
+            Fluid.of('qilby_core:dark_matter', 36),
+        )
+        .itemOutputs(
+            '4x qilby_core:raw_unstable_chroniton'
+        )
+        .chancedOutput(
+            '2x qilby_core:raw_unstable_chroniton', 1000, 500
+        )
+        .duration(150)
+        .CWUt(2048)
+        .dimension('ad_astra:earth_orbit')
+        .EUt(GTValues.V[GTValues.UV]);
+
     event.recipes.gtceu.chroniton_hoursglass('unstable_chroniton')
         .itemInputs(
             'qilby_core:raw_unstable_chroniton',
             '16x gtca:neutron',
         )
+        .circuit(1)
         .inputFluids(
             Fluid.of('qilby_core:dark_matter', 36),
         )
@@ -58,11 +80,33 @@ ServerEvents.recipes(event => {
         .CWUt(3072)
         .EUt(GTValues.V[GTValues.UHV]);
 
+    event.recipes.gtceu.chroniton_hoursglass('unstable_chroniton_void')
+        .itemInputs(
+            'qilby_core:raw_unstable_chroniton',
+            '16x gtca:neutron',
+        )
+        .circuit(2)
+        .inputFluids(
+            Fluid.of('qilby_core:dark_matter', 36),
+        )
+        .itemOutputs(
+            '4x qilby_core:raw_unstable_chroniton'
+        )
+        .chancedOutput(
+            'qilby_core:unstable_chroniton', 5000, 1000
+        )
+        .duration(150)
+        .CWUt(3072)
+        .dimension('ad_astra:earth_orbit')
+        .EUt(GTValues.V[GTValues.UHV]);
+
+
     event.recipes.gtceu.chroniton_hoursglass('poor_stabilized_chroniton')
         .itemInputs(
             'qilby_core:unstable_chroniton',
             '4x qilby_core:dark_matter_nugget',
         )
+        .circuit(1)
         .inputFluids(
             Fluid.of('qilby_core:dark_energy', 36),
         )
@@ -76,11 +120,32 @@ ServerEvents.recipes(event => {
         .CWUt(4096)
         .EUt(GTValues.V[GTValues.UHV]);
 
+    event.recipes.gtceu.chroniton_hoursglass('poor_stabilized_chroniton_void')
+        .itemInputs(
+            'qilby_core:unstable_chroniton',
+            '4x qilby_core:dark_matter_nugget',
+        )
+        .circuit(2)
+        .inputFluids(
+            Fluid.of('qilby_core:dark_energy', 36),
+        )
+        .itemOutputs(
+            '4x qilby_core:unstable_chroniton'
+        )
+        .chancedOutput(
+            'qilby_core:poor_stabilized_chroniton', 5000, 1000
+        )
+        .duration(150)
+        .CWUt(4096)
+        .dimension('ad_astra:earth_orbit')
+        .EUt(GTValues.V[GTValues.UHV]);
+
     event.recipes.gtceu.chroniton_hoursglass('stabilized_chroniton')
         .itemInputs(
             'qilby_core:poor_stabilized_chroniton',
             '4x qilby_core:dark_matter_nugget',
         )
+        .circuit(1)
         .inputFluids(
             Fluid.of('qilby_core:dark_energy', 72),
         )
@@ -92,6 +157,26 @@ ServerEvents.recipes(event => {
         )
         .duration(150)
         .CWUt(6144)
+        .EUt(GTValues.V[GTValues.UEV]);
+
+    event.recipes.gtceu.chroniton_hoursglass('stabilized_chroniton_void')
+        .itemInputs(
+            'qilby_core:poor_stabilized_chroniton',
+            '4x qilby_core:dark_matter_nugget',
+        )
+        .circuit(2)
+        .inputFluids(
+            Fluid.of('qilby_core:dark_energy', 72),
+        )
+        .itemOutputs(
+            '4x qilby_core:poor_stabilized_chroniton'
+        )
+        .chancedOutput(
+            'qilby_core:stabilized_chroniton', 5000, 1000
+        )
+        .duration(150)
+        .CWUt(6144)
+        .dimension('ad_astra:earth_orbit')
         .EUt(GTValues.V[GTValues.UEV]);
 
     event.recipes.gtceu.chroniton_hoursglass('ultra_stabilized_chroniton')
@@ -123,8 +208,8 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:runic_stelarite', 72),
         )
-        .chancedOutput(
-            'qilby_core:ultra_stabilized_chroniton', 8000, 1000
+        .itemOutputs(
+            '4x qilby_core:ultra_stabilized_chroniton'
         )
         .chancedOutput(
             'qilby_core:ultra_stabilized_chroniton', 5000, 1000

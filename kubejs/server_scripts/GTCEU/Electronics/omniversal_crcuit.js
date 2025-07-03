@@ -5,19 +5,22 @@ ServerEvents.recipes(event => {
             '64x qilby_core:ultra_stabilized_chroniton',
             '64x qilby_core:transparent_aluminium_plate',
             '8x qilby_core:supracausal_processor_mainframe',
-            '8x qilby_core:multiversal_processor',
-            '8x qilby_core:multiversal_processor_assembly',
-            '12x qilby_core:multiversal_supercomputer',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '64x qilby_core:infinity_hi_pow_integrated_circuit',
             '64x qilby_core:fine_fabric_of_reality_wire',
             '64x gtceu:opv_field_generator',
             '32x gtceu:opv_sensor',
-            '32x gtceu:opv_emitter'
+            '32x gtceu:opv_emitter',
+            '16x qilby_core:supracausal_circuit_board'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 2880),
             Fluid.of('qilby_core:dark_energy', 5760),
-            Fluid.of('qilby_core:transparent_aluminium', 5760),
+            Fluid.of('gtceu:infinity', 5760),
             Fluid.of('gtca:celestial_tungsten_plasma_plasma', 576)
         )
         .itemOutputs(
@@ -32,9 +35,11 @@ ServerEvents.recipes(event => {
             '64x qilby_core:ultra_stabilized_chroniton',
             '64x qilby_core:transparent_aluminium_plate',
             '8x qilby_core:omniversal_processor',
-            '8x qilby_core:multiversal_processor',
-            '8x qilby_core:multiversal_processor_assembly',
-            '12x qilby_core:multiversal_supercomputer',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '64x qilby_core:infinity_hi_pow_integrated_circuit',
             '64x qilby_core:fine_fabric_of_reality_wire',
             '64x gtceu:opv_field_generator',
@@ -44,7 +49,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 2880),
             Fluid.of('qilby_core:dark_energy', 5760),
-            Fluid.of('qilby_core:transparent_aluminium', 5760),
+            Fluid.of('gtceu:infinity', 5760),
             Fluid.of('gtca:celestial_tungsten_plasma_plasma', 576)
         )
         .itemOutputs(
@@ -58,10 +63,12 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:ultra_stabilized_chroniton',
             '64x qilby_core:transparent_aluminium_plate',
-            '8x qilby_core:omniversal_processor',
             '8x qilby_core:omniversal_processor_assembly',
-            '8x qilby_core:multiversal_processor_assembly',
-            '12x qilby_core:multiversal_supercomputer',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '64x qilby_core:infinity_hi_pow_integrated_circuit',
             '64x qilby_core:fine_fabric_of_reality_wire',
             '64x gtceu:opv_field_generator',
@@ -71,7 +78,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 2880),
             Fluid.of('qilby_core:dark_energy', 5760),
-            Fluid.of('qilby_core:transparent_aluminium', 5760),
+            Fluid.of('gtceu:infinity', 5760),
             Fluid.of('gtca:celestial_tungsten_plasma_plasma', 576)
         )
         .itemOutputs(

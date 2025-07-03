@@ -4,15 +4,18 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:ultra_stabilized_chroniton',
             '32x qilby_core:transparent_aluminium_plate',
-            '8x qilby_core:supracausal_processor_mainframe',
-            '8x qilby_core:supracausal_processor_computer',
-            '8x qilby_core:supracausal_processor_assembly',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '8x qilby_core:supracausal_processor',
             '32x qilby_core:infinity_hi_pow_integrated_circuit',
             '64x qilby_core:fine_stellarite_wire',
             '16x gtceu:uxv_field_generator',
             '8x gtceu:uxv_sensor',
-            '8x gtceu:uxv_emitter'
+            '8x gtceu:uxv_emitter',
+            '8x qilby_core:supracausal_circuit_board'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 2880),
@@ -31,8 +34,11 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:ultra_stabilized_chroniton',
             '32x qilby_core:transparent_aluminium_plate',
-            '8x qilby_core:supracausal_processor_mainframe',
-            '8x qilby_core:supracausal_processor_computer',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '8x qilby_core:supracausal_processor_assembly',
             '8x qilby_core:multiversal_processor',
             '48x qilby_core:infinity_hi_pow_integrated_circuit',
@@ -58,9 +64,12 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:ultra_stabilized_chroniton',
             '32x qilby_core:transparent_aluminium_plate',
-            '8x qilby_core:supracausal_processor_mainframe',
+            '64x qilby_core:supracausal_smd_resistor',
+            '64x qilby_core:supracausal_smd_diode',
+            '64x qilby_core:supracausal_smd_transistor',
+            '64x qilby_core:supracausal_smd_inductor',
+            '64x qilby_core:supracausal_smd_capacitor',
             '8x qilby_core:supracausal_processor_computer',
-            '8x qilby_core:multiversal_processor_assembly',
             '8x qilby_core:multiversal_processor',
             '48x qilby_core:infinity_hi_pow_integrated_circuit',
             '64x qilby_core:fine_stellarite_wire',

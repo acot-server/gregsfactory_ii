@@ -61,4 +61,16 @@ ServerEvents.recipes(event => {
         .stationResearch(b => b.researchStack(Item.of('gtceu:fusion_casing_mk3')).CWUt(4096).EUt(GTValues.VA[GTValues.UHV]))
         .duration(1800)
         .EUt(GTValues.VA[GTValues.UHV]);
+
+    event.recipes.gtceu.fusion_reactor('celestial_tungsten_plasma')
+        .inputFluids(
+            Fluid.of('gtca:adamantium', 288),
+            Fluid.of('gtca:neutronex', 288)
+        )
+        .outputFluids(
+            Fluid.of('gtca:celestial_tungsten_plasma_plasma', 1000)
+        )
+        .duration(10)
+        .fusionStartEU(560000000)
+        .EUt(GTValues.VA[GTValues.UV]);
 });

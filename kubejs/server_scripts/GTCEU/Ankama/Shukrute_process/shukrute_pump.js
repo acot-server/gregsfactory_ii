@@ -110,81 +110,66 @@ ServerEvents.recipes(event => {
 
 //Rushu Board
 
-    // Shukrute Circuit Board
-    event.recipes.gtceu.shukrute_pump('rushu_circuit_board')
+    event.recipes.gtceu.shukrute_pump('supracausal_circuit_board')
         .itemInputs(
-            '2x qilby_core:shukrute_circuit_board'
+            '64x gtceu:infinity_plate',
+            '64x qilby_core:fabric_of_reality_foil',
+            '64x qilby_core:runic_stelarite_foil'
         )
-        .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:wakfu', 125)
+            Fluid.of('qilby_core:stellarite', 576)
         )
         .itemOutputs(
-            'qilby_core:rushu_circuit_board'
+            '128x qilby_core:supracausal_circuit_board'
         )
-        .duration(300)
-        .EUt(122880);
+        .duration(400)
+        .EUt(GTValues.VA[GTValues.UXV]);
 
-        event.recipes.gtceu.shukrute_pump('rushu_circuit_board_4')
+    event.recipes.gtceu.shukrute_pump('pcb_rushu_circuit_board')
         .itemInputs(
-            '8x qilby_core:shukrute_circuit_board',
-            'gtceu:energy_crystal'
+            '64x qilby_core:stasis_plate',
+            '64x gtceu:polybenzimidazole_plate',
+            '64x qilby_core:dark_matter_foil'
         )
-        .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:wakfu', 250)
+            Fluid.of('qilby_core:wakfu', 576)
         )
         .itemOutputs(
-            '4x qilby_core:rushu_circuit_board'
+            '128x qilby_core:rushu_printed_circuit_board'
         )
-        .duration(300)
-        .EUt(491520);
+        .duration(400)
+        .EUt(GTValues.VA[GTValues.UEV]);
 
-    //Printed Shukrute Board
-
-    event.recipes.gtceu.shukrute_pump('printed_rushu_circuit_board')
+    event.recipes.gtceu.shukrute_pump('pcb_shushu_circuit_board')
+        .circuit(3)
+        .notConsumable('gtca:gold_nanites')
         .itemInputs(
-            'qilby_core:rushu_circuit_board',
-            '16x gtceu:ruridit_foil'
+            '64x qilby_core:wakfu_plate',
+            '64x gtceu:polybenzimidazole_plate',
+            '64x gtceu:terra_steel_foil'
         )
-        .circuit(1)
         .inputFluids(
-            Fluid.of('gtceu:sulfuric_acid', 500)
+            Fluid.of('qilby_core:tungsten', 576)
         )
         .itemOutputs(
-            'qilby_core:rushu_printed_circuit_board'
+            '128x qilby_core:shukrute_printed_circuit_board'
         )
-        .duration(300)
-        .EUt(122880);
-
-    event.recipes.gtceu.shukrute_pump('printed_rushu_circuit_board_4')
-        .itemInputs(
-            '4x qilby_core:rushu_circuit_board',
-            '64x gtceu:ruridit_foil'
-        )
-        .circuit(2)
-        .inputFluids(
-            Fluid.of('gtceu:sulfuric_acid', 1000)
-        )
-        .itemOutputs(
-            '4x qilby_core:rushu_printed_circuit_board'
-        )
-        .duration(300)
-        .EUt(491520);
+        .duration(400)
+        .EUt(GTValues.VA[GTValues.UHV])
 
 event.recipes.gtceu.shukrute_pump('shushu_max')
 .itemInputs(
-    'qilby_core:rushu_printed_circuit_board',
-    'gtceu:highly_advanced_soc'
+    '8x qilby_core:omniversal_supercomputer',
+    '8x qilby_core:multiversal_supercomputer',
+    '8x qilby_core:supracausal_processor_mainframe'
 )
-.circuit(16)
 .inputFluids(
-    Fluid.of('qilby_core:wakfu', 18432)
+    Fluid.of('gtceu:infinity', 18432)
 )
 .itemOutputs(
     '64x qilby_core:shushu_circuit_max'
 )
-.duration(200)
-.CWUt(256)
-.EUt(2013265920);
+.duration(400)
+.CWUt(40000000)
+.EUt(GTValues.VA[GTValues.MAX]*16);
 })

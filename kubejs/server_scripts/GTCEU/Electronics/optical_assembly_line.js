@@ -51,8 +51,8 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.optical_assembler('hi_pulse_converter')
         .itemInputs(
             '2x qilby_core:optical_circuit_board',
-            '4x gtceu:uhv_emitter',
-            '4x gtceu:uhv_sensor',
+            '64x qilby_core:quantum_smd_transistor',
+            '64x qilby_core:quantum_smd_inductor',
             '64x gtceu:fine_borosilicate_glass_wire'
         )
         .circuit(1)

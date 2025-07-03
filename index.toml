@@ -698,7 +698,7 @@ hash = "45c0edebca0715dc07a3509ece11e920dde099e1e9ec4463acc85f2cdb94a443"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"
-hash = "a5186d34e339416a518ba0aa78250b5c5a212a84cf423e91215c6815de56a6c6"
+hash = "d645478ed7789ec43b44f658ee5ac94bd9961ee73abd554a7ff86f59813a6a27"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"

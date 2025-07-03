@@ -47,4 +47,4 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
                 "gtceu:block/multiblock/electric_blast_furnace",
                 true
             )
-    });
+    })

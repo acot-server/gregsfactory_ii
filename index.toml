@@ -694,7 +694,7 @@ hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/mob_farm.js"
-hash = "45c0edebca0715dc07a3509ece11e920dde099e1e9ec4463acc85f2cdb94a443"
+hash = "6bbf2edd200cbf1b1ac60e47e0016ba13cb90d1aadee5965ee607863561e71a1"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"

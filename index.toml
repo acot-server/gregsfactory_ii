@@ -1485,6 +1485,11 @@ hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true
 
 [[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "31712331ce70deec0e1c1fcbb1c9159ab9fa3dbffae336593ea4f37157f736ce"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-ae2.pw.toml"
 hash = "38342c1b01004c7c280a2827471710d18c45a85008034d362a53a4ec5b913c68"
 metafile = true
@@ -1552,6 +1557,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b7cad50a7441f329ce89f996c08633fb4e9d324e07044dcaede582dd23059cff"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8d917ea7ff84c93d8791ad83778df087666af97251d884d6628da35c99e7da69"
 metafile = true
 
 [[files]]

@@ -56,9 +56,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
         .where(" ", Predicates.any())
         .build()
       )
-      .workableCasingRenderer(
-      "gtceu:block/casings/hpca/advanced_computer_casing/side",
-      "gtceu:block/multiblock/hpca",
-      true
-    )
+      .workableCasingModel("gtceu:block/casings/hpca/advanced_computer_casing/side", "gtceu:block/multiblock/hpca")
 });

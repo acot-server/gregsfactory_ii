@@ -42,9 +42,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
             	.where("K", Predicates.blocks("minecraft:amethyst_block"))
                 .build()
             )
-            .workableCasingRenderer(
-                "gtceu:block/casings/solid/machine_casing_solid_steel",
-                "gtceu:block/multiblock/electric_blast_furnace",
-                true
-            )
+            .workableCasingModel("gtceu:block/casings/solid/machine_casing_solid_steel", "gtceu:block/multiblock/electric_blast_furnace")
     })

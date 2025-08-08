@@ -34,9 +34,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
 	    .where("@", Predicates.controller(Predicates.blocks(definition.get())))
         .build()
     )
-    .workableCasingRenderer(
-        "gtceu:block/casings/solid/machine_casing_inert_ptfe",
-        "gtceu:block/multiblock/large_chemical_reactor",
-        true
-      )
+    .workableCasingModel("gtceu:block/casings/solid/machine_casing_inert_ptfe", "gtceu:block/multiblock/large_chemical_reactor")
 });

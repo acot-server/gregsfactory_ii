@@ -79,9 +79,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
           )
         .build())
 
-        .workableCasingRenderer(
-            "gtca:block/casing/p_n_casing",
-            "gtca:block/multiblock/tegmark_forge",
-            true
-        )
+        .workableCasingModel("gtca:block/casing/p_n_casing", "gtca:block/multiblock/tegmark_forge")
 });

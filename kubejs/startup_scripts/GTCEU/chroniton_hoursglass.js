@@ -48,9 +48,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
 	        .where("G", Predicates.blocks("kubejs:runic_stelarite_coil_block"))
         .build())
 
-        .workableCasingRenderer(
-            "gtca:block/casing/radiant_proof_reinforced_casing",
-            "gtca:block/multiblock/pcb_factory",
-            true
-        )
+        .workableCasingModel("gtca:block/casing/radiant_proof_reinforced_casing", "gtca:block/multiblock/pcb_factory")
 });

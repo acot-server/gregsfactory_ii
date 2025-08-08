@@ -662,7 +662,7 @@ hash = "1b0f08c9ca8358aab9dd268fd3661580b2ace79cfd3b0628616d7dfdaf477037"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass.js"
-hash = "46aee3b048e607b96f97ce49ba9a61c82324fa01c1ed698b7c299d9262427400"
+hash = "7ab626c636408195cc75650e6696c70917345eca803e74e3b7723043a791bfe2"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass_map.js"
@@ -670,7 +670,7 @@ hash = "59a6a03dcf9040726e9109c0d482977c08ad51604a7fc995f36e194d434de35a"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor.js"
-hash = "4e629bc9a6bd25518b332e46de157ff36d441c923178773b2a18af28f1576b13"
+hash = "e0784b30ed5c242fec864e50f3e66c4137b1f5a2c6b30530f7106ac1343b9eeb"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor_map.js"
@@ -682,11 +682,11 @@ hash = "2aaac3f01251b02b9f187a80bca050aaad2f5014a5656a2f1b35e05fb03e3054"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/deep_core_miner_mk1.js"
-hash = "3b4976a9e7dd55024acac415eb69a1ee7b0b8a2cbc57a73cc89100b20e4840fd"
+hash = "d4d6bbdac9e4bf61da8c7271e70287cc3f6dca86f65f7b63ac797d9b7d6a60fe"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/eliaforge.js"
-hash = "594cc316b05e6aa32cf739908ab8549c7f31d66c83050146dd9b4c01f23a9393"
+hash = "89069308f8ef6b72dd2f05a7b16b43656914c64d7743483ddf725c3663bcbe4e"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/eliaforge_map.js"
@@ -694,7 +694,7 @@ hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/mob_farm.js"
-hash = "6bbf2edd200cbf1b1ac60e47e0016ba13cb90d1aadee5965ee607863561e71a1"
+hash = "6aa970013ea966d7989ea675bed82128d1bf0b42471c1f09b961570bfca3387c"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"
@@ -702,7 +702,7 @@ hash = "d645478ed7789ec43b44f658ee5ac94bd9961ee73abd554a7ff86f59813a6a27"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
-hash = "5d14cea0f135700e8a8324021851403f4d83be7ed0f0849e49a7726aa9d894a4"
+hash = "d88af8122acf7946106402fe773e2b8011a0dceefed119894603598e49bf3d0b"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"
@@ -710,11 +710,11 @@ hash = "ab27af7105abe187eed2fa67ee8095a56bff7cd28c7817ad11be886bc56322bc"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/parallel_fusion_reactor.js"
-hash = "e892b0c3b2ffe907aa2a03d17ab3ccbaa750aae544b2c32682738820da54acde"
+hash = "70bd69c9568aba48037b07e336085cba43cfcbbc474a6998c9053ba42909b402"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump.js"
-hash = "903a699a720d386d65032f325f0ecbb71c97dd0fc9e25acaaae5fa777e2d42e0"
+hash = "3f5239a28372271e50d70b0630b7475fcf3061e7fbe508d035666d496f4ca874"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
@@ -726,7 +726,7 @@ hash = "f3707e2efcd701343b1be3136ed04149f773313dccda52f6a6cfa99b1bd52288"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/wave_solderer.js"
-hash = "d9af30aec803564aaef202882c5b7461cc56ba81cf7ab31bf24beaf193eea665"
+hash = "0a3dabf361822f30b9962c2f9deb8b8fbef20efd334c6dad910a015e7baa6494"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/wave_solderer_map.js"

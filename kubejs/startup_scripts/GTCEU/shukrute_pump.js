@@ -42,9 +42,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
       .where(" ", Predicates.any())
       .build()
       )
-      .workableCasingRenderer(
-        "gtceu:block/casings/cleanroom/plascrete",
-        "gtceu:block/multiblock/cleanroom",
-        true
-      )
+      .workableCasingModel("gtceu:block/casings/cleanroom/plascrete", "gtceu:block/multiblock/cleanroom")
   });

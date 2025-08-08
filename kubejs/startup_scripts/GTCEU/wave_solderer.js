@@ -28,9 +28,5 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
 	.where("@", Predicates.controller(Predicates.blocks(definition.get())))
     .build()
     )
-    .workableCasingRenderer(
-        "gtceu:block/casings/solid/machine_casing_heatproof",
-        "gtceu:block/multiblock/electric_blast_furnace",
-        true
-      )
+    .workableCasingModel("gtceu:block/casings/solid/machine_casing_heatproof", "gtceu:block/multiblock/electric_blast_furnace")
     });

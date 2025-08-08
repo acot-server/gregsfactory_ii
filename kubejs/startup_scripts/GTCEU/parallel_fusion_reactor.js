@@ -82,8 +82,7 @@ GTCEuStartupEvents.registry('gtceu:machine', event => {
                     .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
                     )
             .build())
-            .workableCasingRenderer("gtceu:block/casings/fusion/fusion_casing",
-                "gtceu:block/multiblock/fusion_reactor", false)
+            .workableCasingModel("gtceu:block/casings/fusion/fusion_casing", "gtceu:block/multiblock/fusion_reactor")
         })
 
 
@@ -168,8 +167,7 @@ GTCEuStartupEvents.registry('gtceu:machine', event => {
                     .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
                     )
             .build())
-            .workableCasingRenderer("gtceu:block/casings/fusion/fusion_casing_mk2",
-                "gtceu:block/multiblock/fusion_reactor", false)
+            .workableCasingModel("gtceu:block/casings/fusion/fusion_casing_mk2", "gtceu:block/multiblock/fusion_reactor")
         })
 
 //Parallel Fusion Reactor MK2
@@ -253,6 +251,5 @@ GTCEuStartupEvents.registry('gtceu:machine', event => {
                     .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
                     )
             .build())
-            .workableCasingRenderer("gtceu:block/casings/fusion/fusion_casing_mk3",
-                "gtceu:block/multiblock/fusion_reactor", false)
+            .workableCasingModel("gtceu:block/casings/fusion/fusion_casing_mk3", "gtceu:block/multiblock/fusion_reactor")
         })

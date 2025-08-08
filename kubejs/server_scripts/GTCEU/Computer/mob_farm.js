@@ -29,14 +29,14 @@ ServerEvents.recipes(event => {
             '32x minecraft:rotten_flesh',
             '16x minecraft:rotten_flesh'
         )
-        .chancedOutput(
-            'minecraft:iron_ingot', 3000, 1000
+        .chancedItemOutputLogic(
+            'minecraft:iron_ingot', 3000
         )
-        .chancedOutput(
-            'minecraft:gold_ingot', 1500, 500
+        .chancedItemOutputLogic(
+            'minecraft:gold_ingot', 1500
         )
-        .chancedOutput(
-            'minecraft:zombie_head', 200, 100
+        .chancedItemOutputLogic(
+            'minecraft:zombie_head', 200
         )
         .duration(400)
         .CWUt(3)
@@ -55,8 +55,8 @@ ServerEvents.recipes(event => {
             '16x minecraft:bone',
             '16x minecraft:arrow'
         )
-        .chancedOutput(
-            'minecraft:skeleton_skull', 200, 100
+        .chancedItemOutputLogic(
+            'minecraft:skeleton_skull', 200
         )
         .duration(400)
         .CWUt(3)
@@ -195,8 +195,8 @@ ServerEvents.recipes(event => {
             '32x minecraft:bone',
             '8x minecraft:coal'
         )
-        .chancedOutput(
-            'minecraft:wither_skeleton_skull', 200, 100
+        .chancedItemOutputLogic(
+            'minecraft:wither_skeleton_skull', 200
         )
         .duration(600)
         .CWUt(6)

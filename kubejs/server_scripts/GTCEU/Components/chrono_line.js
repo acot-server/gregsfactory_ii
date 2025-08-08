@@ -31,11 +31,11 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:dark_matter', 36),
         )
-        .chancedOutput(
-            'gtceu:neutronium_nugget', 5000, 0
+        .chancedItemOutputLogic(
+            'gtceu:neutronium_nugget', 5000
         )
-        .chancedOutput(
-            '2x qilby_core:raw_unstable_chroniton', 1000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:raw_unstable_chroniton', 1000
         )
         .duration(150)
         .CWUt(2048)
@@ -53,8 +53,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:raw_unstable_chroniton'
         )
-        .chancedOutput(
-            '2x qilby_core:raw_unstable_chroniton', 1000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:raw_unstable_chroniton', 1000
         )
         .duration(150)
         .CWUt(2048)
@@ -70,11 +70,11 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:dark_matter', 36),
         )
-        .chancedOutput(
-            'qilby_core:raw_unstable_chroniton', 3000, 0
+        .chancedItemOutputLogic(
+            'qilby_core:raw_unstable_chroniton', 3000
         )
-        .chancedOutput(
-            'qilby_core:unstable_chroniton', 5000, 1000
+        .chancedItemOutputLogic(
+            'qilby_core:unstable_chroniton', 5000
         )
         .duration(150)
         .CWUt(3072)
@@ -90,10 +90,8 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 36),
         )
         .itemOutputs(
-            '4x qilby_core:raw_unstable_chroniton'
-        )
-        .chancedOutput(
-            'qilby_core:unstable_chroniton', 5000, 1000
+            '4x qilby_core:raw_unstable_chroniton',
+            'qilby_core:unstable_chroniton'
         )
         .duration(150)
         .CWUt(3072)
@@ -110,11 +108,11 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:dark_energy', 36),
         )
-        .chancedOutput(
-            'qilby_core:unstable_chroniton', 3000, 0
+        .chancedItemOutputLogic(
+            'qilby_core:unstable_chroniton', 3000
         )
-        .chancedOutput(
-            'qilby_core:poor_stabilized_chroniton', 5000, 1000
+        .chancedItemOutputLogic(
+            'qilby_core:poor_stabilized_chroniton', 5000
         )
         .duration(150)
         .CWUt(4096)
@@ -130,10 +128,8 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 36),
         )
         .itemOutputs(
-            '4x qilby_core:unstable_chroniton'
-        )
-        .chancedOutput(
-            'qilby_core:poor_stabilized_chroniton', 5000, 1000
+            '4x qilby_core:unstable_chroniton',
+            'qilby_core:poor_stabilized_chroniton'
         )
         .duration(150)
         .CWUt(4096)
@@ -149,11 +145,11 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:dark_energy', 72),
         )
-        .chancedOutput(
-            'qilby_core:poor_stabilized_chroniton', 7000, 0
+        .chancedItemOutputLogic(
+            'qilby_core:poor_stabilized_chroniton', 7000
         )
-        .chancedOutput(
-            'qilby_core:stabilized_chroniton', 2000, 1000
+        .chancedItemOutputLogic(
+            'qilby_core:stabilized_chroniton', 2000
         )
         .duration(150)
         .CWUt(6144)
@@ -169,10 +165,8 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 72),
         )
         .itemOutputs(
-            '4x qilby_core:poor_stabilized_chroniton'
-        )
-        .chancedOutput(
-            'qilby_core:stabilized_chroniton', 5000, 1000
+            '4x qilby_core:poor_stabilized_chroniton',
+            'qilby_core:stabilized_chroniton'
         )
         .duration(150)
         .CWUt(6144)
@@ -188,11 +182,11 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('qilby_core:runic_stelarite', 72),
         )
-        .chancedOutput(
-            'qilby_core:ultra_stabilized_chroniton', 1000, 1000
+        .chancedItemOutputLogic(
+            'qilby_core:ultra_stabilized_chroniton', 1000
         )
-        .chancedOutput(
-            'qilby_core:ultra_stabilized_chroniton', 500, 500
+        .chancedItemOutputLogic(
+            'qilby_core:ultra_stabilized_chroniton', 1000
         )
         .duration(50)
         .CWUt(8192)
@@ -211,15 +205,15 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:ultra_stabilized_chroniton'
         )
-        .chancedOutput(
-            'qilby_core:ultra_stabilized_chroniton', 5000, 1000
+        .chancedItemOutputLogic(
+            'qilby_core:ultra_stabilized_chroniton', 5000
         )
         .duration(50)
         .CWUt(8192)
         .dimension('ad_astra:earth_orbit')
         .EUt(GTValues.V[GTValues.UIV]);
 
-        ////Poop Stabilized Chroniton////
+        ////Poor Stabilized Chroniton////
     event.recipes.gtceu.chroniton_hoursglass('chronal_processor_earth')
         .itemInputs(
             'qilby_core:rushu_printed_circuit_board',
@@ -233,8 +227,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '2x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            'qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            'qilby_core:chronal_processor', 2000
         )
         .duration(300)
         .CWUt(12288)
@@ -254,8 +248,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor', 5000
         )
         .duration(300)
         .CWUt(12288)
@@ -275,8 +269,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '2x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            'qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            'qilby_core:chronal_processor', 2000
         )
         .duration(450)
         .CWUt(16384)
@@ -296,8 +290,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor', 5000
         )
         .duration(450)
         .CWUt(16384)
@@ -317,8 +311,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '2x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            'qilby_core:chronal_processor_assembly', 2000, 500
+        .chancedItemOutputLogic(
+            'qilby_core:chronal_processor_assembly', 2000
         )
         .duration(450)
         .CWUt(24572)
@@ -338,8 +332,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor_assembly', 5000, 1000
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor_assembly', 5000
         )
         .duration(450)
         .CWUt(24572)
@@ -359,8 +353,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '2x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            'qilby_core:chronal_processor_computer', 2000, 500
+        .chancedItemOutputLogic(
+            'qilby_core:chronal_processor_computer', 2000
         )
         .duration(450)
         .CWUt(32768)
@@ -380,8 +374,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor_computer', 5000, 1000
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor_computer', 5000
         )
         .duration(450)
         .CWUt(32768)
@@ -403,8 +397,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor', 2000
         )
         .duration(300)
         .CWUt(12288)
@@ -424,8 +418,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor', 5000
         )
         .duration(300)
         .CWUt(12288)
@@ -445,8 +439,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor', 2000
         )
         .duration(450)
         .CWUt(16384)
@@ -466,8 +460,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor', 5000
         )
         .duration(450)
         .CWUt(16384)
@@ -487,8 +481,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor_assembly', 2000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor_assembly', 2000
         )
         .duration(450)
         .CWUt(24572)
@@ -508,8 +502,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor_assembly', 5000, 1000
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor_assembly', 5000
         )
         .duration(450)
         .CWUt(24572)
@@ -529,8 +523,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            '2x qilby_core:chronal_processor_computer', 2000, 500
+        .chancedItemOutputLogic(
+            '2x qilby_core:chronal_processor_computer', 2000
         )
         .duration(450)
         .CWUt(32768)
@@ -550,8 +544,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor_computer', 5000, 1000
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor_computer', 5000
         )
         .duration(450)
         .CWUt(32768)
@@ -573,8 +567,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor', 2000
         )
         .duration(300)
         .CWUt(12288)
@@ -594,8 +588,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:chronal_processor'
         )
-        .chancedOutput(
-            '8x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '8x qilby_core:chronal_processor', 5000
         )
         .duration(300)
         .CWUt(12288)
@@ -615,8 +609,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor', 2000, 500
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor', 2000
         )
         .duration(450)
         .CWUt(16384)
@@ -636,8 +630,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:chronal_processor_assembly'
         )
-        .chancedOutput(
-            '8x qilby_core:chronal_processor', 5000, 1000
+        .chancedItemOutputLogic(
+            '8x qilby_core:chronal_processor', 5000
         )
         .duration(450)
         .CWUt(16384)
@@ -657,8 +651,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor_assembly', 2000, 500
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor_assembly', 2000
         )
         .duration(450)
         .CWUt(24572)
@@ -678,8 +672,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:chronal_processor_computer'
         )
-        .chancedOutput(
-            '8x qilby_core:chronal_processor_assembly', 5000, 1000
+        .chancedItemOutputLogic(
+            '8x qilby_core:chronal_processor_assembly', 5000
         )
         .duration(450)
         .CWUt(24572)
@@ -699,8 +693,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            '4x qilby_core:chronal_processor_computer', 2000, 500
+        .chancedItemOutputLogic(
+            '4x qilby_core:chronal_processor_computer', 2000
         )
         .duration(450)
         .CWUt(32768)
@@ -720,8 +714,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:chronal_processor_mainframe'
         )
-        .chancedOutput(
-            '8x qilby_core:chronal_processor_computer', 5000, 1000
+        .chancedItemOutputLogic(
+            '8x qilby_core:chronal_processor_computer', 5000
         )
         .duration(450)
         .CWUt(32768)

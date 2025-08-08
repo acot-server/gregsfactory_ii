@@ -402,7 +402,7 @@ hash = "f6ba022b32046c486beb76f0af1ae81e898f72fc736f7ba7310b71ef43f6c77e"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/chrono_line.js"
-hash = "2bc1fac2707c098b29a1e77d76c32b3dc60ad1b1c0f3c1fe86553a5319f35b22"
+hash = "68465e72534e788ad13913b8efc716c8226878fe0c87c3430881bd185ae9b869"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/cover.js"
@@ -433,24 +433,24 @@ file = "kubejs/server_scripts/GTCEU/Components/low_tier.js"
 hash = "71de90ab1d05c83ddd82ed84adb572d79b00b390ef51e9c0e7575233392e9328"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Computer/Data_Transmission.js"
-hash = "ade8c3be1b6a0946a330864177e81c32a90d159c871dfb5b5bfcfd689ce5afa6"
+file = "kubejs/server_scripts/GTCEU/Computer/Data_Transmission.js.old"
+hash = "f4cf919e6642aa1256d8df2d9471bef8eaed2787325ba634dfb225234daca54e"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Computer/HPCA.js"
+file = "kubejs/server_scripts/GTCEU/Computer/HPCA.js.old"
 hash = "b0950e2297a98c4bd3b9f745db612b3a9be8f4d7df784c45644ffe0a15073e36"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cooler.js"
+file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cooler.js.old"
 hash = "02b924821693a4a4f15b70b5b003cb662e90d6199560a54656c7e651d499a039"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js"
+file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js.old"
 hash = "45706e80d5613599e51003fefd2b7654246aa4f0dce9fd3d2924c6a111b58fae"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/mob_farm.js"
-hash = "0a8ba1912c5c7c81d9544f49fa1981d7c512bdda8fbc0b13cdf1aa8365eb702a"
+hash = "de830e7f433245fa98270930d45136433b45b3493f04a9207b113c88df5b7f33"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/early_game_circuits.js"
@@ -502,7 +502,7 @@ hash = "bdec48dada3209e67e7ee4aa290d1e3888a1259de4d1cb9cecb207005768d25c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
-hash = "04c9930446658156f89972fff4fb9f70ead866ddf07b63b39251ef79aa112beb"
+hash = "0e11b73335ceeca48952d4e3e767848d4276ebb5d55f3c636b68960c5442e9ae"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/fusion.js"
@@ -718,7 +718,7 @@ hash = "3f5239a28372271e50d70b0630b7475fcf3061e7fbe508d035666d496f4ca874"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
-hash = "740821a1d7d3ebbd7cfae45bbdd3f59edc4c1ae56fd7ea51f2dccfe6328628ff"
+hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/unificationEntry.js"

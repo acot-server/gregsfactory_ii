@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polyethylene', 288)
         )
-        .chancedOutput('gtceu:computation_transmitter_hatch', 6000, 0)
+        .chancedItemOutputLogic('gtceu:computation_transmitter_hatch', 6000)
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
 
@@ -31,7 +31,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polyethylene', 288)
         )
-        .chancedOutput('gtceu:computation_receiver_hatch', 6000, 0)
+        .chancedItemOutputLogic('gtceu:computation_receiver_hatch', 6000)
         .duration(4000)
         .EUt(GTValues.VA[GTValues.HV]);
 
@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polytetrafluoroethylene', 288)
         )
-        .chancedOutput('gtceu:computation_transmitter_hatch', 8000, 0)
+        .chancedItemOutputLogic('gtceu:computation_transmitter_hatch', 8000)
         .duration(3000)
         .EUt(GTValues.VA[GTValues.EV]);
 
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polytetrafluoroethylene', 288)
         )
-        .chancedOutput('gtceu:computation_receiver_hatch', 8000, 0)
+        .chancedItemOutputLogic('gtceu:computation_receiver_hatch', 8000)
         .duration(3000)
         .EUt(GTValues.VA[GTValues.EV]);
 
@@ -141,7 +141,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polyethylene', 144)
         )
-        .chancedOutput('gtceu:normal_optical_pipe', 4000, 0)
+        .chancedItemOutputLogic('gtceu:normal_optical_pipe', 4000)
         .duration(4000)
         .EUt(GTValues.VA[GTValues.MV]);
 
@@ -155,7 +155,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polyethylene', 144)
         )
-        .chancedOutput('gtceu:normal_optical_pipe', 6000, 0)
+        .chancedItemOutputLogic('gtceu:normal_optical_pipe', 6000)
         .duration(3000)
         .EUt(GTValues.VA[GTValues.HV]);
 
@@ -169,7 +169,7 @@ ServerEvents.recipes(event => {
         .inputFluids(
             Fluid.of('gtceu:polytetrafluoroethylene', 144)
         )
-        .chancedOutput('gtceu:normal_optical_pipe', 8000, 0)
+        .chancedItemOutputLogic('gtceu:normal_optical_pipe', 8000)
         .duration(2000)
         .EUt(GTValues.VA[GTValues.EV]);
 

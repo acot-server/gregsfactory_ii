@@ -36,8 +36,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:dark_matter_dust',
         )
-        .chancedOutput(
-            '4x qilby_core:small_dark_energy_dust', 500, 100
+        .chancedItemOutputLogic(
+            '4x qilby_core:small_dark_energy_dust', 1000
         )
         .duration(100)
         .CWUt(1024)
@@ -57,8 +57,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:dark_energy_dust',
         )
-        .chancedOutput(
-            '2x qilby_core:tiny_runic_stelarite_dust', 250, 50
+        .chancedItemOutputLogic(
+            '2x qilby_core:tiny_runic_stelarite_dust', 500
         )
         .duration(100)
         .CWUt(4096)
@@ -78,8 +78,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:runic_stelarite_dust',
         )
-        .chancedOutput(
-            '4x qilby_core:tiny_stellarite_dust', 500, 100
+        .chancedItemOutputLogic(
+            '4x qilby_core:tiny_stellarite_dust', 1000
         )
         .duration(100)
         .CWUt(16384)
@@ -99,8 +99,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:stellarite_dust'
         )
-        .chancedOutput(
-            '2x qilby_core:tiny_fabric_of_reality_dust', 250, 50
+        .chancedItemOutputLogic(
+            '2x qilby_core:tiny_fabric_of_reality_dust', 500
         )
         .duration(100)
         .CWUt(65536)
@@ -120,8 +120,8 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:fabric_of_reality_dust'
         )
-        .chancedOutput(
-            'gtceu:tiny_infinity_dust', 250, 50
+        .chancedItemOutputLogic(
+            'gtceu:tiny_infinity_dust', 500
         )
         .duration(100)
         .CWUt(262144)

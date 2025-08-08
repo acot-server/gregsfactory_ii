@@ -22,7 +22,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
           .where("@", Predicates.controller(Predicates.blocks(definition.get())))
           .where(
             "A",
-            Predicates.blocks("gtnn:field_restriction_casing")
+            Predicates.blocks("gtceu:high_power_casing")
               .setMinGlobalLimited(1)
               .or(Predicates.abilities(PartAbility.COMPUTATION_DATA_RECEPTION)
                     .setExactLimit(1)
@@ -31,7 +31,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
               .or(Predicates.autoAbilities(definition.getRecipeTypes()))
           )
           .where("B", Predicates.blocks("gtceu:fusion_glass"))
-          .where("C", Predicates.blocks("gtnn:high_speed_pipe_block"))
+          .where("C", Predicates.blocks("gtceu:tritanium_coil_block"))
           .where("D", Predicates.blocks("gtceu:assembly_line_unit"))
           .where("E", Predicates.blocks("gtceu:assembly_line_grating"))
           .where("F", Predicates.blocks("minecraft:tinted_glass"))

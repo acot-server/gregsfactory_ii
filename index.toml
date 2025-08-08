@@ -402,7 +402,7 @@ hash = "f6ba022b32046c486beb76f0af1ae81e898f72fc736f7ba7310b71ef43f6c77e"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/chrono_line.js"
-hash = "68465e72534e788ad13913b8efc716c8226878fe0c87c3430881bd185ae9b869"
+hash = "0539c680907f18e7f75388372c93fba4613a5632e636d185c1a8855df1aae059"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/cover.js"
@@ -450,7 +450,7 @@ hash = "45706e80d5613599e51003fefd2b7654246aa4f0dce9fd3d2924c6a111b58fae"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/mob_farm.js"
-hash = "de830e7f433245fa98270930d45136433b45b3493f04a9207b113c88df5b7f33"
+hash = "3a77af8707dc0422dc2ff72d74cfb3452e79c8109701f7fb98dec8f6ae9b5207"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/early_game_circuits.js"
@@ -502,7 +502,7 @@ hash = "bdec48dada3209e67e7ee4aa290d1e3888a1259de4d1cb9cecb207005768d25c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
-hash = "0e11b73335ceeca48952d4e3e767848d4276ebb5d55f3c636b68960c5442e9ae"
+hash = "c8d295e038c769eb6699b940c41f71934f71db3431dbc42854b40e2931f4164f"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/fusion.js"
@@ -533,7 +533,7 @@ file = "kubejs/server_scripts/GTCEU/Power_Devices/new_battery.js"
 hash = "2bd160f17113715030dc38db8f3299c95fb43039f1501ba1bc2469f7c236dfac"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Power_Devices/new_energy_hatch.js"
+file = "kubejs/server_scripts/GTCEU/Power_Devices/new_energy_hatch.js.old"
 hash = "4c74d5bc16591a3fadffc4d27fe2730149c11e98e8bbd3cb71b30edd83acd48d"
 
 [[files]]
@@ -702,7 +702,7 @@ hash = "d645478ed7789ec43b44f658ee5ac94bd9961ee73abd554a7ff86f59813a6a27"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
-hash = "d88af8122acf7946106402fe773e2b8011a0dceefed119894603598e49bf3d0b"
+hash = "9cd24efd074c57a164a5baee05b0a5f6e15c4fb8418440e09304512b146bbdab"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"

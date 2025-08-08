@@ -1,15 +1,15 @@
 name = "qilby_core"
-filename = "qilby_core-1.6.4.jar"
+filename = "qilby_core-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/acot-server/qilby_core/releases/download/v1.6.4/qilby_core-1.6.4.jar"
+url = "https://github.com/acot-server/qilby_core/releases/download/v1.7.0/qilby_core-1.7.0.jar"
 hash-format = "sha256"
-hash = "394302f304118fec0f1665d23ac324968b7d377d4ff23df9f711a2e496ce3dd1"
+hash = "fecce44b2d9e7b559ef6c98d8946fd8e73cf5dbdf9d7632d11fbf19af1432bc4"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "acot-server/qilby_core"
-tag = "v1.6.4"
+tag = "v1.7.0"

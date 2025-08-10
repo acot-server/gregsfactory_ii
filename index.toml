@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/curvy-pipes.pw.toml"
-hash = "cb14d5dd5df1c68b62a43c51e15b95d85908d4e9a3d373decef41afc889a3e79"
+hash = "5d924ad2eb3c3f7fe8d6e10a25f2137637f1dc2a880a8502bf1a7f716a791efc"
 metafile = true
 
 [[files]]

@@ -9,6 +9,10 @@ file = "config/apotheosis/garden.cfg"
 hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
 
 [[files]]
+file = "config/avaritia-common.toml"
+hash = "a3ae329b28330befe2c0d780430c57d18f6d1f15e84545cf91e8734402b45ea4"
+
+[[files]]
 file = "config/brandon3055/DraconicEvolution.cfg"
 hash = "3d58d06424580407399e8cb0f0150629ed0722f4720013117c393a984d49e3d5"
 
@@ -17,8 +21,24 @@ file = "config/brandon3055/ModuleStats.cfg"
 hash = "896c23a9ea947b66aa12459c0327863db17bb046edac24df9735253701ece303"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "5b9ee8bee23d0f12b926567309802eed6f1f46a195726b2b034d692deb833b65"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "f77d603af0d25bce102bd84932cc2d9d6fe428a4619ddd8696c1fbc93e730aa7"
+
+[[files]]
+file = "config/create_mobile_packages-server.toml"
+hash = "24b3e43ac324704edfaa10923ba7622fb79ee4f7d8db17e3e63fa9d7ec2910be"
+
+[[files]]
 file = "config/gtceu.yaml"
-hash = "90cca4ab8e8529ea6aeb030d7739e231fb8c289955770138d63b092882d91598"
+hash = "92951acf7da3a99f974b94993283697124cf3d3ae19cb971e07cad30668c4f98"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1000,6 +1020,11 @@ hash = "00929d51a65b0b8c417691b3312fc858ccff50bce507fc1d1b85dc7a2b2df20b"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "809b6d4cb3454599c2f55610364519ddf93bbb089fab27a6d43db0f536902b0d"
+metafile = true
+
+[[files]]
 file = "mods/create-wizardry.pw.toml"
 hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
 metafile = true
@@ -1185,6 +1210,11 @@ hash = "a87b2ba2ffc1febd2b704df99523671b28b52403bb7bdaa431c6985590aa0ad2"
 metafile = true
 
 [[files]]
+file = "mods/gtmthings.pw.toml"
+hash = "ba2696a09efe572586b87f5f78337a9327b53269b3a507cf78e015783d57117e"
+metafile = true
+
+[[files]]
 file = "mods/gtnn.pw.toml"
 hash = "8702a8702171cb34956e6fd7eac96a613babb47a2c7f4df077a37c6dc2acb4da"
 metafile = true
@@ -1262,11 +1292,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
 metafile = true
 
 [[files]]
@@ -1427,6 +1452,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]

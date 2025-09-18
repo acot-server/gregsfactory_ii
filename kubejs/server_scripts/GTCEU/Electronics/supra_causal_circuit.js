@@ -24,7 +24,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:supracausal_processor'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:ultra_stabilized_chroniton')).CWUt(32768).EUt(GTValues.VA[GTValues.UIV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:ultra_stabilized_chroniton')).CWUt(4096).EUt(GTValues.VA[GTValues.UIV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.UIV]);
 
@@ -39,7 +39,7 @@ ServerEvents.recipes(event => {
             '64x qilby_core:wetware_smd_inductor',
             '4x qilby_core:supracausal_processor',
             '32x qilby_core:infinity_hi_pow_integrated_circuit',
-            '64x qilby_core:fine_runic_stelarite_wire',
+            '64x qilby_core:fine_runic_stellarite_wire',
             '8x gtceu:uxv_field_generator',
             '4x gtceu:uxv_sensor',
             '4x gtceu:uxv_emitter'
@@ -53,7 +53,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:supracausal_processor_assembly'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor')).CWUt(65536).EUt(GTValues.VA[GTValues.UXV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor')).CWUt(8192).EUt(GTValues.VA[GTValues.UXV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.UXV]);
 
@@ -68,7 +68,7 @@ ServerEvents.recipes(event => {
             '64x qilby_core:wetware_smd_inductor',
             '4x qilby_core:supracausal_processor_assembly',
             '32x qilby_core:infinity_hi_pow_integrated_circuit',
-            '64x qilby_core:fine_runic_stelarite_wire',
+            '64x qilby_core:fine_runic_stellarite_wire',
             '8x gtceu:uxv_field_generator',
             '4x gtceu:uxv_sensor',
             '4x gtceu:uxv_emitter'
@@ -82,7 +82,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:supracausal_processor_computer'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_assembly')).CWUt(131072).EUt(GTValues.VA[GTValues.UXV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_assembly')).CWUt(16384).EUt(GTValues.VA[GTValues.UXV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.OpV]);
 
@@ -97,7 +97,7 @@ ServerEvents.recipes(event => {
             '64x qilby_core:wetware_smd_inductor',
             '4x qilby_core:supracausal_processor_computer',
             '32x qilby_core:infinity_hi_pow_integrated_circuit',
-            '64x qilby_core:fine_runic_stelarite_wire',
+            '64x qilby_core:fine_runic_stellarite_wire',
             '8x gtceu:opv_field_generator',
             '4x gtceu:opv_sensor',
             '4x gtceu:opv_emitter'
@@ -111,7 +111,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '4x qilby_core:supracausal_processor_mainframe'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_computer')).CWUt(262144).EUt(GTValues.VA[GTValues.UXV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_computer')).CWUt(32768).EUt(GTValues.VA[GTValues.UXV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.OpV]);
 

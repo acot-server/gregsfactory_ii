@@ -1,0 +1,6 @@
+{
+    "fluids": [
+        "#forge:plutonium_based_liquid_fuel_excited"
+    ],
+    "fuel_ticks": 15187500
+}

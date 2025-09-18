@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '48x qilby_core:multiversal_processor'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_mainframe')).CWUt(524288).EUt(GTValues.VA[GTValues.OpV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:supracausal_processor_mainframe')).CWUt(2048).EUt(GTValues.VA[GTValues.OpV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.UXV]);
 
@@ -56,7 +56,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '24x qilby_core:multiversal_processor_assembly'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_processor')).CWUt(524288).EUt(GTValues.VA[GTValues.OpV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_processor')).CWUt(4096).EUt(GTValues.VA[GTValues.OpV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.OpV]);
 
@@ -86,7 +86,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '12x qilby_core:multiversal_supercomputer'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_processor_assembly')).CWUt(524288).EUt(GTValues.VA[GTValues.OpV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_processor_assembly')).CWUt(8192).EUt(GTValues.VA[GTValues.OpV]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.MAX]);
 });

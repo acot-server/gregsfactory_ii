@@ -1,0 +1,6 @@
+{
+    "fluids": [
+        "#forge:udmh_rockey_fuel"
+    ],
+    "fuel_ticks": 38400
+}

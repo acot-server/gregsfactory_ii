@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '64x qilby_core:omniversal_processor'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_supercomputer')).CWUt(524288).EUt(GTValues.VA[GTValues.MAX]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:multiversal_supercomputer')).CWUt(32768).EUt(GTValues.VA[GTValues.MAX]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.OpV]);
 
@@ -55,7 +55,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '64x qilby_core:omniversal_processor_assembly'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:omniversal_processor')).CWUt(524288).EUt(GTValues.VA[GTValues.MAX]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:omniversal_processor')).CWUt(65536).EUt(GTValues.VA[GTValues.MAX]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.MAX]);
 
@@ -84,7 +84,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '64x qilby_core:omniversal_supercomputer'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:omniversal_processor_assembly')).CWUt(524288).EUt(GTValues.VA[GTValues.MAX]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:omniversal_processor_assembly')).CWUt(131072).EUt(GTValues.VA[GTValues.MAX]))
         .duration(1000)
         .EUt(GTValues.VA[GTValues.MAX]*4);
 });

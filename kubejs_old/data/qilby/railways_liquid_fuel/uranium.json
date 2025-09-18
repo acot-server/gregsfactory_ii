@@ -1,0 +1,6 @@
+{
+    "fluids": [
+        "#forge:uranium_based_liquid_fuel_excited"
+    ],
+    "fuel_ticks": 4050000
+}

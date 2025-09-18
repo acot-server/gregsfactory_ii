@@ -27,7 +27,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_electric_motor'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV]);
 
@@ -44,7 +44,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_electric_pump'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_conveyor_module'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -78,7 +78,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_electric_piston'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -95,7 +95,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_robot_arm'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -112,7 +112,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_field_generator'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -129,7 +129,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_emitter'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
@@ -146,13 +146,13 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x gtceu:opv_sensor'
         )
-        .CWUt(256)
+        .CWUt(2048)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
         event.recipes.gtceu.eliaforge('eliacube')
         .itemInputs(
-            '1x qilby_core:sigma_super_capacitor',
+            '1x qilby_core:stellar_energy_capacitor',
             '8x #gtceu:circuits/opv',
             '16x qilby_core:infinity_hi_pow_integrated_circuit',
             '32x gtceu:normal_laser_pipe',
@@ -161,15 +161,15 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:stellarite', 8000)
         )
         .itemOutputs(
-            'qilby_core:eliacube_capacitor'
+            'qilby_core:galactic_energy_capacitor'
         )
-        .CWUt(256)
+        .CWUt(8192)
         .duration(500)
         .EUt(GTValues.VA[GTValues.OpV])
 
         event.recipes.gtceu.eliaforge('eliasphere')
         .itemInputs(
-            '1x qilby_core:eliacube_capacitor',
+            '1x qilby_core:galactic_energy_capacitor',
             '64x qilby_core:infinity_hi_pow_integrated_circuit',
             '8x #gtceu:circuits/max',
             '64x gtceu:normal_laser_pipe',
@@ -178,9 +178,9 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:stellarite', 8000)
         )
         .itemOutputs(
-            'qilby_core:eliasphere_capacitor'
+            'qilby_core:dofus_energy_capacitor'
         )
-        .CWUt(256)
+        .CWUt(32768)
         .duration(500)
         .EUt(GTValues.VA[GTValues.MAX])
 })

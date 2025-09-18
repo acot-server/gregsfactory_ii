@@ -45,7 +45,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
 	        .where("D", Predicates.blocks("gtceu:high_power_casing"))
 	        .where("E", Predicates.blocks("botania:elf_glass"))
 	        .where("F", Predicates.blocks("gtceu:fusion_casing_mk3"))
-	        .where("G", Predicates.blocks("kubejs:runic_stelarite_coil_block"))
+	        .where("G", Predicates.blocks("gtceu:tritanium_coil_block"))
         .build())
 
         .workableCasingModel("gtca:block/casing/radiant_proof_reinforced_casing", "gtca:block/multiblock/pcb_factory")

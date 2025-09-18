@@ -18,7 +18,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             'gtceu:chroniton_hoursglass'
         )
-        .stationResearch(b => b.researchStack(Item.of('gtceu:dark_matter_attractor')).CWUt(16384).EUt(GTValues.VA[GTValues.UIV]))
+        .stationResearch(b => b.researchStack(Item.of('gtceu:dark_matter_attractor')).CWUt(8192).EUt(GTValues.VA[GTValues.UIV]))
         .duration(1800)
         .EUt(GTValues.VA[GTValues.UIV]);
 
@@ -180,7 +180,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 72),
+            Fluid.of('qilby_core:runic_stellarite', 72),
         )
         .chancedOutput(
             'qilby_core:ultra_stabilized_chroniton', 8000, 0
@@ -200,7 +200,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 72),
+            Fluid.of('qilby_core:runic_stellarite', 72),
         )
         .itemOutputs(
             '4x qilby_core:ultra_stabilized_chroniton'
@@ -306,7 +306,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '2x qilby_core:chronal_processor_computer'
@@ -327,7 +327,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '8x qilby_core:chronal_processor_computer'
@@ -348,7 +348,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '2x qilby_core:chronal_processor_mainframe'
@@ -369,7 +369,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '8x qilby_core:chronal_processor_mainframe'
@@ -476,7 +476,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '4x qilby_core:chronal_processor_computer'
@@ -497,7 +497,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '16x qilby_core:chronal_processor_computer'
@@ -518,7 +518,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '4x qilby_core:chronal_processor_mainframe'
@@ -539,7 +539,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '16x qilby_core:chronal_processor_mainframe'
@@ -646,7 +646,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '8x qilby_core:chronal_processor_computer'
@@ -667,7 +667,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 144),
+            Fluid.of('qilby_core:runic_stellarite', 144),
         )
         .itemOutputs(
             '32x qilby_core:chronal_processor_computer'
@@ -688,7 +688,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(1)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '8x qilby_core:chronal_processor_mainframe'
@@ -709,7 +709,7 @@ ServerEvents.recipes(event => {
         )
         .circuit(2)
         .inputFluids(
-            Fluid.of('qilby_core:runic_stelarite', 576),
+            Fluid.of('qilby_core:runic_stellarite', 576),
         )
         .itemOutputs(
             '32x qilby_core:chronal_processor_mainframe'

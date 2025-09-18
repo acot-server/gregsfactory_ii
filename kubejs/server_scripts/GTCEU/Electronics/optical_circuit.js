@@ -49,7 +49,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '3x qilby_core:optical_processor_computer'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:optical_processor_assembly')).CWUt(2048).EUt(GTValues.VA[GTValues.UHV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:optical_processor_assembly')).CWUt(1536).EUt(GTValues.VA[GTValues.UHV]))
         .duration(600)
         .EUt(GTValues.VA[GTValues.UHV]);
 
@@ -77,7 +77,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             'qilby_core:optical_processor_mainframe'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:optical_processor_computer')).CWUt(4096).EUt(GTValues.VA[GTValues.UHV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:optical_processor_computer')).CWUt(3072).EUt(GTValues.VA[GTValues.UHV]))
         .duration(600)
         .EUt(GTValues.VA[GTValues.UHV]);
 

@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             'gtceu:optical_assembly_line'
         )
-        .stationResearch(b => b.researchStack(Item.of('gtceu:assembly_line')).CWUt(8192).EUt(GTValues.VA[GTValues.UEV]))
+        .stationResearch(b => b.researchStack(Item.of('gtceu:assembly_line')).CWUt(2048).EUt(GTValues.VA[GTValues.UEV]))
         .duration(1200)
         .EUt(GTValues.VA[GTValues.UEV]);
 
@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
         .outputFluids(
             Fluid.of('qilby_core:pure_glass', 288)
         )
-        .blastFurnaceTemp(12000)
+        .blastFurnaceTemp(10500)
         .EUt(GTValues.VA[GTValues.UV])
         .duration(200)
 
@@ -62,7 +62,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '16x qilby_core:hi_pulse_converter'
         )
-        .CWUt(4096)
+        .CWUt(512)
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(100)
 
@@ -80,7 +80,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '64x qilby_core:perfect_optic_fiber'
         )
-        .CWUt(1024)
+        .CWUt(512)
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(100)
 
@@ -98,7 +98,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:perfect_nano_merger'
         )
-        .CWUt(2048)
+        .CWUt(512)
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(100)
 
@@ -116,7 +116,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '32x qilby_core:perfect_nano_splitter'
         )
-        .CWUt(2048)
+        .CWUt(512)
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(100)
 
@@ -135,7 +135,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(
             '8x qilby_core:optical_coputation_circuit'
         )
-        .CWUt(2048)
+        .CWUt(512)
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(100)
 });

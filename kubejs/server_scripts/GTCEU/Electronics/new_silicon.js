@@ -427,8 +427,6 @@ ServerEvents.recipes(event => {
 
        
         //Krosmoz
-    
-
         event.recipes.gtceu.electric_blast_furnace('krosmoz_silicon_boule')
         .itemInputs(
             '64x qilby_core:stasis_block',

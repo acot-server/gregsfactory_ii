@@ -1,13 +1,13 @@
 name = "Modern AE2 Additions"
-filename = "mae2-1.5.0.jar"
+filename = "mae2-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5G4fpXXj/versions/HYaIrByD/mae2-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/5G4fpXXj/versions/P9lYhycS/mae2-1.6.1.jar"
 hash-format = "sha512"
-hash = "e118c041fa9aa72592b282c8481ae410e8d7f4f3749501e37a3901d8356fd1782ed35032658ab3f23e72298d2d251f8e3a6e88b1c5f4910de07d70e8120e5b64"
+hash = "ed90143b72c3522f2f6aa4f6cf4783f5f55040874b46f19cfe44d1216ea7e49bf663343ea8f58246678e86b485c956bb39ab294ee44b0c4c4473b45b1013c1a5"
 
 [update]
 [update.modrinth]
 mod-id = "5G4fpXXj"
-version = "HYaIrByD"
+version = "P9lYhycS"

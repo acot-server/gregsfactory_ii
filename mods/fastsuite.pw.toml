@@ -1,13 +1,13 @@
 name = "FastSuite"
-filename = "FastSuite-1.20.1-5.1.0.jar"
+filename = "FastSuite-1.21.1-6.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3a759dce0ddc91e299027faa800c0ee40ab90de8"
+hash = "c445f512f2bee24b91d405767e1b129f236505f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6318054
+file-id = 6751538
 project-id = 475117

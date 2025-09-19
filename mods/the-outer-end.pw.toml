@@ -1,13 +1,13 @@
 name = "The Outer End"
-filename = "TheOuterEnd-1.0.10.jar"
+filename = "TheOuterEnd-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X8s97ySO/versions/5hPsRMLc/TheOuterEnd-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/X8s97ySO/versions/bwgiETL9/TheOuterEnd-1.0.11.jar"
 hash-format = "sha512"
-hash = "00df9f08c839b68d3514f375af562cd3f24406edc7bdc896bbf53cd159406cca9f3db8bde6014b04226506ae5f05b92fc85d8d7a1c9159908f9e44459319112b"
+hash = "3611b6dd57d4f0bb6dccbc80b120c7eb3034b0a14cca0405d783c9e1a91194bc21129e1e23dcf2307adc57a014980683e0c0353fbfa21f8ab5978e0d3f1f1842"
 
 [update]
 [update.modrinth]
 mod-id = "X8s97ySO"
-version = "5hPsRMLc"
+version = "bwgiETL9"

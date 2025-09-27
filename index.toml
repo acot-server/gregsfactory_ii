@@ -1267,6 +1267,11 @@ hash = "bf4133b4ac7b08983c98dcfb4cbfe4cc2b10698efb935d19378fd6a27490dd22"
 metafile = true
 
 [[files]]
+file = "mods/alshanexs-familiars.pw.toml"
+hash = "bb7241d48d19f3497cca52b6eae47ed984dce4cb29ceb8a863cbf4f12416f308"
+metafile = true
+
+[[files]]
 file = "mods/amber.pw.toml"
 hash = "aa91c87a12a4b60a2bb7e4cbf70a43b702c3aa6ee584b944f021f36e95c57d3d"
 metafile = true
@@ -1417,6 +1422,11 @@ hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
 metafile = true
 
 [[files]]
+file = "mods/celestisynth.pw.toml"
+hash = "5b7e57aeb7b340d1d637d25504fd33cfc4db3909ac0cb9f20e5c117ba5f39fd5"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
@@ -1424,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "1171ef431ac21929d77df6f39e3f611da22a55f692395d8be0fc67f8ebf47c85"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
 
 [[files]]
@@ -1542,6 +1557,11 @@ hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
 metafile = true
 
 [[files]]
+file = "mods/demis-sky-arena.pw.toml"
+hash = "83ce314136cc0a19aeb4e3dccb31ae9417d504d192a84f4923bf8a36e11ab233"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true
@@ -1574,6 +1594,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ba33e2257a6e3e4ae195919d16fdb142c326261bd0ea57560820f8d9fd9e324e"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "9ad22170aa9a44900e72ceabdd00c7028c18ee632650976ef0ca8ff020c4543e"
 metafile = true
 
 [[files]]
@@ -1712,6 +1737,16 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "f9ed63b5eac2fdee8398e6d61a00271f8cfbda2b7fed6a5aebb5411f2df234b4"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
 metafile = true
@@ -1719,6 +1754,16 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "73f0fb77d1827b8571a4a17f39920b813c356fe2c8647ae1195de50792e5bc7c"
+metafile = true
+
+[[files]]
+file = "mods/integrated-cataclysm.pw.toml"
+hash = "110a856ff4d9fdd18fdfa21402a8d222b3cc347757ee06d183d98005e5c82c15"
 metafile = true
 
 [[files]]
@@ -1812,6 +1857,21 @@ hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "d67a3fc92eeca14354a880d06c4f7314a40508d47f34442c8c8ddc4aeb5d1bc4"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
+metafile = true
+
+[[files]]
 file = "mods/liteminer.pw.toml"
 hash = "39f91dea9237f984086858dd80bb0d7d27702176c0e89f341e5b9e1d1edaae84"
 metafile = true
@@ -1869,6 +1929,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "dd8c35f46e1998175f993fa3acfc8b17600a1c031d62e273474232299d698afa"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
@@ -1997,6 +2062,11 @@ hash = "d46d14a840527a1622d5ec69fe99a95dc3f2613a306b2d96d2dde5b8ca411215"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true
@@ -2079,6 +2149,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f62af5ab636c96e8915bb896ce4092b14b0c3a94a1d89af33853af20b1877f9d"
+metafile = true
+
+[[files]]
+file = "mods/simply-more.pw.toml"
+hash = "a680213d0aaa99045437cdef1fd16ac601a0aa107a1b85ae4b60f5e6f8833c9f"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
 
 [[files]]
@@ -2187,6 +2267,11 @@ hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
 
 [[files]]
+file = "mods/tramways.pw.toml"
+hash = "9a9df905d5a87c77f4e471c63755aff7c6f1a915a5f90e745d16bce8002f6a91"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
@@ -2279,6 +2364,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
 
 [[files]]

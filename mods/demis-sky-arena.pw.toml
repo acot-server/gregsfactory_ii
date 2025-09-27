@@ -1,0 +1,13 @@
+name = "Demi's Sky Arena"
+filename = "SkyArena-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qqjBoHY/versions/L4wWfAfk/SkyArena-1.3.2.jar"
+hash-format = "sha512"
+hash = "cc00af79ef97f08fb11565070075f460a1c41f4d2fd5aaa1b5c26668f2c69fd1da3d3399eec31f9ea568126eeab48ca68e4e758a9af6a1ca5b616888ef3c3b78"
+
+[update]
+[update.modrinth]
+mod-id = "8qqjBoHY"
+version = "L4wWfAfk"

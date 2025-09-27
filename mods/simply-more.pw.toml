@@ -1,0 +1,13 @@
+name = "Simply More"
+filename = "simplymore-forge-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7ceb754c9e6c98f13e6243af49f3b409b656c1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6261985
+project-id = 1095252

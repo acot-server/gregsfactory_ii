@@ -1,0 +1,13 @@
+name = "Integrated Cataclysm"
+filename = "integrated_cataclysm_forge-1.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b74ccba2224d2495f746262c10897102ca7c2bb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6100198
+project-id = 1164949

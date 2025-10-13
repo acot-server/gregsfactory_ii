@@ -183,4 +183,21 @@ ServerEvents.recipes(event => {
         .CWUt(32768)
         .duration(500)
         .EUt(GTValues.VA[GTValues.MAX])
+
+    event.recipes.gtceu.eliaforge('shushu_max')
+        .itemInputs(
+            '8x gtnn:supracausal_mainframe',
+            '16x gtnn:cosmic_mainframe',
+            '32x gtnn:spintronic_mainframe',
+            '64x gtnn:optical_mainframe'
+        )
+        .inputFluids(
+            Fluid.of('gtceu:infinity', 18432)
+        )
+        .itemOutputs(
+            '64x qilby_core:shushu_circuit_max'
+        )
+        .duration(400)
+        .CWUt(262144)
+    .EUt(GTValues.VA[GTValues.MAX]*16);
 })

@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
 
-    event.recipes.gtceu.circuit_assembler('enigmatic_processor')
+    event.recipes.gtceu.circuit_assembler('gooware_processor')
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
             '2x gtceu:highly_advanced_soc',
@@ -10,32 +10,32 @@ ServerEvents.recipes(event => {
             '12x qilby_core:quantum_smd_capacitor'
         )
         .itemOutputs(
-            '12x qilby_core:enigmatic_processor'
+            '4x gtnn:gooware_processor'
         )
         .duration(150)
         .EUt(GTValues.VA[GTValues.UHV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.circuit_assembler('enigmatic_processor_assembly')
+    event.recipes.gtceu.circuit_assembler('gooware_assembly')
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
-            '3x qilby_core:enigmatic_processor',
+            '2x gtnn:gooware_processor',
             '16x qilby_core:quantum_smd_resistor',
             '8x qilby_core:quantum_smd_transistor',
             '32x gtceu:ram_chip',
             '16x qilby_core:quantum_smd_diode'
         )
         .itemOutputs(
-            '6x qilby_core:enigmatic_processor_assembly'
+            '2x gtnn:gooware_assembly'
         )
         .duration(600)
         .EUt(GTValues.VA[GTValues.UV])
         .cleanroom(CleanroomType.CLEANROOM);
 
-    event.recipes.gtceu.assembly_line('enigmatic_processor_supercompter')
+    event.recipes.gtceu.assembly_line('gooware_supercompter')
         .itemInputs(
             'qilby_core:shukrute_printed_circuit_board',
-            '4x qilby_core:enigmatic_processor_assembly',
+            '2x gtnn:gooware_assembly',
             '16x qilby_core:quantum_smd_diode',
             '14x qilby_core:quantum_smd_transistor',
             '16x qilby_core:quantum_smd_resistor',
@@ -49,16 +49,16 @@ ServerEvents.recipes(event => {
             Fluid.of('gtca:radon_polymer', 576)
         )
         .itemOutputs(
-            '3x qilby_core:enigmatic_processor_computer'
+            '2x gtnn:gooware_computer'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_assembly')).CWUt(512).EUt(GTValues.VA[GTValues.UV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:quantum_smd_capacitor')).CWUt(512).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
         .EUt(GTValues.VA[GTValues.UV]);
 
-    event.recipes.gtceu.assembly_line('enigmatic_processor_mainframe')
+    event.recipes.gtceu.assembly_line('gooware_mainframe')
         .itemInputs(
             'gtceu:neutronium_frame',
-            '2x qilby_core:enigmatic_processor_computer',
+            '2x gtnn:gooware_computer',
             '16x qilby_core:quantum_smd_diode',
             '14x qilby_core:quantum_smd_transistor',
             '16x qilby_core:quantum_smd_resistor',
@@ -75,9 +75,9 @@ ServerEvents.recipes(event => {
             Fluid.of('gtca:radon_polymer', 1440)
         )
         .itemOutputs(
-            'qilby_core:enigmatic_processor_mainframe'
+            'gtnn:gooware_mainframe'
         )
-        .stationResearch(b => b.researchStack(Item.of('qilby_core:enigmatic_processor_computer')).CWUt(2048).EUt(GTValues.VA[GTValues.UV]))
+        .stationResearch(b => b.researchStack(Item.of('qilby_core:quantum_smd_diode')).CWUt(2048).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
         .EUt(GTValues.VA[GTValues.UV]);
 

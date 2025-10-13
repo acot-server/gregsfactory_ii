@@ -145,7 +145,7 @@ ServerEvents.recipes(event => {
             '128x qilby_core:rushu_printed_circuit_board'
         )
         .duration(400)
-        .CWUt(512)
+        .CWUt(2048)
         .EUt(GTValues.VA[GTValues.UEV]);
 
     event.recipes.gtceu.shukrute_pump('pcb_shushu_circuit_board')
@@ -157,28 +157,12 @@ ServerEvents.recipes(event => {
             '64x gtceu:terra_steel_foil'
         )
         .inputFluids(
-            Fluid.of('qilby_core:tungsten', 576)
+            Fluid.of('gtceu:tungsten', 576)
         )
         .itemOutputs(
             '128x qilby_core:shukrute_printed_circuit_board'
         )
         .duration(400)
-        .CWUt(256)
+        .CWUt(2048)
         .EUt(GTValues.VA[GTValues.UHV]);
-
-    event.recipes.gtceu.shukrute_pump('shushu_max')
-        .itemInputs(
-            '8x qilby_core:omniversal_supercomputer',
-            '8x qilby_core:multiversal_supercomputer',
-            '8x qilby_core:supracausal_processor_mainframe'
-        )
-        .inputFluids(
-            Fluid.of('gtceu:infinity', 18432)
-        )
-        .itemOutputs(
-            '64x qilby_core:shushu_circuit_max'
-        )
-        .duration(400)
-        .CWUt(262144)
-    .EUt(GTValues.VA[GTValues.MAX]*16);
 })

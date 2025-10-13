@@ -465,6 +465,90 @@ file = "kubejs/server_scripts/integrated_dynamics/menril_extractor.js"
 hash = "a3afcc85f0b46d62c3810d72c0f6f7a1e44b299fa314f116a49e3bd4097f0fec"
 
 [[files]]
+file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass.js"
+hash = "385e7e236660048f8aed945a15a6a8cccbdd1d465ad91630589c71de500a75da"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass_map.js"
+hash = "59a6a03dcf9040726e9109c0d482977c08ad51604a7fc995f36e194d434de35a"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor.js"
+hash = "e0784b30ed5c242fec864e50f3e66c4137b1f5a2c6b30530f7106ac1343b9eeb"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor_map.js"
+hash = "a64db71887f3d5d7f5cbef2a08673661182125b2ae452017091990f527fc88b2"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/deep_core_miner_map.js"
+hash = "2aaac3f01251b02b9f187a80bca050aaad2f5014a5656a2f1b35e05fb03e3054"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/deep_core_miner_mk1.js"
+hash = "d4d6bbdac9e4bf61da8c7271e70287cc3f6dca86f65f7b63ac797d9b7d6a60fe"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/eliaforge.js"
+hash = "89069308f8ef6b72dd2f05a7b16b43656914c64d7743483ddf725c3663bcbe4e"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/eliaforge_map.js"
+hash = "cd0ba1350228c64d20622c261cc9f39327e72490543a4c2a715ca575fa24fea6"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/mob_farm.js"
+hash = "6aa970013ea966d7989ea675bed82128d1bf0b42471c1f09b961570bfca3387c"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"
+hash = "d645478ed7789ec43b44f658ee5ac94bd9961ee73abd554a7ff86f59813a6a27"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
+hash = "9cd24efd074c57a164a5baee05b0a5f6e15c4fb8418440e09304512b146bbdab"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/optical_assembler_map.js"
+hash = "ab27af7105abe187eed2fa67ee8095a56bff7cd28c7817ad11be886bc56322bc"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/parallel_fusion_reactor.js"
+hash = "70bd69c9568aba48037b07e336085cba43cfcbbc474a6998c9053ba42909b402"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/shukrute_pump.js"
+hash = "3f5239a28372271e50d70b0630b7475fcf3061e7fbe508d035666d496f4ca874"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
+hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/wave_solderer.js"
+hash = "0a3dabf361822f30b9962c2f9deb8b8fbef20efd334c6dad910a015e7baa6494"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/wave_solderer_map.js"
+hash = "179c134c84f6a4969a3074ec89bcb411932d860a26c6b3213dcf6c1f0a8b0f41"
+
+[[files]]
+file = "kubejs/startup_scripts/OreCleanup.js"
+hash = "ee8b955428bffb726deae91fd65ca003d4fe48114d0874da85bc9b6a129a039d"
+
+[[files]]
+file = "kubejs/startup_scripts/create/sequenced_assembly_transisional.js"
+hash = "dbeceac4df7a57fc102d87c8ea679bcd65bbb8594efcba092b14891e17ab9cea"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/init.js"
+hash = "62a4ffdbd323cdd217416159cea42e2c91445b601f73c85e0025dc43972cf08c"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true

@@ -38,7 +38,7 @@ hash = "24b3e43ac324704edfaa10923ba7622fb79ee4f7d8db17e3e63fa9d7ec2910be"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "92951acf7da3a99f974b94993283697124cf3d3ae19cb971e07cad30668c4f98"
+hash = "d0a96da8ff6b388c0da5546dcaa124164f0e9f9f427142456b1247ef4a7ef47a"
 
 [[files]]
 file = "config/immediatelyfast.json"

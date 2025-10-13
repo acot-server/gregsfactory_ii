@@ -453,7 +453,7 @@ tools:
 
     # The EU/t consumption of the NanoSaber.
     # Default: 64
-    energyConsumption: 1
+    energyConsumption: 16
 
   # NightVision Goggles Voltage Tier. Default: 1 (LV)
   voltageTierNightVision: 1

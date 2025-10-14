@@ -106,11 +106,11 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "4a43c34ca99e2351477ea71c5a2df59d63f70be3ae864f8712d14b25e341950b"
+hash = "b3fa286e2ec2c12eb5ba959c6aae43ca9c2c46a5280c37e157ef6c38256a3f0a"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "104043e157136e576b008d2145e082f560f02f75cab14e923eb5d2c05ec3a069"
+hash = "5c75851d0de5ea77f5967c057dc54afc5192c97a8e3541a11cc062acc08eaa11"
 
 [[files]]
 file = "kubejs/data/qilby/loot_tables/rewards/lv.json"
@@ -178,7 +178,7 @@ hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/Shukrute_process/shukrute_pump.js"
-hash = "75b2e987720aad2fc9ad5bd6b8643ededb60ec74bf66d5631f13ee79f75e93f5"
+hash = "bbd5e5ecb587f949b4495836b3752e1e361caa9a04560f9f5630985d73f5193f"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/eliaforge.js"

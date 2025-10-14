@@ -154,7 +154,7 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:wakfu_plate',
             '64x gtceu:polybenzimidazole_plate',
-            '64x gtceu:terra_steel_foil'
+            '64x gtceu:terrasteel_foil'
         )
         .inputFluids(
             Fluid.of('gtceu:tungsten', 576)

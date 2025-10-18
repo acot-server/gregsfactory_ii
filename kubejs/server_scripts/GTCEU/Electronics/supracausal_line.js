@@ -179,7 +179,7 @@ ServerEvents.recipes( event => {
             '4x gtnn:spintronic_wrap_printed_circuit_board',
             '64x gtnn:supracausal_smd_transistor',
             '64x gtnn:supracausal_smd_resistor',
-            '64x gtnn:supracausal_smd_resistor',
+            '64x gtnn:supracausal_smd_capacitor',
             '64x gtnn:supracausal_smd_diode'
         )
         .inputFluids(
@@ -198,7 +198,7 @@ ServerEvents.recipes( event => {
             '32x gtnn:supracausal_processor',
             '64x gtnn:supracausal_smd_transistor',
             '64x gtnn:supracausal_smd_resistor',
-            '64x gtnn:supracausal_smd_resistor',
+            '64x gtnn:supracausal_smd_capacitor',
             '64x gtnn:supracausal_smd_diode'
         )
         .inputFluids(
@@ -217,7 +217,7 @@ ServerEvents.recipes( event => {
             '32x gtnn:supracausal_assembly',
             '64x gtnn:supracausal_smd_transistor',
             '64x gtnn:supracausal_smd_resistor',
-            '64x gtnn:supracausal_smd_resistor',
+            '64x gtnn:supracausal_smd_capacitor',
             '64x gtnn:supracausal_smd_diode'
         )
         .inputFluids(
@@ -237,7 +237,7 @@ ServerEvents.recipes( event => {
             '32x gtnn:supracausal_computer',
             '64x gtnn:supracausal_smd_transistor',
             '64x gtnn:supracausal_smd_resistor',
-            '64x gtnn:supracausal_smd_resistor',
+            '64x gtnn:supracausal_smd_capacitor',
             '64x gtnn:supracausal_smd_diode'
         )
         .inputFluids(

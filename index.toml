@@ -106,11 +106,11 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "4a43c34ca99e2351477ea71c5a2df59d63f70be3ae864f8712d14b25e341950b"
+hash = "b3fa286e2ec2c12eb5ba959c6aae43ca9c2c46a5280c37e157ef6c38256a3f0a"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "104043e157136e576b008d2145e082f560f02f75cab14e923eb5d2c05ec3a069"
+hash = "5c75851d0de5ea77f5967c057dc54afc5192c97a8e3541a11cc062acc08eaa11"
 
 [[files]]
 file = "kubejs/data/qilby/loot_tables/rewards/lv.json"

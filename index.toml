@@ -286,7 +286,7 @@ hash = "d1b52a425face3a5c698058b4e064f514a7d4228e15f86a29a2111b4045b3902"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
-hash = "bdec48dada3209e67e7ee4aa290d1e3888a1259de4d1cb9cecb207005768d25c"
+hash = "271509bdc9c3334b80eff6286a1ca1c6b7f03e143384d0c08032c6751b58e83f"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
@@ -313,6 +313,10 @@ file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
 hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Mining/raw_redstone.js"
+hash = "c20055b7a4b79a03abab49ecd23f4becf04ff792c7939029c5aa353d3306a289"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/rock_breaker.js"
 hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
 
@@ -323,6 +327,10 @@ hash = "007b1f52954baa5df5a85f46119a13d383afcd85b90531e0518bfc2d0938753f"
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Power_Devices/new_energy_hatch.js.old"
 hash = "4c74d5bc16591a3fadffc4d27fe2730149c11e98e8bbd3cb71b30edd83acd48d"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Power_Devices/steam_engine.js"
+hash = "d1936711d1ce1d0a088aa618f48b93b27be538c053a2fd5f044ec02eeed82c3a"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/recipes_modifier/boilier_burn_time.js"
@@ -515,14 +523,6 @@ hash = "3f5239a28372271e50d70b0630b7475fcf3061e7fbe508d035666d496f4ca874"
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
 hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
-
-[[files]]
-file = "kubejs/startup_scripts/GTCEU/wave_solderer.js"
-hash = "0a3dabf361822f30b9962c2f9deb8b8fbef20efd334c6dad910a015e7baa6494"
-
-[[files]]
-file = "kubejs/startup_scripts/GTCEU/wave_solderer_map.js"
-hash = "179c134c84f6a4969a3074ec89bcb411932d860a26c6b3213dcf6c1f0a8b0f41"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"

@@ -262,7 +262,7 @@ hash = "e450ef6fe03619f7be1b8dbcb2f8ae53993b3877ee6829e9e0279968c2211278"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/new_smd.js"
-hash = "f9da98df782ff1710ffb7514ad3975783e73f6fbf45f4fc171f580fc97461755"
+hash = "99283859c706c424cbdc559c1bcbf31d405deb1c36810ca28b63bac7ad905460"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_assembly_line.js"

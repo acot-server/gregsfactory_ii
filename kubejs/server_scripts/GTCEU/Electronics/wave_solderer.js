@@ -14,7 +14,7 @@ ServerEvents.recipes(event => {
         }
     ).id('qilby_core:shaped/wave_solderer');
 
-    event.recipes.gtceu.wave_soldere('lv_mass_assembly')
+    event.recipes.gtceu.wave_solderer('lv_mass_assembly')
         .itemInputs(
             'qilby_core:unsoldered_lv_circuit_assembly'
         )

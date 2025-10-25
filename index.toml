@@ -282,7 +282,7 @@ hash = "d1b52a425face3a5c698058b4e064f514a7d4228e15f86a29a2111b4045b3902"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
-hash = "271509bdc9c3334b80eff6286a1ca1c6b7f03e143384d0c08032c6751b58e83f"
+hash = "e16e60cf5865ad7e924d194cc3e564a774d27561869bef89397b14f80485b189"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
@@ -315,10 +315,6 @@ hash = "beb6a35d6aab4d87e1f6c31a9a3cf53445fe7471a64ef286b8ebd09324132a91"
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/rock_breaker.js"
 hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/Mining/wave_solderer.js"
-hash = "e16e60cf5865ad7e924d194cc3e564a774d27561869bef89397b14f80485b189"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Power_Devices/new_battery.js"

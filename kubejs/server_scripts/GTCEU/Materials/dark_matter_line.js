@@ -131,7 +131,7 @@ ServerEvents.recipes(event => {
         .itemInputs(
             '64x qilby_core:ultra_stabilized_chroniton',
             '4x qilby_core:fabric_of_reality_dust',
-            '32x qilby_core:supracausal_processor'
+            '32x gtnn:supracausal_processor'
         )
         .inputFluids(
             Fluid.of('qilby_core:stellarite', 576),

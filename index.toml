@@ -310,7 +310,7 @@ hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/raw_redstone.js"
-hash = "63d1d616b907ad188257ed8a0790b0dc120f146936f4239c35c1ee373842442d"
+hash = "beb6a35d6aab4d87e1f6c31a9a3cf53445fe7471a64ef286b8ebd09324132a91"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/rock_breaker.js"

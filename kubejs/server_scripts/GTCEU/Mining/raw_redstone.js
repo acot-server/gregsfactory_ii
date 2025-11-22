@@ -2,7 +2,7 @@ ServerEvents.recipes(event => {
 
     event.remove({ id: 'regions_unexplored:raw_redstone_block'});
     
-    event.recipes.gtceu.ore_crushing('rgu_raw_redstone')
+    event.recipes.gtceu.macerator('rgu_raw_redstone')
         .itemInputs(
             'regions_unexplored:raw_redstone_block'
         )

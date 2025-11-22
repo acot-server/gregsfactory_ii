@@ -8,12 +8,12 @@ ServerEvents.recipes(ev => {
         , 'PWP'
         , 'PPP'],
         {
-            P: '#forge:plates/terra_steel',
+            P: '#forge:plates/terrasteel',
             W: '#forge:tools/wrench'
         }
     );
     ev.recipes.gtceu.assembler('new_mv_casing')
-        .itemInputs('8x #forge:plates/terra_steel')
+        .itemInputs('8x #forge:plates/terrasteel')
         .itemOutputs('gtceu:mv_machine_casing')
         .circuit(8)
         .EUt(16)
@@ -42,10 +42,4 @@ ServerEvents.recipes(ev => {
         )
         .EUt(120)
         .duration(40);
-});
-
-ServerEvents.tags('item', ev => {
-    ev.add('forge:ingots/terra_steel', '#forge:ingots/terrasteel');
-    ev.add('forge:nuggets/terra_steel', '#forge:nuggets/terrasteel');
-    ev.add('forge:storage_blocks/terra_steel', '#forge:storage_blocks/terrasteel');
 });

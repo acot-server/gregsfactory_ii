@@ -298,7 +298,7 @@ hash = "e17ebfcca79f2de57ed312e001fed75a78d69ae199af63ad442f5f77399367b8"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/mv.js"
-hash = "2ba798b11f1e7634ecdb188367bbe7e7fd75d56853038fd6180951dcaf93d3a1"
+hash = "3efed870ae24bdb2f83f23e9b47f2d40f3db653385e6d70330f16712eb08ae43"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/polymer.js"
@@ -319,10 +319,6 @@ hash = "fd92d81dac272cf3540cad052762b99d40b832e1ac5f1404f678c415aefec510"
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Power_Devices/new_battery.js"
 hash = "007b1f52954baa5df5a85f46119a13d383afcd85b90531e0518bfc2d0938753f"
-
-[[files]]
-file = "kubejs/server_scripts/GTCEU/Power_Devices/steam_engine.js"
-hash = "d1936711d1ce1d0a088aa618f48b93b27be538c053a2fd5f044ec02eeed82c3a"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/recipes_modifier/boilier_burn_time.js"
@@ -1354,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "f04a8dcb68fcc125f314bd4f4493cc1c2248daf5428e4cdc672f905b8ffc2e57"
+hash = "88b1a30cf85b1af96894764e33992edd357985fe04d418d6fb4371dfd39f83ad"
 metafile = true
 
 [[files]]

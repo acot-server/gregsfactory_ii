@@ -874,6 +874,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/forestry-community-edition.pw.toml"
+hash = "939f19c57bd6d3b1c4dfc8a2a320aa70210a0635bd081e831b6716648c917508"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "ce017d458014e11d80c66b0840779531fbdb0089d6d58be62e2ebb3916f8c1ca"
 metafile = true

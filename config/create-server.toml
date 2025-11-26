@@ -15,16 +15,16 @@
 	#.
 	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
-	bulkPressing = false
+	bulkPressing = true
 	#.
 	#Allow the Mechanical Saw to process entire stacks at a time.
-	bulkCutting = false
+	bulkCutting = true
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
 	allowBrewingInMixer = true
 	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
-	allowShapelessInMixer = true
+	allowShapelessInMixer = false
 	#.
 	#Allow any single-ingredient 2x2 or 3x3 crafting recipes to be processed by a Mechanical Press + Basin.
 	allowShapedSquareInPress = true
@@ -34,7 +34,7 @@
 	#.
 	#The Maximum amount of ingredients that can be used to craft Firework Rockets using Mechanical Crafters.
 	#Range: > 1
-	maxFireworkIngredientsInCrafter = 9
+	maxFireworkIngredientsInCrafter = 25
 	#.
 	#Allow any stonecutting recipes to be processed by a Mechanical Saw.
 	allowStonecuttingOnSaw = true
@@ -69,11 +69,11 @@
 	#.
 	#Maximum length in blocks of chain conveyor connections.
 	#Range: > 5
-	maxChainConveyorLength = 64
+	maxChainConveyorLength = 128
 	#.
 	#Maximum amount of connections each chain conveyor can have.
 	#Range: > 1
-	maxChainConveyorConnections = 4
+	maxChainConveyorConnections = 6
 	#.
 	#Damage dealt by active Crushing Wheels.
 	#Range: > 0
@@ -106,7 +106,7 @@
 	#.
 	#Max Distance in blocks a Weighted Ejector can throw
 	#Range: > 0
-	maxEjectorDistance = 32
+	maxEjectorDistance = 64
 	#.
 	#Time in ticks until the next item launched by an ejector scans blocks for potential collisions
 	#Range: > 10
@@ -170,11 +170,11 @@
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
+		movableSpawners = "MOVABLE"
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
+		amethystMovement = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
@@ -194,7 +194,7 @@
 		harvesterReplants = true
 		#.
 		#Whether minecart contraptions can be placed into container items.
-		minecartContraptionInContainers = false
+		minecartContraptionInContainers = true
 		#.
 		#Whether stabilised bearings create a separated entity even on non-rotating contraptions.
 		#[Technical]
@@ -368,7 +368,7 @@
 	#.
 	#Maximum distance in blocks a Mechanical Arm can reach across.
 	#Range: > 1
-	mechanicalArmRange = 5
+	mechanicalArmRange = 8
 	#.
 	#Maximum distance in blocks a Package Port can be placed at from its target.
 	#Range: > 1
@@ -399,7 +399,7 @@
 	factoryGaugeTimer = 100
 	#.
 	#Whether hostile mobs walking near a seat will start riding it.
-	seatHostileMobs = true
+	seatHostileMobs = false
 
 #.
 #Everything related to Schematic tools
@@ -411,7 +411,7 @@
 	#.
 	#The amount of Schematics a player can upload until previous ones are overwritten.
 	#Range: > 1
-	maxSchematics = 10
+	maxSchematics = 25
 	#.
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
@@ -446,7 +446,7 @@
 	#.
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	#Range: > 10
-	maxSymmetryWandRange = 64
+	maxSymmetryWandRange = 256
 	#.
 	#The Maximum Distance a Block placed by Create's placement assist will have to its interaction point.
 	#Range: > 3
@@ -454,7 +454,7 @@
 	#.
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	#Range: > 1
-	toolboxRange = 32
+	toolboxRange = 64
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	#Range: > 1
@@ -522,15 +522,15 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 40.0
+		poweredTrainTopSpeed = 70.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
+		poweredTrainTurningTopSpeed = 50.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 3.0
+		poweredTrainAcceleration = 5.0
 

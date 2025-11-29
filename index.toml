@@ -1237,6 +1237,11 @@ hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "e65d0d2a8b664e6f97f503cf3743b3ba0c5288eccb84f276507b7df80725b499"
 metafile = true

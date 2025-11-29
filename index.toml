@@ -827,11 +827,6 @@ hash = "c1fb031f1a8e5212e61c9bb1825e5c467d0adca985aa70eff157caa25aaf5b28"
 metafile = true
 
 [[files]]
-file = "mods/default-skill-trees.pw.toml"
-hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
-metafile = true
-
-[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true
@@ -1242,6 +1237,11 @@ hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "e65d0d2a8b664e6f97f503cf3743b3ba0c5288eccb84f276507b7df80725b499"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
@@ -1259,11 +1259,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
-metafile = true
-
-[[files]]
-file = "mods/pufferfishs-unofficial-additions.pw.toml"
-hash = "7dc8f1e98b0915fd6d451d09b2d696efdde9339787bf40f4665fba6f5b026fe2"
 metafile = true
 
 [[files]]
@@ -1364,11 +1359,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f62af5ab636c96e8915bb896ce4092b14b0c3a94a1d89af33853af20b1877f9d"
-metafile = true
-
-[[files]]
-file = "mods/skills.pw.toml"
-hash = "ea4819ccabf521a136e96bcf1d24be93609e4e8e2d037ba10f72726cc2d66fea"
 metafile = true
 
 [[files]]

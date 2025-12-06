@@ -381,66 +381,6 @@ file = "kubejs/server_scripts/ad_astra/rocket.js"
 hash = "ad337f494aa88e646c85b8c7a9fe97c4c1f9315c5d65b104cf69b2d9e54ad7e9"
 
 [[files]]
-file = "kubejs/server_scripts/appliedenergistics2/ae2.js"
-hash = "22e80d59573b335043635276b3700ec9c4999337f58de6209a4cc5a8b6867e26"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/cables.js"
-hash = "753182c243862c546062c38e6ecdb2c7a21384484af71ce689682de7bb6fe244"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/cards.js"
-hash = "68fbc447200bd2f00e919233ca2bbb45c96fc8fa8030cb721e2d6edf4c374c76"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/cells.js"
-hash = "a173edffac6719f3968439865bb2a658fc20c471681f225a5081ab00b0129ea8"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/certus_quartz.js"
-hash = "4b8db54232c2656870078377ea6c6a97ec84f963a983da808f9398bdd1939df4"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/crafting_storage.js"
-hash = "e68a97b24aa63aa8290b9891b02af7499ccd7f9a1dc2ef2cc3d183d660c48177"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/inscriber.js"
-hash = "f145c934308bdc1ed48d30ec81ac0a686ed40d27d0c3d0a615f08f0e8c2e2975"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/inter_providers.js"
-hash = "7b2903c315b6dd1b0fe938e7f8220f4ca621b945373aa82a6a40b326cdfe6044"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/molecular_assemblers.js"
-hash = "e1befac5352ea32dcf4a2261f4ff88f0bba327a2aaf7d4bb4230c2fbbcf85c0a"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/patterns.js"
-hash = "1d5a65dff632046a5832d4a707b912e282aef5e5ccc7c560a849e40a8ae137d1"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/portable_cells.js"
-hash = "ef31a184c3685322b9a0f38d7e692e352ef1da698b74f835bf120c3b709e075c"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/pressing.js"
-hash = "4a7d34021202b814ad578b2c217c6e4e893d232ef7e4cb4bd5ab793aec5a34ae"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/removals.js"
-hash = "a858ddfed2b5799bb1222e50ef78fac4091ca55fde4e071afa82d21da12e158f"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/storage_parts.js"
-hash = "a184a4372a849553c142772f0f3a434fb59d0fa242c317deb2556451bd9880a5"
-
-[[files]]
-file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
-hash = "7588ffcb734f4ba3caecea9259dff93d4b66b4e7ebc1fe254645a6fb3fa3fa89"
-
-[[files]]
 file = "kubejs/server_scripts/create/compacting.js"
 hash = "3e5a6f1162b2dc145db37698831e731255d24140f8b1004b794a7feb57e33649"
 

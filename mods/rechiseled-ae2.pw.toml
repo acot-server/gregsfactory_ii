@@ -1,13 +1,13 @@
 name = "Rechiseled: AE2"
-filename = "rechiseledae2-forge-1.20.1-1.0.0.jar"
+filename = "rechiseledae2-neoforge-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sDBUwZVY/versions/DLka6PM6/rechiseledae2-forge-1.20.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/sDBUwZVY/versions/gQhxObUn/rechiseledae2-neoforge-1.20.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "0c993c227abd34a8095474bd938ee2a882cd4db695957e5b4cd8c434e1c43873eac32a21e6f219babaccb51df43e22d3571c55819cfc4d6d9bb1300ed80b2e7f"
+hash = "df61f77c3cfaedbd234d1e7b81a3796558baf24f2e0c1b6cccca6d82c817d0a6bd5d4e8124bc68b7bbe56dfaca2f162c95950e7773dc948dea81bfd71053101b"
 
 [update]
 [update.modrinth]
 mod-id = "sDBUwZVY"
-version = "DLka6PM6"
+version = "gQhxObUn"

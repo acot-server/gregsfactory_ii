@@ -1,13 +1,13 @@
 name = "Macaw's Windows"
-filename = "mcw-windows-2.4.0-1.20.1forge.jar"
+filename = "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/C7I0BCni/versions/KzTPAR92/mcw-windows-2.4.0-1.20.1forge.jar"
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/sAci0S1N/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar"
 hash-format = "sha512"
-hash = "c61c89491a1e50989b6ef8f605368dd327690600be073e5475c9a26b6d12b8020305f9199518c573b92041a8eceb869cca3bcfdad16e4a3376d3b542fec77f32"
+hash = "3fec283b95915996399fe839e7feb26a82c6531548316978e061302983dae410b33e2289ab6c0c1fad441523b8f40e6abb1968d409855a8c32e02796b1925349"
 
 [update]
 [update.modrinth]
 mod-id = "C7I0BCni"
-version = "KzTPAR92"
+version = "sAci0S1N"

@@ -1,13 +1,13 @@
 name = "Build Guide"
-filename = "BuildGuide-1.20-0.4.6.jar"
+filename = "BuildGuide-1.20-0.4.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XwBDibES/versions/bsFiRyZS/BuildGuide-1.20-0.4.6.jar"
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/i4qsoaOP/BuildGuide-1.20-0.4.7.jar"
 hash-format = "sha512"
-hash = "52158357c295748a60dba99fe901446487d5632ef54658d9265bf51c07e36cefd63e5766d9d3a7293a36f2c8d2c8de0c97cfa3ebf123f18021d9ef714575020d"
+hash = "d666ed2263c9cceb9457d66d3c26e532ca9b1e3ddbae88ead5ebbfd0f7030196a18a8f92ae4fa2343f91ae73709d594d4efdddda0ca16b8cb524cfd28355f33a"
 
 [update]
 [update.modrinth]
 mod-id = "XwBDibES"
-version = "bsFiRyZS"
+version = "i4qsoaOP"

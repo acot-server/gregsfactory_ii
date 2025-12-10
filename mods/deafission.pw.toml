@@ -1,0 +1,13 @@
+name = "Dea's Fission"
+filename = "deafission-1.20.1-0.14.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gVRjOrOG/versions/O3DOl3Si/deafission-1.20.1-0.14.0.jar"
+hash-format = "sha512"
+hash = "fb30fd3bafbe3d5f3aeb26641f1700a755c01006357138c1826de696726a80679e5ff559ab8553520c9e742fe740b44ef6b7831b7dd225799e601a1f8c79781e"
+
+[update]
+[update.modrinth]
+mod-id = "gVRjOrOG"
+version = "O3DOl3Si"

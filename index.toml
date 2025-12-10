@@ -779,6 +779,11 @@ hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
 metafile = true
 
 [[files]]
+file = "mods/deafission.pw.toml"
+hash = "e7af3ba0694327147b3a03f36fda3494f0c01d51f9a76abdbbd983d991d33aa6"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true

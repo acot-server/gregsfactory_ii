@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
             '64x gtceu:blacklight',
             '8x gtceu:uhv_field_generator',
             'qilby_core:dark_matter_frame',
-            '16x qilby_core:enigmatic_super_capacitor',
+            '16x qilby_core:dark_matter_capacitor',
             '#gtceu:circuits/uev',
             'hexcasting:lens',
             'hexcasting:lens',

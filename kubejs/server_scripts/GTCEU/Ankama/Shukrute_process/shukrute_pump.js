@@ -115,23 +115,6 @@ ServerEvents.recipes(event => {
         .EUt(7680);
 
 //Rushu Board
-
-    event.recipes.gtceu.shukrute_pump('supracausal_circuit_board')
-        .itemInputs(
-            '64x gtceu:infinity_plate',
-            '64x qilby_core:fabric_of_reality_foil',
-            '64x qilby_core:runic_stellarite_foil'
-        )
-        .inputFluids(
-            Fluid.of('qilby_core:stellarite', 576)
-        )
-        .itemOutputs(
-            '128x qilby_core:supracausal_circuit_board'
-        )
-        .duration(400)
-        .CWUt(1024)
-        .EUt(GTValues.VA[GTValues.UXV]);
-
     event.recipes.gtceu.shukrute_pump('pcb_rushu_circuit_board')
         .itemInputs(
             '64x qilby_core:stasis_plate',

@@ -210,7 +210,7 @@ hash = "4d1497d454095cadfee0858e7168c02b0a9435a585562b9b861bf9e974a4e9df"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/Shukrute_process/shukrute_pump.js"
-hash = "bbd5e5ecb587f949b4495836b3752e1e361caa9a04560f9f5630985d73f5193f"
+hash = "27ae033b3c98f9fb25b6afb8820ad171dd1d126530bcbc3f04f4db4596a5b145"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Ankama/eliaforge.js"
@@ -270,7 +270,7 @@ hash = "c0a5f80a67966b09f656289442c7f52e838ae1e3b4914e8208c43e17850d0539"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/early_game_circuits.js"
-hash = "682a2481545a97828aa4b09f6cdd56e75eb924c99d1af9340c17b90681c00360"
+hash = "d859a4a8d3b9adab8aa1835c47e8f50168ca932bb9b37e8efcf961300ed5c1d0"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/electronics_tags.js"
@@ -298,7 +298,7 @@ hash = "99283859c706c424cbdc559c1bcbf31d405deb1c36810ca28b63bac7ad905460"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_assembly_line.js"
-hash = "9fce112b0c65beced9cad0c042956be11a0cd2efb13b89a8150912cbbfe2a302"
+hash = "199a24781100770f2bd145ca8939286903f749da4ab7bddc88ae783f7354402b"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/optical_line.js"
@@ -335,6 +335,10 @@ hash = "3efed870ae24bdb2f83f23e9b47f2d40f3db653385e6d70330f16712eb08ae43"
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/polymer.js"
 hash = "ce7de701b0aba1e4e313605faa43cf4fe976ddd55280b31e16c62e3cc37ca435"
+
+[[files]]
+file = "kubejs/server_scripts/GTCEU/Materials/replace.js"
+hash = "eaf0a12a96ad88c554909c4fc9016f064963005aa6d297b694430c75501c90ef"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"

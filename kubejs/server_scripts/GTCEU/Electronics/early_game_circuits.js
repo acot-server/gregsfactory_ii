@@ -58,7 +58,7 @@ ServerEvents.recipes( event => {
     // Create MV-EV circuit
     c_assembler('integrated_mainframe')
         .itemInputs(
-            '2x gtceu:terra_steel_frame',
+            '2x gtceu:terrasteel_frame',
             '4x gtceu:advanced_integrated_circuit',
             '8x #gtceu:inductors',
             '16x #gtceu:capacitors',

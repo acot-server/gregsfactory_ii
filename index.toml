@@ -381,6 +381,18 @@ file = "kubejs/server_scripts/ad_astra/rocket.js"
 hash = "ad337f494aa88e646c85b8c7a9fe97c4c1f9315c5d65b104cf69b2d9e54ad7e9"
 
 [[files]]
+file = "kubejs/server_scripts/appliedenergistics2/ae2_components.js"
+hash = "1db96da522688a24e1edc1013cdef136b821f0f9114afc51522a06f82be8ae44"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/network_devices.js"
+hash = "7648b4bdb5398b60c8f26a7e30a3ae346fb916a0c9429e8cbad9db95276b2ce7"
+
+[[files]]
+file = "kubejs/server_scripts/appliedenergistics2/removal_ae.js"
+hash = "3ca5281f5e1c64e8b3e651235da2e59e3736ee8c2585ce9245ebabaf3d3a704d"
+
+[[files]]
 file = "kubejs/server_scripts/create/compacting.js"
 hash = "3e5a6f1162b2dc145db37698831e731255d24140f8b1004b794a7feb57e33649"
 

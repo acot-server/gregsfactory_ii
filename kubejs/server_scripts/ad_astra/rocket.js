@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
             '8x gtnn:heavy_plate_t1'
         )
         .inputFluids(
-            Fluid.of('gtceu:stainless_steelr', 576)
+            Fluid.of('gtceu:stainless_steel', 576)
         )
         .itemOutputs(
             'ad_astra:tier_1_rocket'

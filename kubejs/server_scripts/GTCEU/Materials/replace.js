@@ -1,5 +1,7 @@
 ServerEvents.recipes((event) => {
     const tiers = [
+        "iron",
+        "steel",
         "aluminium",
         "stainless_steel",
     ];
@@ -16,6 +18,8 @@ ServerEvents.recipes((event) => {
 
     // Map of tier replacements
     const tierReplacements = {
+        iron: "manasteel",
+        steel: "manasteel",
         aluminium: "terrasteel",
         stainless_steel: "desh"
         // Add more replacements as needed

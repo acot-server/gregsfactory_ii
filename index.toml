@@ -338,7 +338,7 @@ hash = "ce7de701b0aba1e4e313605faa43cf4fe976ddd55280b31e16c62e3cc37ca435"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/replace.js"
-hash = "eaf0a12a96ad88c554909c4fc9016f064963005aa6d297b694430c75501c90ef"
+hash = "bf8b2f600491f46d1e8c5b564b0596f3783b538ba9e8566d66adf4a11c30772e"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
@@ -798,6 +798,21 @@ hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "705e19e3ac6db19537e4d4dd9db700570238dce1e8730fecc5df791d7ef3e722"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
 metafile = true
@@ -913,6 +928,11 @@ hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "952e8743d8452d98c491a2e71bffbba3e89fb26369211c15c84fad89b6e17fea"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
@@ -1020,16 +1040,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
 metafile = true
 
 [[files]]
@@ -1153,11 +1163,6 @@ hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
 
 [[files]]
-file = "mods/moderately-enough-effect-descriptions-(meed)-jeed-addon.pw.toml"
-hash = "e47f30aa4f06287709f3d2781156a2caf5b9555378a84a55355767eaa6cac0ff"
-metafile = true
-
-[[files]]
 file = "mods/modern-ae2-additions.pw.toml"
 hash = "e786357d021bd4081049ee0dd5d8cc78dac4e75127535b025c5f960909eb609e"
 metafile = true
@@ -1190,6 +1195,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
@@ -1229,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "88b1a30cf85b1af96894764e33992edd357985fe04d418d6fb4371dfd39f83ad"
+hash = "5edb8dacd6150fb5e3a153b67472a620a4548524df6719f331a30376d2c2eec8"
 metafile = true
 
 [[files]]
@@ -1410,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "6161309e69a86b6258e9d2c7cb541e3f083cbcc729be14951343f34a186048c5"
 metafile = true
 
 [[files]]

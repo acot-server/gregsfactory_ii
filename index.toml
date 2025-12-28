@@ -477,6 +477,10 @@ file = "kubejs/startup_scripts/GTCEU/mob_farm_map.js"
 hash = "d645478ed7789ec43b44f658ee5ac94bd9961ee73abd554a7ff86f59813a6a27"
 
 [[files]]
+file = "kubejs/startup_scripts/GTCEU/new_parralleh_hatch.js"
+hash = "76d5f75d0b593e6285e1579a232b884a5193af0eab43d1a0f5e356401275669d"
+
+[[files]]
 file = "kubejs/startup_scripts/GTCEU/optical_assembler.js"
 hash = "9cd24efd074c57a164a5baee05b0a5f6e15c4fb8418440e09304512b146bbdab"
 

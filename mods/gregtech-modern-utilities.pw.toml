@@ -1,13 +1,13 @@
 name = "GregTech Modern Utilities"
-filename = "gtmutils-2.4.0.jar"
+filename = "gtmutils-2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KMnOsM3N/versions/wv4EqIsy/gtmutils-2.4.0.jar"
+url = "https://cdn.modrinth.com/data/KMnOsM3N/versions/xmiCVkG1/gtmutils-2.5.0.jar"
 hash-format = "sha512"
-hash = "be4cd32f433a4c0fcdfb77d3805b94abb9de2a31ea6bc77a3ad9baf9f6aca96238e4b7c211b4edbaa4b810129bf7412a82bd97dae6c7c367818e3dd7a0a030c1"
+hash = "5b3f98f7c7a774e22e103922df8f9663169ea23eeec5dce6e00fd04124002980d9babb35456bef72537d56086dde22e6d973fa9f73043f6ee5a7cf8ef435956f"
 
 [update]
 [update.modrinth]
 mod-id = "KMnOsM3N"
-version = "wv4EqIsy"
+version = "xmiCVkG1"

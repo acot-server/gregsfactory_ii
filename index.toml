@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "5edb8dacd6150fb5e3a153b67472a620a4548524df6719f331a30376d2c2eec8"
+hash = "df41e0f747ae5e6937dc0a348f6697e167e5a15b1cf746ccac4c39ad1ce62bae"
 metafile = true
 
 [[files]]

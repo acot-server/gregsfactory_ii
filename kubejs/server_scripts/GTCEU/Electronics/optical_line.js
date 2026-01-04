@@ -12,7 +12,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '128x gtnn:optical_smd_resistor'
+            '64x gtnn:optical_smd_resistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -30,7 +30,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '128x gtnn:optical_smd_diode'
+            '64x gtnn:optical_smd_diode'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -48,7 +48,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '128x gtnn:optical_smd_transistor'
+            '64x gtnn:optical_smd_transistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -66,7 +66,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '128x gtnn:optical_smd_capacitor'
+            '64x gtnn:optical_smd_capacitor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -83,7 +83,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '128x gtnn:optical_smd_inductor'
+            '64x gtnn:optical_smd_inductor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -279,7 +279,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:stasis', 72)
         )
         .itemOutputs(
-            '364 gtnn:optical_computer'
+            '64x gtnn:optical_computer'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])

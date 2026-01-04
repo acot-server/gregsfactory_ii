@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 72)
         )
         .itemOutputs(
-            '32x gtnn:gooware_assembly'
+            '64x gtnn:gooware_assembly'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UHV])
@@ -52,7 +52,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 72)
         )
         .itemOutputs(
-            '32x gtnn:gooware_computer'
+            '64x gtnn:gooware_computer'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -72,7 +72,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 72)
         )
         .itemOutputs(
-            '16x gtnn:gooware_mainframe'
+            '64x gtnn:gooware_mainframe'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UIV])

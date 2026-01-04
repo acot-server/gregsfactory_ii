@@ -12,7 +12,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium', 288)
         )
         .itemOutputs(
-            '64x gtnn:supracausal_smd_resistor'
+            '128x gtnn:supracausal_smd_resistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -30,7 +30,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium', 288)
         )
         .itemOutputs(
-            '64x gtnn:supracausal_smd_diode'
+            '128x gtnn:supracausal_smd_diode'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -48,7 +48,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium', 288)
         )
         .itemOutputs(
-            '64x gtnn:supracausal_smd_transistor'
+            '128x gtnn:supracausal_smd_transistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -66,7 +66,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium', 288)
         )
         .itemOutputs(
-            '64x gtnn:supracausal_smd_capacitor'
+            '128x gtnn:supracausal_smd_capacitor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -83,7 +83,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium', 288)
         )
         .itemOutputs(
-            '64x gtnn:supracausal_smd_inductor'
+            '128x gtnn:supracausal_smd_inductor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -205,7 +205,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:fabric_of_reality', 72)
         )
         .itemOutputs(
-            '32x gtnn:supracausal_assembly'
+            '64x gtnn:supracausal_assembly'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UHV])
@@ -224,7 +224,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:fabric_of_reality', 72)
         )
         .itemOutputs(
-            '32x gtnn:supracausal_computer'
+            '64x gtnn:supracausal_computer'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -244,7 +244,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:fabric_of_reality', 72)
         )
         .itemOutputs(
-            '16x gtnn:supracausal_mainframe'
+            '64x gtnn:supracausal_mainframe'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UIV])

@@ -195,7 +195,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:infinity', 18432)
         )
         .itemOutputs(
-            '64x qilby_core:shushu_circuit_max'
+            '512x qilby_core:shushu_circuit_max'
         )
         .duration(400)
         .CWUt(262144)

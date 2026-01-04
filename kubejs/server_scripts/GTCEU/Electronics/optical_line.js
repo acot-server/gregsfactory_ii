@@ -12,7 +12,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:optical_smd_resistor'
+            '128x gtnn:optical_smd_resistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -30,7 +30,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '64x gtnn:optical_smd_diode'
+            '128x gtnn:optical_smd_diode'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -48,7 +48,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:optical_smd_transistor'
+            '128x gtnn:optical_smd_transistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -66,7 +66,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:optical_smd_capacitor'
+            '128x gtnn:optical_smd_capacitor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -83,7 +83,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:optical_smd_inductor'
+            '128x gtnn:optical_smd_inductor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -100,7 +100,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:hydrogen_plasma_plasma', 200)
         )
         .itemOutputs(
-            '4x gtnn:optical_circuit_board'
+            '16x gtnn:optical_circuit_board'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -118,7 +118,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:pure_glass', 288)
         )
         .itemOutputs(
-            '32x gtnn:optical_printed_circuit_board'
+            '64x gtnn:optical_printed_circuit_board'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -139,7 +139,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:pure_glass', 288)
         )
         .itemOutputs(
-            '4x gtnn:optical_imc_board'
+            '32x gtnn:optical_imc_board'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.ZPM])
@@ -260,7 +260,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:stasis', 72)
         )
         .itemOutputs(
-            '32x gtnn:optical_assembly'
+            '64x gtnn:optical_assembly'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UHV])
@@ -279,7 +279,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:stasis', 72)
         )
         .itemOutputs(
-            '32x gtnn:optical_computer'
+            '364 gtnn:optical_computer'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -299,7 +299,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:stasis', 72)
         )
         .itemOutputs(
-            '16x gtnn:optical_mainframe'
+            '64x gtnn:optical_mainframe'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UIV])

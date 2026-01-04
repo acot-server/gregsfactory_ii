@@ -12,7 +12,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_smd_resistor'
+            '128x gtnn:spintronic_smd_resistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -30,7 +30,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '64x gtnn:spintronic_smd_diode'
+            '128x gtnn:spintronic_smd_diode'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -48,7 +48,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_smd_transistor'
+            '128x gtnn:spintronic_smd_transistor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -66,7 +66,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_smd_capacitor'
+            '128x gtnn:spintronic_smd_capacitor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -83,7 +83,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:transparent_aluminium', 288)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_smd_inductor'
+            '128x gtnn:spintronic_smd_inductor'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -100,7 +100,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:radon_polymer', 500)
         )
         .itemOutputs(
-            '16x gtnn:spintronic_circuit_board'
+            '48x gtnn:spintronic_circuit_board'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -117,7 +117,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:radon_polymer', 500)
         )
         .itemOutputs(
-            '16x gtnn:spintronic_printed_circuit_board'
+            '48x gtnn:spintronic_printed_circuit_board'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -135,7 +135,7 @@ ServerEvents.recipes( event => {
             Fluid.of('gtca:adamantium_alloy', 288)
         )
         .itemOutputs(
-            '4x gtnn:photoelectron_soc'
+            '16x gtnn:photoelectron_soc'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UV])
@@ -256,7 +256,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:dark_matter', 72)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_assembly'
+            '64x gtnn:spintronic_assembly'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UHV])
@@ -275,7 +275,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:dark_matter', 72)
         )
         .itemOutputs(
-            '32x gtnn:spintronic_computer'
+            '64x gtnn:spintronic_computer'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UEV])
@@ -295,7 +295,7 @@ ServerEvents.recipes( event => {
             Fluid.of('qilby_core:dark_matter', 72)
         )
         .itemOutputs(
-            '16x gtnn:spintronic_mainframe'
+            '64x gtnn:spintronic_mainframe'
         )
         .duration(400)
         .EUt(GTValues.VA[GTValues.UIV])

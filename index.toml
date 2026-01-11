@@ -637,6 +637,11 @@ hash = "450686274e074a0caa8adb5ae1a740abb37126cbe02df4a7aa29b54532c0aa79"
 metafile = true
 
 [[files]]
+file = "mods/botanic-additions.pw.toml"
+hash = "d3780ebf65d09246b32d8f04d2619758a269dc92fba70e23ba1a1bc5d52ca6d9"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -694,6 +699,11 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "5bdc976d64496e58cbc5e6b3f1afcccaa31f8dd4029c7cf47c3bb1fc15b1a84f"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "1b8bbb8695ff437a8f8f9f8e16497368fdd68936c7bb6a632c57f5c99abe2c70"
 metafile = true
 
 [[files]]
@@ -962,8 +972,8 @@ hash = "ba1fc2883a5c902cbe90e192a338d72ddfc30577661675c933cc1869a00c2481"
 metafile = true
 
 [[files]]
-file = "mods/gtmthings.pw.toml"
-hash = "ba2696a09efe572586b87f5f78337a9327b53269b3a507cf78e015783d57117e"
+file = "mods/gtmoremachine.pw.toml"
+hash = "edc945d2cd4b4868ce6c5041df42c44971e7f29cba7b57cdebd9e87fc31d6a48"
 metafile = true
 
 [[files]]
@@ -974,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "53c477e3478ef271c14431e82f828a0818b53494943c7d518787f07b3d7e0a49"
 metafile = true
 
 [[files]]
@@ -1067,6 +1082,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "b96504b85a5193250bbdd3fedf4434b503c6aa135d563adccfc562cf1104109b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
@@ -1134,6 +1154,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
+metafile = true
+
+[[files]]
+file = "mods/materialreplicationmodern.pw.toml"
+hash = "206d330e33fed605a569fddca6ce65b9621eda9cb1acc684b18491f24e6a439c"
 metafile = true
 
 [[files]]

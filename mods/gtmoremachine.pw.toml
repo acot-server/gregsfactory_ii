@@ -1,0 +1,13 @@
+name = "GTMoreMachine"
+filename = "gtmoremachine-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aADDBrNC/versions/X8oCxplZ/gtmoremachine-1.20.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "7fc0afc9b399b9aeb257d15c6c608cd1f4880723daacdcdc5180301e8f7846f7f485730ae23ee9af1878d90f2a10dbb59eed619a46095fc274df85c7ad279a6b"
+
+[update]
+[update.modrinth]
+mod-id = "aADDBrNC"
+version = "X8oCxplZ"

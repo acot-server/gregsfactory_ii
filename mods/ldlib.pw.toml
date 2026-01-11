@@ -1,0 +1,13 @@
+name = "LDLib"
+filename = "ldlib-forge-1.20.1-1.0.48.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/yhlCY3k1/ldlib-forge-1.20.1-1.0.48.jar"
+hash-format = "sha512"
+hash = "564f71dccc84854e84fc795d7c2972b785498de198bafdae22e46e7b6fd257e6b4cd0b24396eae7caaec16f090500069f06e6b43ad50130a9d50ee9923850c59"
+
+[update]
+[update.modrinth]
+mod-id = "B1CBVXHX"
+version = "yhlCY3k1"

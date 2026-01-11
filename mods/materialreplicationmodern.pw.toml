@@ -1,0 +1,13 @@
+name = "MaterialReplicationModern"
+filename = "materialreplication-1.20.1-2.0.0-bata.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PXlCm6un/versions/mxkWxIb2/materialreplication-1.20.1-2.0.0-bata.jar"
+hash-format = "sha512"
+hash = "9caa5755b02678a3af4d63a458a907be57373ee6d228a1f11bb09b51e0bd1fad06225146354c2be8eadd8b0fd1eb36d2e2ab881f7a65f3ae453cf76a94e66dbf"
+
+[update]
+[update.modrinth]
+mod-id = "PXlCm6un"
+version = "mxkWxIb2"

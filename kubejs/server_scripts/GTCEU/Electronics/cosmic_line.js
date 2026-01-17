@@ -76,7 +76,8 @@ ServerEvents.recipes( event => {
         .itemInputs(
             Item.of('avaritia:singularity', '{Id:"avaritia:osmium"}').strongNBT(),
             '4x qilby_core:ultra_stabilized_chroniton',
-            'gtceu:enriched_naquadah_trinium_europium_duranide_single_wire'
+            '8x gtceu:fine_enriched_naquadah_trinium_europium_duranide_wire',
+            'gtceu:osmiridium_ring'
         )
         .circuit(11)
         .inputFluids(

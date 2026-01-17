@@ -76,7 +76,8 @@ ServerEvents.recipes( event => {
         .itemInputs(
             '4x qilby_core:dark_energy_foil',
             '2x qilby_core:stabilized_chroniton',
-            'gtceu:uranium_rhodium_dinaquadide_single_wire'
+            '8x gtceu:fine_uranium_rhodium_dinaquadide_wire',
+            'qilby_core:wakfu_ring'
         )
         .circuit(10)
         .inputFluids(

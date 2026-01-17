@@ -76,7 +76,8 @@ ServerEvents.recipes( event => {
         .itemInputs(
             '4x qilby_core:dark_energy_foil',
             '2x gtca:artherium_sn_plate',
-            'gtceu:indium_tin_barium_titanium_cuprate_single_wire'
+            '8x gtceu:fine_indium_tin_barium_titanium_cuprate_wire',
+            'gtceu:platinum_ring'
         )
         .circuit(9)
         .inputFluids(

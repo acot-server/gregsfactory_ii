@@ -76,7 +76,8 @@ ServerEvents.recipes( event => {
         .itemInputs(
             Item.of('avaritia:singularity', '{Id:"avaritia:uranium"}').strongNBT(),
             '4x qilby_core:ultra_stabilized_chroniton',
-            'gtceu:ruthenium_trinium_americium_neutronate_single_wire'
+            '8x gtceu:fine_elementium_wire',
+            'qilby_core:stasis_ring'
         )
         .circuit(12)
         .inputFluids(

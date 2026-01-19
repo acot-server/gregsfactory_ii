@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ad_astra.jsonc"
+hash = "75748e7c866d3ac14a5d131a0b1c3be81f01072c559dca0cf86bd22c732c5e0f"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "6bedd81540223824dc5a818f747b9fc683688c1839284fa45c59ad022b74f5ea"
 

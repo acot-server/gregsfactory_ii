@@ -27,21 +27,21 @@
     "disableAirVortexes": false,
     "cryoFreezer": {
         // Type: Long
-        "ironTierMaxEnergyInOut": 100,
+        "ironTierMaxEnergyInOut": 500,
         // Type: Long
-        "steelTierMaxEnergyInOut": 150,
+        "steelTierMaxEnergyInOut": 750,
         // Type: Long
-        "deshTierMaxEnergyInOut": 250,
+        "deshTierMaxEnergyInOut": 1000,
         // Type: Long
-        "ostrumTierMaxEnergyInOut": 500,
+        "ostrumTierMaxEnergyInOut": 2000,
         // Type: Long
-        "ironTierEnergyCapacity": 10000,
+        "ironTierEnergyCapacity": 20000,
         // Type: Long
-        "steelTierEnergyCapacity": 20000,
+        "steelTierEnergyCapacity": 50000,
         // Type: Long
-        "deshTierEnergyCapacity": 50000,
+        "deshTierEnergyCapacity": 200000,
         // Type: Long
-        "ostrumTierEnergyCapacity": 100000,
+        "ostrumTierEnergyCapacity": 1000000,
         // Type: Long
         "steelTierFluidCapacity": 3000,
         // Type: Long

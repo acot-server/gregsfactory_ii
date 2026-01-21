@@ -38,7 +38,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uhv_electric_pump'
+            '2x gtceu:uhv_electric_pump'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_electric_pump')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uhv_conveyor_module'
+            '2x gtceu:uhv_conveyor_module'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_conveyor_module')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -86,7 +86,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 16000)
         )
         .itemOutputs(
-            'gtceu:uhv_electric_piston'
+            '2x gtceu:uhv_electric_piston'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_electric_piston')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -112,7 +112,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 16000)
         )
         .itemOutputs(
-            'gtceu:uhv_robot_arm'
+            '2x gtceu:uhv_robot_arm'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_robot_arm')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -126,7 +126,7 @@ ServerEvents.recipes(event => {
             '2x gtceu:uhv_emitter',
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
-            '32x qilby_core:fine_stasis_wire',
+            '32x qilby_core:stasis_foil',
             '4x gtceu:europium_single_cable'
         )
         .inputFluids(
@@ -135,7 +135,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 16000)
         )
         .itemOutputs(
-            'gtceu:uhv_field_generator'
+            '2x gtceu:uhv_field_generator'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_field_generator')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -150,7 +150,7 @@ ServerEvents.recipes(event => {
             'gtceu:gravi_star',
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
-            '32x qilby_core:fine_stasis_wire',
+            '32x qilby_core:stasis_foil',
             '2x gtceu:europium_single_cable'
         )
         .inputFluids(
@@ -159,7 +159,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 16000)
         )
         .itemOutputs(
-            'gtceu:uhv_emitter'
+            '2x gtceu:uhv_emitter'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_emitter')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)
@@ -174,7 +174,7 @@ ServerEvents.recipes(event => {
             'gtceu:gravi_star',
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
-            '32x qilby_core:fine_stasis_wire',
+            '32x qilby_core:stasis_foil',
             '2x gtceu:europium_single_cable'
         )
         .inputFluids(
@@ -183,7 +183,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:wakfu', 16000)
         )
         .itemOutputs(
-            'gtceu:uhv_sensor'
+            '2x gtceu:uhv_sensor'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uv_sensor')).CWUt(128).EUt(GTValues.VA[GTValues.UV]))
         .duration(600)

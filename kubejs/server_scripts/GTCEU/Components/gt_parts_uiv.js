@@ -38,7 +38,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uiv_electric_pump'
+            '2x gtceu:uiv_electric_pump'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_electric_pump')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uiv_conveyor_module'
+            '2x gtceu:uiv_conveyor_module'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_conveyor_module')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -86,7 +86,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 16000)
         )
         .itemOutputs(
-            'gtceu:uiv_electric_piston'
+            '2x gtceu:uiv_electric_piston'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_electric_piston')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -112,7 +112,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 16000)
         )
         .itemOutputs(
-            'gtceu:uiv_robot_arm'
+            '2x gtceu:uiv_robot_arm'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_robot_arm')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -126,7 +126,7 @@ ServerEvents.recipes(event => {
             '2x gtceu:uiv_emitter',
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
-            '32x qilby_core:fine_dark_energy_wire',
+            '32x qilby_core:dark_energy_foil',
             '4x qilby_core:dark_energy_single_cable'
         )
         .inputFluids(
@@ -135,7 +135,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 16000)
         )
         .itemOutputs(
-            'gtceu:uiv_field_generator'
+            '2x gtceu:uiv_field_generator'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_field_generator')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -150,7 +150,7 @@ ServerEvents.recipes(event => {
             'gtceu:gravi_star',
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
-            '32x qilby_core:fine_dark_energy_wire',
+            '32x qilby_core:dark_energy_foil',
             '2x qilby_core:dark_energy_single_cable'
         )
         .inputFluids(
@@ -159,7 +159,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 16000)
         )
         .itemOutputs(
-            'gtceu:uiv_emitter'
+            '2x gtceu:uiv_emitter'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_emitter')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)
@@ -174,7 +174,7 @@ ServerEvents.recipes(event => {
             'gtceu:gravi_star',
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
-            '32x qilby_core:fine_dark_energy_wire',
+            '32x qilby_core:dark_energy_foil',
             '2x qilby_core:dark_energy_single_cable'
         )
         .inputFluids(
@@ -183,7 +183,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_matter', 16000)
         )
         .itemOutputs(
-            'gtceu:uiv_sensor'
+            '2x gtceu:uiv_sensor'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uev_sensor')).CWUt(384).EUt(GTValues.VA[GTValues.UEV]))
         .duration(600)

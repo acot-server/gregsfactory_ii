@@ -38,7 +38,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uxv_electric_pump'
+            '2x gtceu:uxv_electric_pump'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_electric_pump')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
             Fluid.of('gtceu:styrene_butadiene_rubber', 5000)
         )
         .itemOutputs(
-            'gtceu:uxv_conveyor_module'
+            '2x gtceu:uxv_conveyor_module'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_conveyor_module')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -86,7 +86,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 16000)
         )
         .itemOutputs(
-            'gtceu:uxv_electric_piston'
+            '2x gtceu:uxv_electric_piston'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_electric_piston')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -112,7 +112,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 16000)
         )
         .itemOutputs(
-            'gtceu:uxv_robot_arm'
+            '2x gtceu:uxv_robot_arm'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_robot_arm')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -135,7 +135,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 16000)
         )
         .itemOutputs(
-            'gtceu:uxv_field_generator'
+            '2x gtceu:uxv_field_generator'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_field_generator')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -159,7 +159,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 16000)
         )
         .itemOutputs(
-            'gtceu:uxv_emitter'
+            '2x gtceu:uxv_emitter'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_emitter')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)
@@ -183,7 +183,7 @@ ServerEvents.recipes(event => {
             Fluid.of('qilby_core:dark_energy', 16000)
         )
         .itemOutputs(
-            'gtceu:uxv_sensor'
+            '2x gtceu:uxv_sensor'
         )
         .stationResearch(b => b.researchStack(Item.of('gtceu:uiv_sensor')).CWUt(512).EUt(GTValues.VA[GTValues.UIV]))
         .duration(600)

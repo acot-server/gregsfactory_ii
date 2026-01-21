@@ -321,6 +321,10 @@ file = "kubejs/server_scripts/GTCEU/Electronics/wave_solderer.js"
 hash = "e16e60cf5865ad7e924d194cc3e564a774d27561869bef89397b14f80485b189"
 
 [[files]]
+file = "kubejs/server_scripts/GTCEU/Materials/components_transmutation.js"
+hash = "0c04c740de177e00825c464c75bf21c9cf4ad5d349a6da389124ad07a22129b6"
+
+[[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
 hash = "8d1b7dfdfa2ccc47779cacbe1e0cca5e6c79e10f64394c2c499f090cd4652649"
 
@@ -449,6 +453,10 @@ file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass_map.js"
 hash = "59a6a03dcf9040726e9109c0d482977c08ad51604a7fc995f36e194d434de35a"
 
 [[files]]
+file = "kubejs/startup_scripts/GTCEU/components_transmutator.js"
+hash = "a888408ba68d4b7d0ed57d8cc6f541c889809759773b4a41dcf39b602463af4f"
+
+[[files]]
 file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor.js"
 hash = "e0784b30ed5c242fec864e50f3e66c4137b1f5a2c6b30530f7106ac1343b9eeb"
 
@@ -503,6 +511,10 @@ hash = "3f5239a28372271e50d70b0630b7475fcf3061e7fbe508d035666d496f4ca874"
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
 hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
+
+[[files]]
+file = "kubejs/startup_scripts/GTCEU/transmutator_map.js"
+hash = "643bc1ab365b37c4827229bb0e4a495fd61ec1742ab29a1d58272ef9dde017c1"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"

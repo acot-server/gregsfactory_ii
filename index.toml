@@ -454,7 +454,7 @@ hash = "59a6a03dcf9040726e9109c0d482977c08ad51604a7fc995f36e194d434de35a"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/components_transmutator.js"
-hash = "a888408ba68d4b7d0ed57d8cc6f541c889809759773b4a41dcf39b602463af4f"
+hash = "a2fce32807cdbf4c698c477efb567348144d21eb6bccb3dd86405ce14f5ac7a5"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor.js"

@@ -108,7 +108,7 @@ GTCEuStartupEvents.registry("gtceu:machine", (event) => {
 					        .or(Predicates.abilities(PartAbility.PARALLEL_HATCH).setExactLimit(1))
                             .or(Predicates.autoAbilities(definition.getRecipeTypes()))
                         )
-                    .where("B", Predicates.blocks("xycraft_world:glass_viewer_glowing_clear"))
+                    .where("B", Predicates.blocks("botania:elf_glass"))
                     .where("C", Predicates.blocks("gtca:bpf_casing"))
                     .where("D", Predicates.blocks("qilby_core:machine_coil_dark_energy"))
                     .where("E", Predicates.blocks("gtnn:osmium_borosilicate_glass"))

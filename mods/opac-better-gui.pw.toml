@@ -1,0 +1,13 @@
+name = "OPAC Better GUI"
+filename = "opacgui-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/33HImYFt/versions/kerL4YMD/opacgui-1.0.jar"
+hash-format = "sha512"
+hash = "df9f348cd27bc04c7ae161b528fd3533408723005684481ae356e54769ada7a8f26f009ae307cdbb32afe426e6627f0e959d86ae0e1dbb87f9ecb12d444f5cb3"
+
+[update]
+[update.modrinth]
+mod-id = "33HImYFt"
+version = "kerL4YMD"

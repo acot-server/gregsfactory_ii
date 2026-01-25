@@ -8,8 +8,7 @@ ServerEvents.recipes(event => {
 
     event.recipes.gtceu.assembler('new_hpca')
         .itemInputs(
-            '1x computercraft:computer_normal',
-            '4x #gtceu:circuits/hv',
+            '8x #gtceu:circuits/hv',
             '8x gtceu:mv_field_generator',
             'gtceu:computer_monitor_cover',
             '64x gtceu:mercury_barium_calcium_cuprate_double_wire',

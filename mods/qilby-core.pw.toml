@@ -1,15 +1,15 @@
 name = "qilby_core"
-filename = "qilby_core-1.20.1-2.5.0.jar"
+filename = "qilby_core-1.20.1-2.6.0-slim.jar"
 side = "both"
 
 [download]
-url = "https://github.com/acot-server/qilby_core/releases/download/v2.5.0/qilby_core-1.20.1-2.5.0.jar"
+url = "https://github.com/acot-server/qilby_core/releases/download/v2.6.0/qilby_core-1.20.1-2.6.0-slim.jar"
 hash-format = "sha256"
-hash = "d910ce875580601bb778141526e2f2e7aeaeba85b0258526478b6e2aeac34231"
+hash = "1f25ef424f82b8f0ba546b5c475e9cbed42c8cb8495b6c4b9053d5b9051b3c18"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "acot-server/qilby_core"
-tag = "v2.5.0"
+tag = "v2.6.0"

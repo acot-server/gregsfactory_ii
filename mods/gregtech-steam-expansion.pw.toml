@@ -1,0 +1,13 @@
+name = "GregTech Steam Expansion"
+filename = "gregtech_steam_expansion-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYfhOVOh/versions/nJtZluso/gregtech_steam_expansion-0.1.0.jar"
+hash-format = "sha512"
+hash = "1e389fccbb04d615df0fa8e808e626006e38868993a21ea2985aa645c4bb9b56bf200f7ec44168ba78c50c51bbf7b20bd7c13d4a85c248361ceb4d3923899267"
+
+[update]
+[update.modrinth]
+mod-id = "RYfhOVOh"
+version = "nJtZluso"

@@ -250,7 +250,7 @@ hash = "42c9eaa07f7b9dfddaa0c7662955060acfeb9faa6157ed996056e8fbe01b71a4"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/HPCA.js"
-hash = "b0950e2297a98c4bd3b9f745db612b3a9be8f4d7df784c45644ffe0a15073e36"
+hash = "d2750eff69c98c865312fadf05df7c3f9c58ddc33ae436cf806a83bf585f23e3"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cooler.js"
@@ -318,7 +318,7 @@ hash = "43fbd9ba0c8bee42f1eaa384f72c53f4fe7fbb1a7ec7a0cf5a54a15097848248"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/components_transmutation.js"
-hash = "0c04c740de177e00825c464c75bf21c9cf4ad5d349a6da389124ad07a22129b6"
+hash = "0b912efa226d8359df1c3c33890962ea2fd1de1f56e3e28a2194a7d7c4a94fa8"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/dark_matter_line.js"
@@ -445,10 +445,6 @@ file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass_map.js"
 hash = "59a6a03dcf9040726e9109c0d482977c08ad51604a7fc995f36e194d434de35a"
 
 [[files]]
-file = "kubejs/startup_scripts/GTCEU/components_transmutator.js"
-hash = "a2fce32807cdbf4c698c477efb567348144d21eb6bccb3dd86405ce14f5ac7a5"
-
-[[files]]
 file = "kubejs/startup_scripts/GTCEU/dark_matter_attractor.js"
 hash = "e0784b30ed5c242fec864e50f3e66c4137b1f5a2c6b30530f7106ac1343b9eeb"
 
@@ -505,10 +501,6 @@ file = "kubejs/startup_scripts/GTCEU/shukrute_pump_map.js"
 hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
 
 [[files]]
-file = "kubejs/startup_scripts/GTCEU/transmutator_map.js"
-hash = "643bc1ab365b37c4827229bb0e4a495fd61ec1742ab29a1d58272ef9dde017c1"
-
-[[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
 hash = "ee8b955428bffb726deae91fd65ca003d4fe48114d0874da85bc9b6a129a039d"
 
@@ -537,11 +529,6 @@ metafile = true
 [[files]]
 file = "mods/advancedbook.pw.toml"
 hash = "782fb582b93da4a0925bb2ee08ac52a9400e599b065265d0abae6486b67ccd2b"
-metafile = true
-
-[[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "22023046d65c5c9c0cee0c575c44129414c8a702b06f2f0129ac918a4180495e"
 metafile = true
 
 [[files]]
@@ -592,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
+metafile = true
+
+[[files]]
+file = "mods/better-gregtech-and-applied-energistics.pw.toml"
+hash = "a00004e3dc625f50a80dabf4d3161f958be83ea72464c2d066fbefdd7b224ccf"
 metafile = true
 
 [[files]]
@@ -647,11 +639,6 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c45dce6b9e52796c0606ff222efa5833fd1d420fa67e7a8f26852196b80f6fa5"
 metafile = true
 
 [[files]]
@@ -875,6 +862,11 @@ hash = "df5b5249cb8122263ec902a6e88ff6c7e7628cf6469363b97040932b0f992aa4"
 metafile = true
 
 [[files]]
+file = "mods/gregtech-steam-expansion.pw.toml"
+hash = "d906eeb99f03da3bdd5dfb8cffef0d681cc58017438dc8c41bbddbd6a006d9c8"
+metafile = true
+
+[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "545f5eb92ed15947a24072328309c35f715b740199713b8fcf675e0466c39e75"
 metafile = true
@@ -952,11 +944,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
-metafile = true
-
-[[files]]
-file = "mods/kubejs+cc-tweaked.pw.toml"
-hash = "715916f67a72805e4c86709e4ed47bd4cf537d64b23117b3b0e31de0e7bfc523"
 metafile = true
 
 [[files]]
@@ -1045,8 +1032,13 @@ hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
+metafile = true
+
+[[files]]
 file = "mods/materialreplicationmodern.pw.toml"
-hash = "206d330e33fed605a569fddca6ce65b9621eda9cb1acc684b18491f24e6a439c"
+hash = "e46a2096b70b9a0e69e280f7aa9d6d9b7e74546ad473c4f978c226170b69b5c9"
 metafile = true
 
 [[files]]
@@ -1115,6 +1107,11 @@ hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
+file = "mods/oc2r.pw.toml"
+hash = "ccda1ee94f7c43ba9bb57f1df7bada2dae0059ae25a8d9ed90c9d079bf7313e7"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
@@ -1156,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "df41e0f747ae5e6937dc0a348f6697e167e5a15b1cf746ccac4c39ad1ce62bae"
+hash = "8cc0a27814cb6c1e9e53287ef631816518228806d6839ee3189e5d9f206b8acf"
 metafile = true
 
 [[files]]

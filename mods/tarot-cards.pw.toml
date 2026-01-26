@@ -1,0 +1,13 @@
+name = "Tarot Cards"
+filename = "tarotcards-1.20-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pI0D4Hrs/versions/EINvQRkB/tarotcards-1.20-1.7.0.jar"
+hash-format = "sha512"
+hash = "4066846da083e9b042b1bb4237d567c657154c0d3d1ee9a2ea6ebd590e81bfef13a0fe17e51657ae7c6577d8ff8bcb4b80bf5b1edc8638ac1d51ff13ba82d2d1"
+
+[update]
+[update.modrinth]
+mod-id = "pI0D4Hrs"
+version = "EINvQRkB"

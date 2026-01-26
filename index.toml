@@ -582,8 +582,8 @@ hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
 
 [[files]]
-file = "mods/better-gregtech-and-applied-energistics.pw.toml"
-hash = "a00004e3dc625f50a80dabf4d3161f958be83ea72464c2d066fbefdd7b224ccf"
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "72390c72a1091cd347aad048d125b47efff3d1ed90f7bc6126cb2e3f85437f53"
 metafile = true
 
 [[files]]
@@ -1202,6 +1202,11 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "071431afe4ae064387606fac09482058c41c0d3875b23140205597e4eea55d35"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
@@ -1269,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
+
+[[files]]
+file = "mods/tarot-cards.pw.toml"
+hash = "fbbcf81c1a92e7c27074c54f1e3a7f2b6feed51a033681395c1373cf671a750b"
 metafile = true
 
 [[files]]

@@ -9,10 +9,6 @@ file = "config/ae2/common.json"
 hash = "6bedd81540223824dc5a818f747b9fc683688c1839284fa45c59ad022b74f5ea"
 
 [[files]]
-file = "config/apotheosis/garden.cfg"
-hash = "2992c29d8d89655f7a96881c38fe21416d3895dff87f74ee135b364c1c961b1d"
-
-[[files]]
 file = "config/avaritia-common.toml"
 hash = "a3ae329b28330befe2c0d780430c57d18f6d1f15e84545cf91e8734402b45ea4"
 
@@ -62,11 +58,11 @@ hash = "071cf489d01e503299634750e5a573b040f8ae891865e7b7bf9d3b780622f678"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "ef4d822502f9065f3a6f5d19775399a7a42b44ffa70f441a76b71bf81a35b4b4"
+hash = "b13b397ff4f5ebcbadf912154b7db53a7a202dcad75600a51fc99a80a48a8331"
 
 [[files]]
 file = "config/gtmutils.yaml"
-hash = "f39b6bcda612a867b1fb94dfaf15665be1566ded8f004e63ed1179c72401c375"
+hash = "3f21e33b9a470e4f10f45be180a87053973a593c72f3c44361ad062213f249c2"
 
 [[files]]
 file = "config/gtnn.json"
@@ -75,18 +71,6 @@ hash = "b13253cc9d996785eebfeab169933d65785a31593fc7e8cf7c029604f4bed4ea"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
-
-[[files]]
-file = "config/integratedtunnels-common.toml"
-hash = "7ef92dfbc0e6d30765256deb11640c302e618a88c3e7360afff888c2a75fc78e"
-
-[[files]]
-file = "config/memorysettings.json"
-hash = "d15f2ab42b2e07df9aa064135f7bf614fa32150da19eebea5e916022e1db8158"
-
-[[files]]
-file = "config/xycraft/machines_common.toml"
-hash = "55deb077744d32583ed9d36cb5959583163904a80ebcfb434c812882b62c343b"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -868,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "545f5eb92ed15947a24072328309c35f715b740199713b8fcf675e0466c39e75"
+hash = "4ebc3f4283fdaa3e315c83e9ee06836daeeb771b60e4b7581be86986b1a1b61c"
 metafile = true
 
 [[files]]
@@ -878,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtmoremachine.pw.toml"
-hash = "edc945d2cd4b4868ce6c5041df42c44971e7f29cba7b57cdebd9e87fc31d6a48"
+hash = "cb5f0c540bb8401e85a9d2931601ec686b4c48d9e799d50b64ab706bd473ff9f"
 metafile = true
 
 [[files]]
@@ -1153,7 +1137,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "8cc0a27814cb6c1e9e53287ef631816518228806d6839ee3189e5d9f206b8acf"
+hash = "3afcc6ceef689d59cb21b3fbad0a9cb075950089c56ef0621c8524fa4d761b33"
 metafile = true
 
 [[files]]
@@ -1390,12 +1374,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
-
-[[files]]
-file = "resourcepacks/computercraft-greg-flavored.pw.toml"
-hash = "2d9aebd21f71d33cec50ca12735efcc18c0b6a4bcb3fd02b373891f96601b11d"
-metafile = true
-
-[[files]]
-file = "update.nu"
-hash = "cceb3b887b68327ecd21c73a208084ad52d75ae2f2ad987f7d22b52eee35a767"

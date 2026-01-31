@@ -1,15 +1,13 @@
-name = "qilby_core"
-filename = "qilby_core-1.20.1-2.6.0-slim.jar"
+name = "Qilby Core"
+filename = "qilby_core-1.20.1-2.6.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/acot-server/qilby_core/releases/download/v2.6.0/qilby_core-1.20.1-2.6.0-slim.jar"
-hash-format = "sha256"
-hash = "1f25ef424f82b8f0ba546b5c475e9cbed42c8cb8495b6c4b9053d5b9051b3c18"
+url = "https://cdn.modrinth.com/data/Ikni6TbU/versions/zTnnagUT/qilby_core-1.20.1-2.6.0.jar"
+hash-format = "sha512"
+hash = "4d6cfcd1804f8be3df4c5761445b3431d9e7897aae47038dae90cc277e92c6c0142893ccc738a4b8e16135fae2a87817e83242c4e6df94db171c726e70875fe0"
 
 [update]
-[update.github]
-branch = "main"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "acot-server/qilby_core"
-tag = "v2.6.0"
+[update.modrinth]
+mod-id = "Ikni6TbU"
+version = "zTnnagUT"

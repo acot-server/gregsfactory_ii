@@ -1,4 +1,2 @@
-# Ignore commit hooks
-/.githooks
-# ignore github stuff
-/.nojekyll
+.githooks
+update.nu

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.MD"
-hash = "24070dc29432ce91cc4c92e4947ddb4df736631bb046200ad5beb7ce58403a7f"
-
-[[files]]
 file = "LICENSE"
 hash = "66fa8d03211048573f251b3e10fcbfb38d5a7745e3569fadb9756c4afc180398"
 

@@ -5,6 +5,7 @@
 - Make beacon craftable in steam age.
 - Cosmetic Armor.
 - Missing mod (YUNG’s Better End Island).
+- Fix long standing bug with create wrench and vein miner interaction
 
 # β-4.2.0
 

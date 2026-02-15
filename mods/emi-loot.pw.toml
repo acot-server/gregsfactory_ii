@@ -1,13 +1,13 @@
 name = "EMI Loot"
-filename = "emi_loot-0.7.8+1.20.1-fix1+forge.jar"
+filename = "emi_loot-0.7.9+1.20.1+forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/jpsoDtJz/emi_loot-0.7.8%2B1.20.1-fix1%2Bforge.jar"
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/KKWmdLti/emi_loot-0.7.9%2B1.20.1%2Bforge.jar"
 hash-format = "sha512"
-hash = "57ea38755bcd4bfcdf30f34b8373946688d2832cf81f8583c4e376db21e5f11f81b7d72e721f662c5d6864f87ca415b5473553c33d857b5a9b8ae8d60627ee3c"
+hash = "906af51f2046522d07ed47e5c41a1e711502c75a186e616ce0bd1d4ae5bb5401111501b0c3f9a93c8106aeec5c5a73a3920fc6f1261219e24b7e29a901996735"
 
 [update]
 [update.modrinth]
 mod-id = "qbbO7Jns"
-version = "jpsoDtJz"
+version = "KKWmdLti"

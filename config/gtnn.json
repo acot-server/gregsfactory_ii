@@ -11,7 +11,7 @@
   "Server": {
     "enableHarderPlatinumLine": true,
     "enableHarderNaquadahLine": true,
-    "banCreateFanBlasting": true,
+    "banCreateFanBlasting": false,
     "makesEMIBetter": true,
     "isTurnOnEnderFluidCover": false,
     "isTurnOnEnderItemCover": false,

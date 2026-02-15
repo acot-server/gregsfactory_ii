@@ -1,0 +1,13 @@
+name = "Cosmetics Equipment"
+filename = "cosmetics-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vu2MhHQK/versions/ZUntjOqO/cosmetics-1.0.0.jar"
+hash-format = "sha512"
+hash = "bd006a9c46abc9140ce6926c8dd17983641738e9c0fc12af2098a1a4a3062c783adba2e0538c409eb19f984daa5ae202fe2692d233711f5cd35bcde241315935"
+
+[update]
+[update.modrinth]
+mod-id = "vu2MhHQK"
+version = "ZUntjOqO"

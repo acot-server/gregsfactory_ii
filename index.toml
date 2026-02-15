@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.MD"
+hash = "24070dc29432ce91cc4c92e4947ddb4df736631bb046200ad5beb7ce58403a7f"
+
+[[files]]
+file = "LICENSE"
+hash = "66fa8d03211048573f251b3e10fcbfb38d5a7745e3569fadb9756c4afc180398"
+
+[[files]]
 file = "config/ad_astra.jsonc"
 hash = "351ce0fb5c83f9854c2a8fc234aa7edf7dce392cc8d5ce235c10966cf570ad71"
 
@@ -345,10 +353,6 @@ file = "kubejs/server_scripts/GTCEU/Power_Devices/new_battery.js"
 hash = "007b1f52954baa5df5a85f46119a13d383afcd85b90531e0518bfc2d0938753f"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/recipes_modifier/boilier_burn_time.js"
-hash = "8f93ae46f3a274a887df87853acbe0e21a019bc4bb6adab00648f23e8e163a6c"
-
-[[files]]
 file = "kubejs/server_scripts/MBHelper.js.dis"
 hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
 
@@ -419,6 +423,10 @@ hash = "e201c28b5dc675b2803ca1d2859e06d7703801d308ad744d7630f050b73aec72"
 [[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/server_scripts/minecraft/un_gregify.js"
+hash = "18d9eecf79cfa15baaf15092c398f403f3dcf83c39710f4f90fa18b075ddfbe2"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass.js"
@@ -646,6 +654,11 @@ hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "5bdc976d64496e58cbc5e6b3f1afcccaa31f8dd4029c7cf47c3bb1fc15b1a84f"
 metafile = true
@@ -663,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+metafile = true
+
+[[files]]
+file = "mods/cosmetics-equipment.pw.toml"
+hash = "bf91f9eb83582a9f6cbd5e1406c2446f75ff3e1a01bbda851b56f147c28fa9b6"
 metafile = true
 
 [[files]]
@@ -1246,6 +1264,11 @@ hash = "03875711b2137496e8f94990ad2a8d2efeaa7eeafab4dece340287d4900d89f5"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "e56e60b6dabffd4b2332ed19c62e6455b7d78a9fb58c810d2185739575c9448a"
+metafile = true
+
+[[files]]
 file = "mods/stitch.pw.toml"
 hash = "58621f030d6291279635fcaf62bffdea007077aaf98513057a59fe97d0ddce6d"
 metafile = true
@@ -1338,6 +1361,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "3b896ddf7389ad7d403b354cd94966c65f4989c9675ec245681b5c78d5208317"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
 
 [[files]]

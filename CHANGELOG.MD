@@ -1,5 +1,7 @@
 # Next version
 
+# β-4.3.0
+
 - Added starter kit to provide a customised starting inventory.
 - Remove large boiler buffs since they were buffed in base GT.
 - Make beacon craftable in steam age.

@@ -81,6 +81,10 @@ file = "config/immediatelyfast.json"
 hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
 
 [[files]]
+file = "config/liteminer-common.toml"
+hash = "5b2888cb917aee0c6bf21644c6915f7de7d62d1a85b8649f53b00c54c8ecc8e1"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 

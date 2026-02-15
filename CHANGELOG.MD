@@ -1,4 +1,8 @@
 # Next version
+
+# β-4.3.2
+- Rollback copycats+ because it made servers fail to start
+
 # β-4.3.1
 - Update many mods
 - Replace TMRV with JEI due to recipe ID jank

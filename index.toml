@@ -1168,11 +1168,6 @@ hash = "3afcc6ceef689d59cb21b3fbad0a9cb075950089c56ef0621c8524fa4d761b33"
 metafile = true
 
 [[files]]
-file = "mods/questify.pw.toml"
-hash = "48324ef8e5bd87a2fa7a83ec9651a00ab4c8e301555ec893f393be7f41965525"
-metafile = true
-
-[[files]]
 file = "mods/radium.pw.toml"
 hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true

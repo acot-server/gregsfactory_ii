@@ -1,0 +1,13 @@
+name = "Create: Threaded Trains"
+filename = "createthreadedtrains-forge-1.20.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYJzdkDr/versions/hW557Ykw/createthreadedtrains-forge-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "4e44bf4dec2a02978fc6cbda23ad30009c631179eef75ea8591f544aa47d74778b843d5ed60ef65a44ff17a5f3340a404160a8aea2dff8c86a68053e0e03a01b"
+
+[update]
+[update.modrinth]
+mod-id = "RYJzdkDr"
+version = "hW557Ykw"

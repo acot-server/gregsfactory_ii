@@ -1,0 +1,13 @@
+name = "Hexal"
+filename = "hexal-forge-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/PmrRTYFS/hexal-forge-1.20.1-0.3.1.jar"
+hash-format = "sha512"
+hash = "231c9d6f0acc0ce5067dbb50ead4a2d87bbc2bafb1385c051d6a4e6061e7651da78df48c6c875a035bbc9c46c0da6482e3ece1de883176b1b3517c8bbe9455ee"
+
+[update]
+[update.modrinth]
+mod-id = "aBVJ6Q36"
+version = "PmrRTYFS"

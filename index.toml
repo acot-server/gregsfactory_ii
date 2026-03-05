@@ -82,7 +82,7 @@ hash = "5b2888cb917aee0c6bf21644c6915f7de7d62d1a85b8649f53b00c54c8ecc8e1"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "8232048199ddf3af1e158d258d26309c3da1126b8edf992299fc5979def77437"
+hash = "d9c32135788065ae69e48fb5a343843233ed3b8f5319bb99ffb3526a1b38c97d"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -568,11 +568,6 @@ hash = "1af0f2515f459bc59ac0f489ef94bf2d6e0453e57831d5711c64da695929bde9"
 metafile = true
 
 [[files]]
-file = "mods/attributes.pw.toml"
-hash = "6cf3028c6bbba1936405cd988a11626069676e678bc3caf440fe216bb0931f8c"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
@@ -663,11 +658,6 @@ hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "5bdc976d64496e58cbc5e6b3f1afcccaa31f8dd4029c7cf47c3bb1fc15b1a84f"
-metafile = true
-
-[[files]]
 file = "mods/configuration.pw.toml"
 hash = "1b8bbb8695ff437a8f8f9f8e16497368fdd68936c7bb6a632c57f5c99abe2c70"
 metafile = true
@@ -729,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "b13bad02617c5c0b39dede935d46bbf9755e66581087254372a12364b75df2b9"
+hash = "0e356f563d73ebdf7d8b8af0762ba3ea02dbd53f575d073d8a75f35dc91bf723"
 metafile = true
 
 [[files]]
@@ -918,6 +908,11 @@ hash = "22f7bd473bdc5add41d8afa0dc89dc442d77695a4675c3abf792c0981cc9ce9b"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "8cc5e3092795990c7c02710a453001833799c1ee90e7162231507c3589b87f8f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
 metafile = true
@@ -1098,13 +1093,13 @@ hash = "c6f0ce3cbe75d1fa738142b797549087b4e119a54223222117c962fb809c9e06"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+file = "mods/moreiotas.pw.toml"
+hash = "ca39f453b2c66a071f3175ad5f4050ad05501389e9d7f3953e4d888cab02be0d"
 metafile = true
 
 [[files]]
-file = "mods/mutil.pw.toml"
-hash = "d60f6a6d46b66a76a6e3d185177a20cba42b83ba37f34db0fbe3c9babab7c837"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
@@ -1150,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
+metafile = true
+
+[[files]]
+file = "mods/platforms.pw.toml"
+hash = "be1fdcb92e3a4b0c918fd920bdf80ee26431a5f1e62aa304cb29824bca2a1d1e"
 metafile = true
 
 [[files]]

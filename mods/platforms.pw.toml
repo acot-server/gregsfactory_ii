@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-forge-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIF7nCgD/versions/7zQL5ls4/platforms-forge-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "92d6d03eeb236f38e75cd40dcdf73b062807859ad543432a99bbaceb61efd63be0a96c9b6c95f341a01b93fd79f3351aea728ea06af5e8e9827b43ecf2af5f40"
+
+[update]
+[update.modrinth]
+mod-id = "xIF7nCgD"
+version = "7zQL5ls4"

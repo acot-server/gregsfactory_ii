@@ -441,6 +441,10 @@ file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
+file = "kubejs/server_scripts/jsg/remove_naq_smelting.js"
+hash = "08f080d00d5de84670cddb516b0a0f6e432aebe92400f0f47c00385e980a2fe6"
+
+[[files]]
 file = "kubejs/server_scripts/minecraft/un_gregify.js"
 hash = "18d9eecf79cfa15baaf15092c398f403f3dcf83c39710f4f90fa18b075ddfbe2"
 

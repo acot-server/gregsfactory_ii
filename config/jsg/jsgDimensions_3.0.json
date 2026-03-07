@@ -1,0 +1,174 @@
+{
+  "jsg:abydos": {
+    "name": "jsg:abydos",
+    "distance": 13,
+    "groups": [
+      "milkyway"
+    ],
+    "origins": {
+      "stargate/milkyway": {
+        "jsg:aged": "jsg:abydos",
+        "jsg:normal": "jsg:abydos"
+      }
+    },
+    "hasStargate": true,
+    "lightingBoltChance": 1.9999999494757503E-4,
+    "isBlackHoleDim": false
+  },
+  "ae2:spatial_storage": {
+    "name": "ae2:spatial_storage",
+    "distance": 6,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "minecraft:overworld": {
+    "name": "minecraft:overworld",
+    "distance": 0,
+    "groups": [
+      "milkyway"
+    ],
+    "origins": {
+      "stargate/milkyway": {
+        "jsg:frost": "jsg:antarctica",
+        "jsg:normal": "jsg:tauri"
+      }
+    },
+    "hasStargate": true,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:glacio_orbit": {
+    "name": "ad_astra:glacio_orbit",
+    "distance": 12,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:glacio": {
+    "name": "ad_astra:glacio",
+    "distance": 11,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:moon_orbit": {
+    "name": "ad_astra:moon_orbit",
+    "distance": 12,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:venus_orbit": {
+    "name": "ad_astra:venus_orbit",
+    "distance": 5,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:mars": {
+    "name": "ad_astra:mars",
+    "distance": 10,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "minecraft:the_nether": {
+    "name": "minecraft:the_nether",
+    "distance": 5,
+    "groups": [
+      "milkyway"
+    ],
+    "origins": {
+      "stargate/milkyway": {
+        "jsg:aged": "jsg:nether",
+        "jsg:sooty": "jsg:nether",
+        "jsg:normal": "jsg:nether"
+      }
+    },
+    "hasStargate": true,
+    "lightingBoltChance": 0.0,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:venus": {
+    "name": "ad_astra:venus",
+    "distance": 6,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "minecraft:the_end": {
+    "name": "minecraft:the_end",
+    "distance": 10,
+    "groups": [],
+    "origins": {
+      "stargate/milkyway": {
+        "jsg:normal": "jsg:p7j989"
+      }
+    },
+    "hasStargate": true,
+    "lightingBoltChance": 0.0,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:earth_orbit": {
+    "name": "ad_astra:earth_orbit",
+    "distance": 9,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:mars_orbit": {
+    "name": "ad_astra:mars_orbit",
+    "distance": 8,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:mercury_orbit": {
+    "name": "ad_astra:mercury_orbit",
+    "distance": 14,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:moon": {
+    "name": "ad_astra:moon",
+    "distance": 3,
+    "groups": [
+      "milkyway"
+    ],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 0.0,
+    "isBlackHoleDim": false
+  },
+  "ad_astra:mercury": {
+    "name": "ad_astra:mercury",
+    "distance": 7,
+    "groups": [],
+    "origins": {},
+    "hasStargate": false,
+    "lightingBoltChance": 5.000000237487257E-4,
+    "isBlackHoleDim": false
+  }
+}

@@ -1,0 +1,18 @@
+#Rings range radius in same dimension
+#SIDE: SERVER
+#Range: > 5
+"Rings Horizontal Radius" = 1024
+#Rings range between dimensions.
+#To setup space between dimensions, use the JSG dimensional config
+#SIDE: SERVER
+#Range: 0 ~ 64
+"Rings Dimension Range" = 20
+#When to affect fluids when transporting them
+#SIDE: SERVER
+#"Always" always converts source blocks to flowing blocks when transporting them
+#"Never" never converts
+#"ByTag" only converts fluids contained within the jsg_transporters:transporter_fluids tag
+#"ExcludeTag" (Default) converts all fluids except those within the tag
+#Allowed Values: Always, Never, ByTag, ExcludeTag
+"Rings fluid treatment mode" = "ExcludeTag"
+

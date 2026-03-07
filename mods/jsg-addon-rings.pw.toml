@@ -1,0 +1,13 @@
+name = "JSG: Rings and Transporters"
+filename = "jsg-transporters-1.20.1-1.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E2uLAGGv/versions/Ezf4ejDw/jsg-transporters-1.20.1-1.0.0.1.jar"
+hash-format = "sha512"
+hash = "da33d716c9650ef519d015df8e73ec302fd4bc65ed9c8e90b9d15f4ee484a5c5bf225cb0884b32463c7c401bc6f6b1022fd34595fb9e9da540ba438f7760953e"
+
+[update]
+[update.modrinth]
+mod-id = "E2uLAGGv"
+version = "Ezf4ejDw"

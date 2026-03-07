@@ -77,6 +77,18 @@ file = "config/immediatelyfast.json"
 hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
 
 [[files]]
+file = "config/jsg/jsgConfig_2.0/Stargate.toml"
+hash = "805fee3283ba0e85707848f787e89fd222c62a773c5cf88eed66bd656be2c944"
+
+[[files]]
+file = "config/jsg/jsgDimensions_3.0.json"
+hash = "036a70cc25160d4b1de40b1e0c356984885022e485ca7184db64e8893c9327b7"
+
+[[files]]
+file = "config/jsg/transporters/General.toml"
+hash = "823229d4112b6d6f7360872963007edfc432dd34fc2a4285633b2e6d414e77ef"
+
+[[files]]
 file = "config/liteminer-common.toml"
 hash = "5b2888cb917aee0c6bf21644c6915f7de7d62d1a85b8649f53b00c54c8ecc8e1"
 
@@ -633,6 +645,11 @@ hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
@@ -950,6 +967,16 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
+metafile = true
+
+[[files]]
+file = "mods/jsg-addon-rings.pw.toml"
+hash = "3023a3fcb1816b9ebd5669735b153d28fa2b3785f95972b6de45ef3d48381bca"
+metafile = true
+
+[[files]]
+file = "mods/jsg.pw.toml"
+hash = "d4d8062cc309e73dbad6eda4bfd2c1df6ab38e91bae773e74b922a58ceca3233"
 metafile = true
 
 [[files]]

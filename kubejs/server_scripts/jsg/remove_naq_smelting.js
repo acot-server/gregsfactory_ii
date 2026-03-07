@@ -13,10 +13,10 @@ ServerEvents.recipes(event => {
             'ore/trinium_ore_raw', 'dust/trinium_dust',
             'blocks/sand_trinium_ore', 'blocks/netherrack_trinium_ore',
             'blocks/deepslate_trinium_ore', 'blocks/endstone_trinium_ore',
-            'blocks/trinium_ore',
-
+            'blocks/trinium_ore'
         ]) {
             event.remove({id: `jsg:general/item/ingots/${machine}/${recipe}_to_ingot`});
+        }
     }
-        event.remove({id: 'jsg:general/tools/jsg_hammer'});
+    event.remove({id: 'jsg:general/tools/jsg_hammer'});
 });

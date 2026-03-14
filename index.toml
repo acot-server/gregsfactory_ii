@@ -145,6 +145,30 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_lv_circuit_assembly.png"
 hash = "2d3e5d98ce3a1f77dd59dd50ae8ee68f477b5bcd089bf73e5b4c5957ad5e50f8"
 
 [[files]]
+file = "kubejs/assets/qilby_industries/guideme_guides/manual.json"
+hash = "2129fd2a7aa1cf1f9f2f0cbe1fe1186d9281f19b7bf7eccbbf3d14c0dffef4e6"
+
+[[files]]
+file = "kubejs/assets/qilby_industries/guides/qilby_industries/manual/en/index.md"
+hash = "ca00fbff9dde7ae3ec200f38f341e06bebd0f5c248b5b293fd80532ca5a5230b"
+
+[[files]]
+file = "kubejs/assets/qilby_industries/guides/qilby_industries/manual/en/using-opac.md"
+hash = "78752d6db79b7a865cad93209fe3c5ef8a114db33962253a027ab6c665866634"
+
+[[files]]
+file = "kubejs/assets/qilby_industries/guides/qilby_industries/manual/fr/index.md"
+hash = "9268832d1d1cd82cb3ec71bc6d0e066d9aba62ec2a0408882ab5fbf85271247e"
+
+[[files]]
+file = "kubejs/assets/qilby_industries/guides/qilby_industries/manual/fr/utiliser-opac.md"
+hash = "c48382c26c1740313ec9181d5dce3a340dd7cce660d20c3288deb622e41ad56b"
+
+[[files]]
+file = "kubejs/assets/qilby_industries/guides/qilby_industries/manual/index.md"
+hash = "1ff611b53d1b7e90a20ffd87a295fcb7f2ef5cb0b334911cbc8633ec84f2feb2"
+
+[[files]]
 file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
@@ -1090,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+hash = "268c1cbc81a3361f6ac64bcad1929e11bfbf6304ba98620889f912a646f69069"
 metafile = true
 
 [[files]]
@@ -1395,7 +1419,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+hash = "d9e05e164bb61c2bcecc58702c46e59c2721928a3b355050d1e84736d74fe6fc"
 metafile = true
 
 [[files]]

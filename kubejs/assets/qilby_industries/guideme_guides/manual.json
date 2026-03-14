@@ -1,0 +1,9 @@
+{
+    "item_settings": {
+        "display_name": {
+            "type": "Text",
+            "text": "Modpack Manual"
+        },
+        "model": "gtceu:item/terminal"
+    }
+}

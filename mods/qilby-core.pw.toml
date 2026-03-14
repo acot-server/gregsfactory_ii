@@ -1,13 +1,13 @@
 name = "Qilby Core"
-filename = "qilby_core-1.20.1-2.6.0.jar"
+filename = "qilby_core-1.20.1-2.6.1-slim.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ikni6TbU/versions/zTnnagUT/qilby_core-1.20.1-2.6.0.jar"
+url = "https://cdn.modrinth.com/data/Ikni6TbU/versions/6VMCrMOl/qilby_core-1.20.1-2.6.1-slim.jar"
 hash-format = "sha512"
-hash = "4d6cfcd1804f8be3df4c5761445b3431d9e7897aae47038dae90cc277e92c6c0142893ccc738a4b8e16135fae2a87817e83242c4e6df94db171c726e70875fe0"
+hash = "6273feedd317fdec8bb3de211b4801f97fbd97e18844bca7689efcb1e52d90b163ec95fed5e8946c5ea89e2915a1ac4e82e035b6510adf99ff052351d95d4680"
 
 [update]
 [update.modrinth]
 mod-id = "Ikni6TbU"
-version = "zTnnagUT"
+version = "6VMCrMOl"

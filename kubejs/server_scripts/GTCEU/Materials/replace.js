@@ -21,7 +21,7 @@ ServerEvents.recipes((event) => {
         iron: "manasteel",
         steel: "manasteel",
         aluminium: "terrasteel",
-        stainless_steel: "desh"
+        stainless_steel: "elementium"
         // Add more replacements as needed
     };
 

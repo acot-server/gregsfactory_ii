@@ -4,11 +4,11 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'gtceu:long_magnetic_samarium_rod',
             '2x qilby_core:long_dark_matter_rod',
-            '4x gtceu:desh_ring',
+            '4x gtceu:lv_electric_motor',
             '8x qilby_core:wakfu_round',
             '64x gtceu:fine_naquadria_wire',
             '64x gtceu:fine_naquadria_wire',
-            'gtceu:europium_single_cable'
+            'gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -25,11 +25,11 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.assembly_line('uhv_electic_pump')
         .itemInputs(
             'gtceu:uhv_electric_motor',
-            'gtceu:desh_rotor',
+            '2x gtceu:lv_electric_pump',
             '16x gtceu:styrene_butadiene_rubber_ring',
             '4x qilby_core:stasis_screw',
             '2x gtceu:naquadah_large_fluid_pipe',
-            'gtceu:europium_single_cable'
+            'gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -49,10 +49,10 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'gtceu:uhv_electric_motor',
             '2x gtceu:styrene_butadiene_rubber_plate',
-            '4x gtceu:small_desh_gear',
+            '4x gtceu:lv_conveyor_module',
             '16x gtceu:tritanium_round',
             '4x gtceu:ruridit_screw',
-            'gtceu:europium_single_cable'
+            'gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -71,13 +71,12 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.assembly_line('uhv_electric_piston')
         .itemInputs(
             'gtceu:uhv_electric_motor',
-            '4x #forge:plates/desh',
-            '4x gtceu:desh_ring',
+            '4x gtceu:lv_electric_piston',
             '16x qilby_core:dark_matter_rod',
             '6x gtceu:tritanium_rod',
             'gtceu:trinium_gear',
             '2x qilby_core:small_stasis_gear',
-            'gtceu:europium_single_cable'
+            'gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -103,7 +102,7 @@ ServerEvents.recipes(event => {
             '#gtceu:circuits/uhv',
             '2x #gtceu:circuits/uv',
             '4x #gtceu:circuits/zpm',
-            '2x gtceu:europium_single_cable'
+            '2x gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -127,7 +126,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
             '32x qilby_core:stasis_foil',
-            '4x gtceu:europium_single_cable'
+            '4x gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -151,7 +150,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
             '32x qilby_core:stasis_foil',
-            '2x gtceu:europium_single_cable'
+            '2x gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -175,7 +174,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uhv',
             '64x qilby_core:fine_stasis_wire',
             '32x qilby_core:stasis_foil',
-            '2x gtceu:europium_single_cable'
+            '2x gtceu:ruthenium_trinium_americium_neutronate_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),

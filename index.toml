@@ -78,11 +78,11 @@ hash = "1691a83edfba5b8b9adce05f61b91d2b38d3a6c16c104bf32020decdae243340"
 
 [[files]]
 file = "config/jsg/jsgConfig_2.0/Stargate.toml"
-hash = "805fee3283ba0e85707848f787e89fd222c62a773c5cf88eed66bd656be2c944"
+hash = "c92f1e85a3618cbd7094d1b875d2ab3820eb0217aa777fbbd04fee996c9e8a3e"
 
 [[files]]
 file = "config/jsg/jsgDimensions_3.0.json"
-hash = "036a70cc25160d4b1de40b1e0c356984885022e485ca7184db64e8893c9327b7"
+hash = "70088125a6dfc2cbb96c718f1600b5330aeed8366ef9234aa20a541b1741ba4b"
 
 [[files]]
 file = "config/jsg/transporters/General.toml"
@@ -181,26 +181,6 @@ file = "kubejs/config/common.properties"
 hash = "104043e157136e576b008d2145e082f560f02f75cab14e923eb5d2c05ec3a069"
 
 [[files]]
-file = "kubejs/data/qilby/loot_tables/rewards/lv.json"
-hash = "4743e9784b6ee0bb02d75a61da2c24a0c18af388fce97c5cbb42ddbc6c8064be"
-
-[[files]]
-file = "kubejs/data/qilby/loot_tables/rewards/mechanical.json"
-hash = "d4e2ab733cb2e729a2080b1f2b3f7ebd1df352692d3234a43e1a9de2ad422cd1"
-
-[[files]]
-file = "kubejs/data/qilby/loot_tables/rewards/mv.json"
-hash = "47a9aebcd0c605a2ee66ae0a501002790f643180ae1a10cffe59170baa908fc4"
-
-[[files]]
-file = "kubejs/data/qilby/loot_tables/rewards/special.json"
-hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
-
-[[files]]
-file = "kubejs/data/qilby/loot_tables/rewards/steam.json"
-hash = "af8bffced09111bc6ae043e9012a14f05591c815b95e1a588e391c76972ed4e0"
-
-[[files]]
 file = "kubejs/data/qilby/railways_liquid_fuel/biodiesel.json"
 hash = "69416fb03cfeb89870eb407f983305e15cafffa06f8afcbd3812313d2bdade74"
 
@@ -258,23 +238,23 @@ hash = "4bc5e9f8ab57981803a822e1838c62b5dc7751a13adacae7c03f87267f40556c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uev.js"
-hash = "55a3a3341e142b5fd4c3fe77cb43dcba70c5aa9dcb15467377db698b27e9f6a6"
+hash = "c9ab69999da441930398e53de5a0db61042ec58fd243fe52eb9063ca85bc13b0"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uhv.js"
-hash = "f658362c03bad2b6a6cecccd9d2d3b3f2e48a40362f6490ffe7c5cff4f3dd16e"
+hash = "6dc0bdb363f976d0f9044f9025ce2650576c1ad14600349cc25893f7d9f5c341"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uiv.js"
-hash = "c16975cf140878c16634197baedb86d4aae6d070792edc45eef56d1e1e67f543"
+hash = "19bde125983cfbe4d65bdfbdbff810ef766622cfba3386622a524f211aa9ba3b"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/gt_parts_uxv.js"
-hash = "a14054f78ed685f523e9d89d16cdaa77e846218ec03bb10780dda5da0bb8ea57"
+hash = "ef2cf79f14c7575000aab3a4396c0affc7b3208a0b6a3d8f14678eb59769d91c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Components/low_tier.js"
-hash = "9e353f24a776dc0c61ffa650b8117be03353a7bfe7a0f90bf0bcece4ac0441d4"
+hash = "b9aa88a9880f3844305e341e079a6bfbc7823e5e08a28b0bafb2be2e69569ebf"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Computer/Data_Transmission.js"
@@ -293,12 +273,8 @@ file = "kubejs/server_scripts/GTCEU/Computer/hpca_new_cpu.js"
 hash = "fc116a39c108c5ad054570afb6cd3e2232a8c0e5766ab882c6ce6d5c250c743a"
 
 [[files]]
-file = "kubejs/server_scripts/GTCEU/Computer/mob_farm.js"
-hash = "3a77af8707dc0422dc2ff72d74cfb3452e79c8109701f7fb98dec8f6ae9b5207"
-
-[[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/chrono_line.js"
-hash = "072b0d48df9d40ebe2d4fff2c6423f46f438915581dc06ced8d9ccb8bb2f4cea"
+hash = "cfb97cf029c776e1ed1f313bad87760c6ba43801c6c424a217f3fde522c3086c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Electronics/cosmic_line.js"
@@ -362,11 +338,11 @@ hash = "2608c589cd6c100864be8163175812322636731a6f5f287d0a1241f883e3d196"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/hv.js"
-hash = "e17ebfcca79f2de57ed312e001fed75a78d69ae199af63ad442f5f77399367b8"
+hash = "0136144dbf5bd3b0209bb9d8952770f6c9c608965b7f1e9453902044e6ec7d3a"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/mv.js"
-hash = "3efed870ae24bdb2f83f23e9b47f2d40f3db653385e6d70330f16712eb08ae43"
+hash = "e9b2864a7561e7aae3998b9375095c5530749e162bea49d71cc6209087169c7c"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/polymer.js"
@@ -374,11 +350,11 @@ hash = "ce7de701b0aba1e4e313605faa43cf4fe976ddd55280b31e16c62e3cc37ca435"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Materials/replace.js"
-hash = "bf8b2f600491f46d1e8c5b564b0596f3783b538ba9e8566d66adf4a11c30772e"
+hash = "afb9b3493fab265c97a48b35b8b4a2cc99c418187d461bcb888346f6fa365544"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
-hash = "511c3cd2d6255aabf82cacfaf9b5333e1bc681c7b19e1c3ee4ca5854bc2c3a1c"
+hash = "a3f1f3ed353d05f20754da7db2ec7af7619663397b5cb12dcfbdb5a7459455c8"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/raw_redstone.js"
@@ -395,26 +371,6 @@ hash = "007b1f52954baa5df5a85f46119a13d383afcd85b90531e0518bfc2d0938753f"
 [[files]]
 file = "kubejs/server_scripts/MBHelper.js.dis"
 hash = "cc2d401a61737efd25aa8750ea0f88dfb3ba46b849acb33f56e4be74ffa49c6d"
-
-[[files]]
-file = "kubejs/server_scripts/ad_astra/chips.js"
-hash = "c8b196889a20c65200174877ec463fc016bba150f9be9407e5841ecdcf509746"
-
-[[files]]
-file = "kubejs/server_scripts/ad_astra/heavy_alloy.js"
-hash = "fc311add916dac2f0a8e7700cf1074a9df14bd92ce7a2b24617bb7472f5e3b74"
-
-[[files]]
-file = "kubejs/server_scripts/ad_astra/parts.js"
-hash = "3b954f97d8ec1e08c47ad92fed0cee2be7cef350e8ef05e382443c27a3752430"
-
-[[files]]
-file = "kubejs/server_scripts/ad_astra/removals.js"
-hash = "4260ca1fce8c62d5ead40ff3670dff1d00d6e10cf4ccdd469a0124c305473952"
-
-[[files]]
-file = "kubejs/server_scripts/ad_astra/rocket.js"
-hash = "f4f6716e1339932ce9a38537d36ba46084f7ce831a0674ed3135e1b9f1b98c49"
 
 [[files]]
 file = "kubejs/server_scripts/appliedenergistics2/ae2_components.js"
@@ -439,10 +395,6 @@ hash = "87957050e4ece0d40a0fd1e84c15272977f108b9177e1f3b214ce8259881c53b"
 [[files]]
 file = "kubejs/server_scripts/create/lv_circuit_assembly.js"
 hash = "8c9bf7452aaa56f433f8363a6d74b3f0ebb24dc47772aecc4667b6b572891abb"
-
-[[files]]
-file = "kubejs/server_scripts/create/mechanical_crafting.js"
-hash = "1380959142917b246ada7b430992b8cf20bac320e98d766f507b1d0e234ad067"
 
 [[files]]
 file = "kubejs/server_scripts/create/millstone.js"
@@ -538,7 +490,7 @@ hash = "3ab83f9b67936e48986e1ec53aec8eb47d000761cfd0712cb23955f6187c3137"
 
 [[files]]
 file = "kubejs/startup_scripts/OreCleanup.js"
-hash = "ee8b955428bffb726deae91fd65ca003d4fe48114d0874da85bc9b6a129a039d"
+hash = "6d7305ba7beb1769bc5656c36192506dbcce9be895c36e001039d48e71c9ab38"
 
 [[files]]
 file = "kubejs/startup_scripts/create/sequenced_assembly_transisional.js"
@@ -550,12 +502,7 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "kubejs/startup_scripts/init.js"
-hash = "62a4ffdbd323cdd217416159cea42e2c91445b601f73c85e0025dc43972cf08c"
-
-[[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
-metafile = true
+hash = "8ba535e51ec4e1adbfdc11553d4c398e544533be5e24a4c4febaef4d35f03916"
 
 [[files]]
 file = "mods/additional-redstone.pw.toml"
@@ -645,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
-metafile = true
-
-[[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "b6d8fef872aac09946c194edf3684b64af1a70e150f3703e380676e4f938c982"
 metafile = true
 
 [[files]]
@@ -790,16 +732,6 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
-metafile = true
-
-[[files]]
-file = "mods/deafission.pw.toml"
-hash = "e7af3ba0694327147b3a03f36fda3494f0c01d51f9a76abdbbd983d991d33aa6"
-metafile = true
-
-[[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true
 
 [[files]]
@@ -1214,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/qilby-core.pw.toml"
-hash = "ee958715a17960bba219c022675ae9c73c7f124a3beea2d8557c1f5c70f4996d"
+hash = "586455e6a6c5f0660f00b1f23eb7c5b6b029761a03b6d85a1dff64967be4e737"
 metafile = true
 
 [[files]]

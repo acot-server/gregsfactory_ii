@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
     ).id('gtceu:shaped/deep_core_miner');
     
     event.recipes.gtceu.deep_core_miner('mining_map_1')
-        .notConsumable('ad_astra:earth_globe')
+        .dimension('minecraft:overworld')
         .inputFluids(
             Fluid.of('gtceu:drilling_fluid', 128000)
         )

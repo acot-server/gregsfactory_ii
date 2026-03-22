@@ -4,11 +4,11 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'gtceu:long_magnetic_samarium_rod',
             '2x qilby_core:long_dark_energy_rod',
-            '4x gtceu:ostrum_ring',
+            '4x gtceu:hv_electric_motor',
             '8x qilby_core:stasis_round',
             '64x gtceu:fine_naquadria_wire',
             '64x gtceu:fine_naquadria_wire',
-            'qilby_core:dark_energy_single_cable'
+            'qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -25,11 +25,11 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.assembly_line('uiv_electic_pump')
         .itemInputs(
             'gtceu:uiv_electric_motor',
-            'gtceu:ostrum_rotor',
+            '2x gtceu:hv_electric_pump',
             '16x gtceu:styrene_butadiene_rubber_ring',
             '4x qilby_core:stasis_screw',
             '2x gtceu:naquadah_large_fluid_pipe',
-            'qilby_core:dark_energy_single_cable'
+            'qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -49,10 +49,10 @@ ServerEvents.recipes(event => {
         .itemInputs(
             'gtceu:uiv_electric_motor',
             '2x gtceu:styrene_butadiene_rubber_plate',
-            '4x gtceu:small_ostrum_gear',
+            '4x gtceu:hv_conveyor_module',
             '16x gtceu:tritanium_round',
             '4x gtceu:ruridit_screw',
-            'qilby_core:dark_energy_single_cable'
+            'qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -71,13 +71,12 @@ ServerEvents.recipes(event => {
     event.recipes.gtceu.assembly_line('uiv_electric_piston')
         .itemInputs(
             'gtceu:uiv_electric_motor',
-            '4x #forge:plates/ostrum',
-            '4x gtceu:ostrum_ring',
+            '4x gtceu:hv_electric_piston',
             '16x qilby_core:dark_energy_rod',
             '6x gtceu:tritanium_rod',
             'qilby_core:dark_matter_gear',
             '2x qilby_core:small_stasis_gear',
-            'qilby_core:dark_energy_single_cable'
+            'qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -103,7 +102,7 @@ ServerEvents.recipes(event => {
             '#gtceu:circuits/uiv',
             '2x #gtceu:circuits/uev',
             '4x #gtceu:circuits/uhv',
-            '2x qilby_core:dark_energy_single_cable'
+            '2x qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -127,7 +126,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
             '32x qilby_core:dark_energy_foil',
-            '4x qilby_core:dark_energy_single_cable'
+            '4x qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -151,7 +150,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
             '32x qilby_core:dark_energy_foil',
-            '2x qilby_core:dark_energy_single_cable'
+            '2x qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),
@@ -175,7 +174,7 @@ ServerEvents.recipes(event => {
             '2x #gtceu:circuits/uiv',
             '64x qilby_core:fine_dark_energy_wire',
             '32x qilby_core:dark_energy_foil',
-            '2x qilby_core:dark_energy_single_cable'
+            '2x qilby_core:uiv_superconductor_single_wire'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 3000),

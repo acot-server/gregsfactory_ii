@@ -74,7 +74,7 @@
 	"Orlin's gate energy multiplier" = 2.0
 	#SIDE: SERVER/CLIENT
 	#Range: > 4608
-	"Stargate's internal buffer size" = 71280000
+	"Stargate's internal buffer size" = 512000000
 	#SIDE: SERVER
 	#Range: 1 ~ 500000
 	"Stargate's max power throughput" = 26360

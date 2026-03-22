@@ -37,7 +37,6 @@ ServerEvents.recipes(event => {
             '32x gtceu:raw_saltpeter_block',
             '16x gtceu:raw_grossular_block',
             '16x gtceu:raw_ilmenite_block',
-            '16x gtceu:raw_rutile_block',
             '16x gtceu:raw_bauxite_block',
             '32x gtceu:raw_rock_salt_block',
             '16x gtceu:raw_pyrope_block',

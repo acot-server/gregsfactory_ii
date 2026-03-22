@@ -354,7 +354,7 @@ hash = "afb9b3493fab265c97a48b35b8b4a2cc99c418187d461bcb888346f6fa365544"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/deep_core_miner.js"
-hash = "a3f1f3ed353d05f20754da7db2ec7af7619663397b5cb12dcfbdb5a7459455c8"
+hash = "1d0a861b46f8a2e4b2fecf452a5bb3c7e43db376c41fc9d8902c972e62b1e0a9"
 
 [[files]]
 file = "kubejs/server_scripts/GTCEU/Mining/raw_redstone.js"

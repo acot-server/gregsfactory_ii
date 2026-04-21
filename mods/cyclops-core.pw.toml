@@ -1,13 +1,13 @@
 name = "Cyclops Core"
-filename = "CyclopsCore-1.20.1-1.21.3.jar"
+filename = "CyclopsCore-1.20.1-1.22.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/bZO776yV/CyclopsCore-1.20.1-1.21.3.jar"
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/NVKVMykh/CyclopsCore-1.20.1-1.22.0.jar"
 hash-format = "sha512"
-hash = "3a12ee8a5d8394a88c6517e0c6eb054b0b1e6be8b11ade521ecbd1b611fc292f1ebbc9423bc85445c482b16561b5a1d72b3c50a2276bac8738aa4fc886c33952"
+hash = "2d3dc530ef589dc80f5fbf1ac7a9ee42e92c7d7108efacaa8e92750e415b58dc187b80cb790b52c7ba2c15bf5ae3e9dc58e0a0dfa03c76b1c071a567fc8bac38"
 
 [update]
 [update.modrinth]
 mod-id = "Z9DM0LJ4"
-version = "bZO776yV"
+version = "NVKVMykh"

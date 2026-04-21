@@ -5,11 +5,11 @@ ls mods | where { |it| $it.name | str ends-with ".pw.toml" } | each { |mod|
       let versions = http get $'https://api.modrinth.com/v2/project/($mod_data.update.modrinth.mod-id)/version' |
         where { |it| $it.game_versions | any { |v| $v == "1.20.1" } } |
         where { |it| $it.loaders | any { |v| $v == "forge" or $v == "neoforge" } }
-      let options = ($versions | each { |it| $"($it.id) ($it.version_number)" } | str join "\n")
-      print $options
-      let version = ($options | lines | input --reedline)
-      if $version != "" {
-        packwiz mr add $"https://modrinth.com/mod/($mod_data.update.modrinth.mod-id)/version/($version)"
+      let version = (($versions | each { |it| $"($it.id) ($it.version_number)" }  | append "||| DO NOT UPDATE" | str join "\n" | fzf --prompt $"($mod_data.name) @ ($mod_data.update.modrinth.version) >") | split words | get 0)
+      print $"($version)\n"
+      if $version != "|||" {
+        print $"updating $($mod_data.name) to ($version)\n"
+        # packwiz mr add $"https://modrinth.com/mod/($mod_data.update.modrinth.mod-id)/version/($version)"
       }
   } else if ($mod_data.update | get -o curseforge) != null { 
       print $"($mod_data.name) on cf"

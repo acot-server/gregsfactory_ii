@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedbook.pw.toml"
-hash = "782fb582b93da4a0925bb2ee08ac52a9400e599b065265d0abae6486b67ccd2b"
+hash = "3f32bcc9a26f0f1d8f5268ce93b3c1b8833e286fe86cb992a09bd2e264a7add4"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
-hash = "72390c72a1091cd347aad048d125b47efff3d1ed90f7bc6126cb2e3f85437f53"
+hash = "78d8b90244a573bddfd7832a7d2c3136e464479ae7165b25b462d021054032b6"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "450686274e074a0caa8adb5ae1a740abb37126cbe02df4a7aa29b54532c0aa79"
+hash = "95594ca0d16f96341b95c5c7ddf65b84f879a27985f1bf4b63ade8bbaddaf8a2"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
+hash = "57ee8e3510c8cd831f8029099b56430afc2767334fb0ca76c53b1df0539129dc"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-multipart.pw.toml"
-hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+hash = "367e5f74d3d249e01e899f9d6b9892a285d3c6ddf18d6876982b5a9694816983"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
+hash = "e6904aff2afd2d2776bd3d21fefba44ebcdce1f8d3bd19819ba39411db419c3f"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/crazy-ae2-addons.pw.toml"
-hash = "52635414bed58fa1ea81b21e5604ef8c30ad4f1360db033f91ef926259b04593"
+hash = "bfa1ed2fac3ee9c6628f4e5b7aa5240223eb86cd0e02c3cc14c1d681342a9236"
 metafile = true
 
 [[files]]
@@ -696,22 +696,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "bb78ac49bbcbe7c045ac214a2ebe86f60d56d8e21266a39b835ca60f7f144ed8"
+hash = "99d5eb22099dc1cb4255f2f5886189492c648e938334b17ce47274701fce39c9"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "0a83106a7aca1d1a36a5ebc45bd69bb11a03eed73c1eeda5f2ee5c5697ce9b78"
+hash = "11b63148016d37d853c9cc4de936a8fbd90d4d8ca1c27b6af18c213346fab9e2"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "0e356f563d73ebdf7d8b8af0762ba3ea02dbd53f575d073d8a75f35dc91bf723"
+hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
 
 [[files]]
 file = "mods/create-transmission!.pw.toml"
-hash = "abfda118ed2f86347d55b3df019e8aa491beb9da6ad6b1292d20da0de72cfe3c"
+hash = "88734d2cc197a34e49027bd32f8b5e2315ae51151723dba51cb72f74f4fb55a9"
 metafile = true
 
 [[files]]
@@ -726,12 +726,17 @@ metafile = true
 
 [[files]]
 file = "mods/curvy-pipes.pw.toml"
-hash = "ba34705fa294d34fd74e7c97796f825e9afe3440dcf4d33d7a0ae6b04a99d206"
+hash = "393c6d9b39dfeb826ae3b7b75d01a85d6dbd9b3a82a3fbd282dc5e6febc32891"
 metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
+hash = "a2c3bdad810ec107d73e41ddcca197fd104401ace0d0089c7116d2a84578f3ee"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "e2b921d1a706a7321198966e20dbd4eab47f409f8ab3d80a57a57513e94da1c4"
 metafile = true
 
 [[files]]
@@ -937,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/jsg.pw.toml"
 hash = "d4d8062cc309e73dbad6eda4bfd2c1df6ab38e91bae773e74b922a58ceca3233"
+metafile = true
+
+[[files]]
+file = "mods/just-a-lot-more-enchantments.pw.toml"
+hash = "f618fa4e2a287d8dc408ce4f54999c09dadab9eda384b396fa79f63230af1318"
 metafile = true
 
 [[files]]

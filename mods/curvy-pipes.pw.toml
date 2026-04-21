@@ -1,13 +1,13 @@
 name = "Curvy Pipes"
-filename = "curvy_pipes-1.20.1-1.13.5.jar"
+filename = "curvy_pipes-1.20.1-1.15.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ns4fCzXQ/versions/icvPGuzk/curvy_pipes-1.20.1-1.13.5.jar"
+url = "https://cdn.modrinth.com/data/Ns4fCzXQ/versions/qRHdf1km/curvy_pipes-1.20.1-1.15.0.jar"
 hash-format = "sha512"
-hash = "489cc28d0b0aeb0d1f3a77797eb7151ed56cf1be8c6d4612b05a33ea638cbedc8bdf6baa914d6bc32d2a5665d54063ba6e440b1023ff889c92fb1a9e09174f48"
+hash = "cb1b4922e1ce5bde8d71ddf1b79d7366db7beadf199915826cdbdc90ab21efb7a26eed985e375ca0b2da3a5225ad5d551a6cbefed9112e8c6015c448c5d695a5"
 
 [update]
 [update.modrinth]
 mod-id = "Ns4fCzXQ"
-version = "icvPGuzk"
+version = "qRHdf1km"

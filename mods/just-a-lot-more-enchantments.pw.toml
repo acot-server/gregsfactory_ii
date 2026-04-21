@@ -1,0 +1,13 @@
+name = "Just a lot more enchantments"
+filename = "jlme-1.20.1forge-ver1.6d-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ksu3Wms7/versions/GXythJZl/jlme-1.20.1forge-ver1.6d-all.jar"
+hash-format = "sha512"
+hash = "8158bcd9b0869a4f62a9d4ed60296d425c56b8e5be6b5b09af0bda57bfef9e6c182f2e815f54e07b9d71fbf76f3c256b140e907c328988d6c9fcf177bceb29ba"
+
+[update]
+[update.modrinth]
+mod-id = "ksu3Wms7"
+version = "GXythJZl"

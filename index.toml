@@ -1150,6 +1150,11 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/progressive-mechanics-library.pw.toml"
+hash = "cc335326cb0e54a861f907f55fff13c6131a6f8b285f6c227eddb20276471d07"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true

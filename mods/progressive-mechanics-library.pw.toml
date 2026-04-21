@@ -1,0 +1,13 @@
+name = "Progressive Mechanics Library"
+filename = "pml-1.0.4b-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bFe2rvv4/versions/fqTZMYsu/pml-1.0.4b-all.jar"
+hash-format = "sha512"
+hash = "2f44fb3741fbc01fd1e597b9d690cf03db1e40ce5ef79c809da209b2a5547527953932a1f044f9ff834cd971b240525cd32d06b10bc0cd91f9f0e855611a56ec"
+
+[update]
+[update.modrinth]
+mod-id = "bFe2rvv4"
+version = "fqTZMYsu"

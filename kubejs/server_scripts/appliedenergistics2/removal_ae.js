@@ -1,11 +1,4 @@
 ServerEvents.recipes(event => {
-    event.remove({ id: 'xycraft_machines:compat/create/printed_calculation'});
-    event.remove({ id: 'xycraft_machines:compat/create/printed_engineering'});
-    event.remove({ id: 'xycraft_machines:compat/create/printed_logic'});
-    event.remove({ id: 'xycraft_machines:compat/create/printed_silicon'});
-    event.remove({ id: 'xycraft_machines:compat/create/calculation_processor'});
-    event.remove({ id: 'xycraft_machines:compat/create/engineering_processor'});
-    event.remove({ id: 'xycraft_machines:compat/create/logic_processor'});
     event.remove({ id: 'ae2:network/blocks/controller'});
     event.remove({ id: 'ae2:network/cables/glass_fluix'});
     event.remove({ id: 'ae2:network/cables/covered_fluix'});

@@ -382,7 +382,7 @@ hash = "7648b4bdb5398b60c8f26a7e30a3ae346fb916a0c9429e8cbad9db95276b2ce7"
 
 [[files]]
 file = "kubejs/server_scripts/appliedenergistics2/removal_ae.js"
-hash = "3ca5281f5e1c64e8b3e651235da2e59e3736ee8c2585ce9245ebabaf3d3a704d"
+hash = "1298406741874818e132884a3624a2baa2e9415c799578a5b1d2fdff67bb7ea2"
 
 [[files]]
 file = "kubejs/server_scripts/create/compacting.js"
@@ -417,12 +417,16 @@ file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
+file = "kubejs/server_scripts/functional_storage/upgrades.js"
+hash = "948efe51c975bb3268d1dddcc03f74d5566ba69d0adb93ea056b153106fd5c0c"
+
+[[files]]
 file = "kubejs/server_scripts/jsg/remove_naq_smelting.js"
 hash = "decdab765192238b5dca41c4abe744819e713ee4225668109d52901fba864cc2"
 
 [[files]]
 file = "kubejs/server_scripts/minecraft/un_gregify.js"
-hash = "18d9eecf79cfa15baaf15092c398f403f3dcf83c39710f4f90fa18b075ddfbe2"
+hash = "fed61075cd2270aca8ca6004077879652d8a692e57e630f46c1cec0db0ec52cb"
 
 [[files]]
 file = "kubejs/startup_scripts/GTCEU/chroniton_hoursglass.js"

@@ -1,12 +1,12 @@
 name = "Qilby Industries"
 author = "Annwan, LunaFrejya"
-version = "beta-5.2.1"
+version = "beta-5.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0266c0ce8fe0df63fbfc78fb2a9c89a95c7c97ce74fd3cf05aa8521744982b96"
+hash = "2b4c4f50c267e69777ad0b10bde4f2a03efb22be59016d8044abf6a49ad86e29"
 
 [versions]
 forge = "47.4.2"

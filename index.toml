@@ -393,6 +393,10 @@ file = "kubejs/server_scripts/create/crushing_wheel.js"
 hash = "87957050e4ece0d40a0fd1e84c15272977f108b9177e1f3b214ce8259881c53b"
 
 [[files]]
+file = "kubejs/server_scripts/create/encased.js"
+hash = "fd46022c1adf1c7006810476ff17773f0b848c56b4303de0361b442166e1595f"
+
+[[files]]
 file = "kubejs/server_scripts/create/lv_circuit_assembly.js"
 hash = "8c9bf7452aaa56f433f8363a6d74b3f0ebb24dc47772aecc4667b6b572891abb"
 
@@ -411,6 +415,10 @@ hash = "2838c30981d724acb8ae6e851348b25884c33fd71f37b4ad9cffd14bf9ad8148"
 [[files]]
 file = "kubejs/server_scripts/create/tweaks.js"
 hash = "e201c28b5dc675b2803ca1d2859e06d7703801d308ad744d7630f050b73aec72"
+
+[[files]]
+file = "kubejs/server_scripts/create/vaults.js"
+hash = "e673bf742fd0444fbe1661149067e0a4d69868c8a23f63ae1af8eacc1cacdc22"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -704,6 +712,11 @@ hash = "99d5eb22099dc1cb4255f2f5886189492c648e938334b17ce47274701fce39c9"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "11b63148016d37d853c9cc4de936a8fbd90d4d8ca1c27b6af18c213346fab9e2"
 metafile = true
@@ -714,8 +727,18 @@ hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
 
 [[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "c15160ee4fd10777373c5c871898811f70a4679efeae52463ada5c6d37abafc3"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "88734d2cc197a34e49027bd32f8b5e2315ae51151723dba51cb72f74f4fb55a9"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "78f51017dd60dab529f9564a4deb3e327dcf54965c87768c6c985d3253d0d008"
 metafile = true
 
 [[files]]
@@ -746,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "8d0f59291d03151b99182e8fe16c62bdb5d53c80eb1f252ddec7695f55761bdf"
 metafile = true
 
 [[files]]
@@ -784,8 +812,18 @@ hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "998b8b054badc82168945dc17d76f9ffc50351e8b41883fc5f9e89baf437ed2b"
+metafile = true
+
+[[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "7a00f66a5ecd5a11b6dafae92d73781c7ec867faf6c74487f383ed83359778d7"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "edb1ddea9ee012f7dffd5c4bf9b3f6b9d33a08bdd029bbf30352ce07a80c5a4c"
 metafile = true
 
 [[files]]
